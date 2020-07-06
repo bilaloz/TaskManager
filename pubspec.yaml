@@ -32,6 +32,10 @@ dependencies:
   simple_gesture_detector: ^0.1.4
   intl: ^0.15.7
   lottie: ^0.4.0+1
+  shared_preferences: ^0.5.7+3
+  equatable: ^1.2.0
+  flutter_bloc: ^5.0.0
+  uuid: ^2.2.0
 dev_dependencies:
   flutter_test:
     sdk: flutter

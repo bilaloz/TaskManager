@@ -2,13 +2,17 @@ import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:intl/date_symbols.dart';
 import 'package:intl/intl.dart';
 import 'package:lottie/lottie.dart';
+import 'package:taskmanager/bloc/data/bloc.dart';
 import 'package:taskmanager/constants/colors_constants.dart';
 import 'package:taskmanager/constants/variable_constants.dart';
-import 'package:intl/date_symbol_data_local.dart' as sy;
+import 'package:taskmanager/model/task_model.dart';
+import 'package:taskmanager/screen/day_button.dart';
+import 'package:taskmanager/screen/success_message.dart';
+import 'package:uuid/uuid.dart';
 
 class AddTaskScreen extends StatefulWidget {
   @override
@@ -21,17 +25,58 @@ class _AddTaskScreenState extends State<AddTaskScreen>
   GlobalKey<DayButtonItemState> rightKey;
   GlobalKey<DayButtonItemState> middleKey;
 
-  TextEditingController headerController = TextEditingController();
-  TextEditingController contentController = TextEditingController();
+  TextEditingController headerController;
+  TextEditingController contentController;
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
 
+    headerController = TextEditingController();
+    contentController = TextEditingController();
     leftKey = GlobalKey<DayButtonItemState>();
     rightKey = GlobalKey<DayButtonItemState>();
     middleKey = GlobalKey<DayButtonItemState>();
+    selectedDate = DateTime.now();
+    selectedTimeOfDay =
+        TimeOfDay(hour: selectedDate.hour, minute: selectedDate.minute);
+  }
+
+  TaskModel screenArguments;
+
+  String header = "Add New Task";
+  String addButtonText = "+ Add Task";
+
+  @override
+  void didChangeDependencies() {
+    // TODO: implement didChangeDependencies
+    super.didChangeDependencies();
+
+    screenArguments = ModalRoute.of(context).settings.arguments;
+
+    if (screenArguments != null) {
+      contentController.text = screenArguments.content;
+      headerController.text = screenArguments.header;
+
+      DateTime dateTime = DateTime.parse(screenArguments.dateTime);
+      selectedDate = dateTime;
+      selectedTimeOfDay =
+          TimeOfDay(hour: selectedDate.hour, minute: selectedDate.hour);
+      header = "Update Task";
+      addButtonText = "Update Now";
+      time = formatTimeOfDay(selectedTimeOfDay);
+      if (isTodayMethod(dateTime)) {
+        activeIndex = 0;
+      } else
+        activeIndex = 2;
+    }
+  }
+
+  bool isTodayMethod(DateTime dateTime) {
+    return (dateTime.day - DateTime.now().day == 0 &&
+        dateTime.year - DateTime.now().year == 0 &&
+        dateTime.month - DateTime.now().month == 0);
   }
 
   @override
@@ -43,6 +88,9 @@ class _AddTaskScreenState extends State<AddTaskScreen>
   String date = DateFormat.yMMMMEEEEd().format(DateTime.now());
   int activeIndex = 0;
   String time = "09:00";
+  DateTime selectedDate;
+
+  TimeOfDay selectedTimeOfDay;
 
   @override
   Widget build(BuildContext context) {
@@ -50,6 +98,9 @@ class _AddTaskScreenState extends State<AddTaskScreen>
       return AppBar(
           backgroundColor: Colors.white,
           elevation: 0,
+          actions: <Widget>[
+            screenArguments != null ? removeButtonWidget() : Container()
+          ],
           leading: InkWell(
             onTap: () {
               Navigator.pop(context);
@@ -90,6 +141,7 @@ class _AddTaskScreenState extends State<AddTaskScreen>
                     index: 0,
                     callback: (index) {
                       selectedItem(index);
+                      selectedDate = DateTime.now();
                       date = DateFormat.yMMMMEEEEd().format(DateTime.now());
                       setState(() {
                         activeIndex = 0;
@@ -102,7 +154,7 @@ class _AddTaskScreenState extends State<AddTaskScreen>
                     index: 1,
                     callback: (index) {
                       selectedItem(index);
-
+                      selectedDate = DateTime.now().add(Duration(days: 1));
                       date = DateFormat.yMMMMEEEEd()
                           .format(DateTime.now().add(Duration(days: 1)));
                       setState(() {
@@ -130,6 +182,7 @@ class _AddTaskScreenState extends State<AddTaskScreen>
                                 child: CupertinoDatePicker(
                                   initialDateTime: DateTime.now(),
                                   onDateTimeChanged: (DateTime dateTime) {
+                                    selectedDate = dateTime;
                                     date = DateFormat.yMMMMEEEEd()
                                         .format(dateTime);
                                   },
@@ -168,106 +221,8 @@ class _AddTaskScreenState extends State<AddTaskScreen>
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
-                    Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: <Widget>[
-                        Row(
-                          crossAxisAlignment: CrossAxisAlignment.center,
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: <Widget>[
-                            Text(
-                              "Add New Task",
-                              style: TextStyle(
-                                fontFamily: AppConstants.fontFamily,
-                                fontWeight: FontWeight.bold,
-                                fontSize: ScreenUtil().setSp(102),
-                              ),
-                            ),
-                            InkWell(
-                                onTap: () async {
-                                  await showModalBottomSheet(
-                                      context: context,
-                                      builder: (BuildContext context) {
-                                        bool is12HoursFormat =
-                                            MediaQuery.of(context)
-                                                .alwaysUse24HourFormat;
-                                        return Container(
-                                            height: MediaQuery.of(context)
-                                                    .copyWith()
-                                                    .size
-                                                    .height /
-                                                3,
-                                            child: CupertinoDatePicker(
-                                              initialDateTime: DateTime.now(),
-                                              onDateTimeChanged:
-                                                  (DateTime dateTime) {
-                                                time = formatTimeOfDay(
-                                                    TimeOfDay(
-                                                        hour: dateTime.hour,
-                                                        minute:
-                                                            dateTime.minute));
-                                              },
-                                              use24hFormat: is12HoursFormat,
-                                              minuteInterval: 1,
-                                              mode:
-                                                  CupertinoDatePickerMode.time,
-                                            ));
-                                      });
-
-                                  setState(() {});
-                                },
-                                child: Lottie.asset(AppConstants.clockAnimation,
-                                    repeat: false, width: 60, height: 60)),
-                          ],
-                        ),
-                        Text(
-                          time,
-                          style: TextStyle(
-                            fontWeight: FontWeight.bold,
-                            color: Colors.grey,
-                            fontFamily: AppConstants.fontFamily,
-                            fontSize: ScreenUtil().setSp(56),
-                          ),
-                        )
-                      ],
-                    ),
-                    Column(
-                      children: <Widget>[
-                        TextField(
-                          onChanged: (value) {
-                            setState(() {});
-                          },
-                          decoration: InputDecoration(
-                              hintText: "e.g. Recharge iphone",
-                              border: InputBorder.none,
-                              focusedBorder: InputBorder.none,
-                              enabledBorder: InputBorder.none,
-                              errorBorder: InputBorder.none,
-                              disabledBorder: InputBorder.none,
-                              hintStyle: TextStyle(
-                                  fontSize: ScreenUtil().setSp(62),
-                                  fontFamily: AppConstants.fontFamily,
-                                  color: Colors.grey.shade400)),
-                          controller: headerController,
-                          style: TextStyle(
-                              fontSize: ScreenUtil().setSp(62),
-                              fontWeight: FontWeight.w500,
-                              fontFamily: AppConstants.fontFamily,
-                              color: Colors.black),
-                        ),
-                        TextField(
-                          controller: contentController,
-                          onChanged: (value) {
-                            setState(() {});
-                          },
-                          style: TextStyle(
-                              fontSize: ScreenUtil().setSp(42),
-                              fontFamily: AppConstants.fontFamily,
-                              fontWeight: FontWeight.w500,
-                              color: Colors.black),
-                        ),
-                      ],
-                    ),
+                    getHeader(),
+                    getBody(),
                     getData(),
                     date != null
                         ? Text(
@@ -319,7 +274,43 @@ class _AddTaskScreenState extends State<AddTaskScreen>
           onPressed: contentController.text.length < 1 ||
                   headerController.text.length < 1
               ? null
-              : () {},
+              : () {
+                  if (screenArguments == null) {
+                    var uuid = Uuid();
+
+                    selectedDate = DateTime(
+                        selectedDate.year,
+                        selectedDate.month,
+                        selectedDate.day,
+                        selectedTimeOfDay.hour,
+                        selectedTimeOfDay.minute);
+
+                    BlocProvider.of<DataBlocBloc>(context).add(AddTaskEvent(
+                        taskModel: TaskModel(
+                            header: headerController.text,
+                            content: contentController.text,
+                            dateTime: selectedDate.toString(),
+                            uuid: uuid.v1(),
+                            isDone: false)));
+                  } else {
+                    selectedDate = DateTime(
+                        selectedDate.year,
+                        selectedDate.month,
+                        selectedDate.day,
+                        selectedTimeOfDay.hour,
+                        selectedTimeOfDay.minute);
+
+                    BlocProvider.of<DataBlocBloc>(context).add(UpdateTaskEvent(
+                        taskModel: TaskModel(
+                            header: headerController.text,
+                            content: contentController.text,
+                            dateTime: selectedDate.toString(),
+                            uuid: screenArguments.uuid,
+                            isDone: screenArguments.isDone)));
+                  }
+                  BlocProvider.of<DataBlocBloc>(context).add(GetTaskList());
+                  successMessage();
+                },
           elevation: 2,
           color: Colors.red,
           textColor: Colors.white,
@@ -340,7 +331,7 @@ class _AddTaskScreenState extends State<AddTaskScreen>
                       ),
                 borderRadius: BorderRadius.all(Radius.circular(80.0))),
             padding: const EdgeInsets.fromLTRB(20, 10, 20, 10),
-            child: const Text('+ Add Task', style: TextStyle(fontSize: 20)),
+            child: Text(addButtonText, style: TextStyle(fontSize: 20)),
           ),
         ),
       ),
@@ -362,80 +353,188 @@ class _AddTaskScreenState extends State<AddTaskScreen>
       middleKey.currentState.updateSelect(false);
     }
   }
-}
 
-class DayButtonItem extends StatefulWidget {
-  @override
-  DayButtonItemState createState() => DayButtonItemState(
-        this.callback,
-      );
+  Widget getHeader() {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: <Widget>[
+        Row(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: <Widget>[
+            Text(
+              header,
+              style: TextStyle(
+                fontFamily: AppConstants.fontFamily,
+                fontWeight: FontWeight.bold,
+                fontSize: ScreenUtil().setSp(102),
+              ),
+            ),
+            InkWell(
+                onTap: () async {
+                  await showModalBottomSheet(
+                      context: context,
+                      builder: (BuildContext context) {
+                        bool is12HoursFormat =
+                            MediaQuery.of(context).alwaysUse24HourFormat;
+                        return Container(
+                            height:
+                                MediaQuery.of(context).copyWith().size.height /
+                                    3,
+                            child: CupertinoDatePicker(
+                              initialDateTime: DateTime.now(),
+                              onDateTimeChanged: (DateTime dateTime) {
+                                selectedTimeOfDay = TimeOfDay(
+                                    hour: dateTime.hour,
+                                    minute: dateTime.minute);
 
-  final int index;
+                                time = formatTimeOfDay(selectedTimeOfDay);
+                              },
+                              use24hFormat: is12HoursFormat,
+                              minuteInterval: 1,
+                              mode: CupertinoDatePickerMode.time,
+                            ));
+                      });
 
-  bool isSelect = false;
-
-  final String buttonName;
-
-  final GlobalKey<DayButtonItemState> key;
-
-  void Function(int) callback;
-
-  DayButtonItem(
-      {@required this.key,
-      @required this.callback,
-      @required this.index,
-      @required this.buttonName,
-      @required this.isSelect});
-}
-
-class DayButtonItemState extends State<DayButtonItem> {
-  void Function(int) callback;
-
-  DayButtonItemState(this.callback);
-
-  updateSelect(bool select) {
-    setState(() {
-      widget.isSelect = select;
-    });
-  }
-
-  @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return InkWell(
-      onTap: () {
-        callback(widget.index);
-      },
-      child: Container(
-        height: ScreenUtil().setHeight(85),
-        width: ScreenUtil().setWidth(250),
-        decoration: BoxDecoration(
-            border: widget.isSelect
-                ? Border.all(color: Colors.green, width: 3)
-                : Border.all(color: Colors.black),
-            gradient: widget.isSelect
-                ? LinearGradient(
-                    colors: [HexColor("FF9100"), HexColor("FF4081")],
-                    begin: Alignment.centerLeft,
-                    end: Alignment.centerRight,
-                  )
-                : null,
-            borderRadius: BorderRadius.circular(10.0)),
-        alignment: AlignmentDirectional.center,
-        child: Text(
-          widget.buttonName,
+                  setState(() {});
+                },
+                child: Lottie.asset(AppConstants.clockAnimation,
+                    repeat: false, width: 60, height: 60)),
+          ],
+        ),
+        Text(
+          time,
           style: TextStyle(
-              color: widget.isSelect ? Colors.white : Colors.black,
+            fontWeight: FontWeight.bold,
+            color: Colors.grey,
+            fontFamily: AppConstants.fontFamily,
+            fontSize: ScreenUtil().setSp(56),
+          ),
+        )
+      ],
+    );
+  }
+
+  Widget getBody() {
+    return Column(
+      children: <Widget>[
+        TextField(
+          onChanged: (value) {
+            setState(() {});
+          },
+          decoration: InputDecoration(
+              hintText: "e.g. Recharge iphone",
+              border: InputBorder.none,
+              focusedBorder: InputBorder.none,
+              enabledBorder: InputBorder.none,
+              errorBorder: InputBorder.none,
+              disabledBorder: InputBorder.none,
+              hintStyle: TextStyle(
+                  fontSize: ScreenUtil().setSp(62),
+                  fontFamily: AppConstants.fontFamily,
+                  color: Colors.grey.shade400)),
+          controller: headerController,
+          style: TextStyle(
+              fontSize: ScreenUtil().setSp(62),
               fontWeight: FontWeight.w500,
               fontFamily: AppConstants.fontFamily,
-              fontSize: ScreenUtil().setSp(38)),
+              color: Colors.black),
         ),
-      ),
+        TextField(
+          controller: contentController,
+          onChanged: (value) {
+            setState(() {});
+          },
+          style: TextStyle(
+              fontSize: ScreenUtil().setSp(42),
+              fontFamily: AppConstants.fontFamily,
+              fontWeight: FontWeight.w500,
+              color: Colors.black),
+        ),
+      ],
     );
+  }
+
+  Widget removeButtonWidget() {
+    return InkWell(
+        onTap: () {
+          Widget cancelButton = FlatButton(
+            child: Text(
+              "Cancel",
+              style: TextStyle(
+                fontFamily: AppConstants.fontFamily,
+                color: AppColor.darkGreen,
+                fontSize: ScreenUtil().setSp(42),
+              ),
+            ),
+            onPressed: () {
+              Navigator.pop(context);
+            },
+          );
+          Widget continueButton = FlatButton(
+            child: Text(
+              "Yes",
+              style: TextStyle(
+                fontFamily: AppConstants.fontFamily,
+                color: AppColor.darkGreen,
+                fontSize: ScreenUtil().setSp(42),
+              ),
+            ),
+            onPressed: () {
+              BlocProvider.of<DataBlocBloc>(context)
+                  .add(RemoveTaskEvent(uuid: screenArguments.uuid));
+              BlocProvider.of<DataBlocBloc>(context).add(GetTaskList());
+              successMessage();
+            },
+          );
+
+          // set up the AlertDialog
+          AlertDialog alert = AlertDialog(
+            title: Text(
+              "Remove Dialog",
+              style: TextStyle(
+                fontFamily: AppConstants.fontFamily,
+                color: Colors.black,
+                fontSize: ScreenUtil().setSp(52),
+              ),
+            ),
+            content: Text(
+              "Are you sure ?",
+              style: TextStyle(
+                fontFamily: AppConstants.fontFamily,
+                fontSize: ScreenUtil().setSp(42),
+              ),
+            ),
+            actions: [
+              cancelButton,
+              continueButton,
+            ],
+          );
+
+          showCupertinoDialog(
+              context: context,
+              builder: (context) {
+                return alert;
+              });
+        },
+        child: Container(
+          margin: EdgeInsets.only(right: ScreenUtil().setWidth(40)),
+          child: Icon(
+            Icons.restore_from_trash,
+            color: Colors.black,
+            size: 33,
+          ),
+        ));
+  }
+
+  successMessage() {
+    Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(
+            builder: (context) => SuccessErrorOverlay(
+                  isCorrect: true,
+                  backgroundColor: Color.fromRGBO(59, 53, 96, 0.9),
+                  onTap: () {},
+                )));
   }
 }
