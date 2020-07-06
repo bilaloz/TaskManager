@@ -2,6 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:intl/intl.dart';
@@ -31,6 +32,33 @@ class _AddTaskScreenState extends State<AddTaskScreen>
   @override
   void initState() {
     // TODO: implement initState
+
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      screenArguments = ModalRoute.of(context).settings.arguments;
+
+      if (screenArguments != null) {
+        contentController.text = screenArguments.content;
+        headerController.text = screenArguments.header;
+
+        DateTime dateTime = DateTime.parse(screenArguments.dateTime);
+        selectedDate = dateTime;
+        selectedTimeOfDay =
+            TimeOfDay(hour: selectedDate.hour, minute: selectedDate.hour);
+        header = "Update Task";
+        addButtonText = "Update Now";
+        time = formatTimeOfDay(selectedTimeOfDay);
+        if (isTodayMethod(dateTime)) {
+          activeIndex = 0;
+        } else
+          activeIndex = 2;
+      }
+      setState(() {
+
+      });
+
+
+    });
+
     super.initState();
 
     headerController = TextEditingController();
@@ -41,37 +69,15 @@ class _AddTaskScreenState extends State<AddTaskScreen>
     selectedDate = DateTime.now();
     selectedTimeOfDay =
         TimeOfDay(hour: selectedDate.hour, minute: selectedDate.minute);
+
+
+
   }
 
   TaskModel screenArguments;
 
   String header = "Add New Task";
   String addButtonText = "+ Add Task";
-
-  @override
-  void didChangeDependencies() {
-    // TODO: implement didChangeDependencies
-    super.didChangeDependencies();
-
-    screenArguments = ModalRoute.of(context).settings.arguments;
-
-    if (screenArguments != null) {
-      contentController.text = screenArguments.content;
-      headerController.text = screenArguments.header;
-
-      DateTime dateTime = DateTime.parse(screenArguments.dateTime);
-      selectedDate = dateTime;
-      selectedTimeOfDay =
-          TimeOfDay(hour: selectedDate.hour, minute: selectedDate.hour);
-      header = "Update Task";
-      addButtonText = "Update Now";
-      time = formatTimeOfDay(selectedTimeOfDay);
-      if (isTodayMethod(dateTime)) {
-        activeIndex = 0;
-      } else
-        activeIndex = 2;
-    }
-  }
 
   bool isTodayMethod(DateTime dateTime) {
     return (dateTime.day - DateTime.now().day == 0 &&

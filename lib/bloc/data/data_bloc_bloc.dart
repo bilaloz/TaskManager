@@ -22,11 +22,12 @@ class DataBlocBloc extends Bloc<DataBlocEvent, DataBlocState> {
       yield DataLoadedState(taskList: taskList);
     } else if (event is AddTaskEvent) {
       List<TaskModel> taskModel = List<TaskModel>();
-      if (currentState is DataLoadedState) taskModel = currentState.taskList;
+      if (currentState is DataLoadedState && currentState.taskList != null)
+        taskModel = currentState.taskList;
       taskModel.add(event.taskModel);
-      await saveTaskModel(taskModel);
-    }
-    else if (event is UpdateTaskEvent) {
+      bool isSuccess = await saveTaskModel(taskModel);
+      print(isSuccess.toString());
+    } else if (event is UpdateTaskEvent) {
       List<TaskModel> taskModel = List<TaskModel>();
       if (currentState is DataLoadedState) {
         taskModel = currentState.taskList;
@@ -38,24 +39,24 @@ class DataBlocBloc extends Bloc<DataBlocEvent, DataBlocState> {
         if (updateModel != null) {
           taskModel.remove(updateModel);
           taskModel.add(event.taskModel);
-          taskModel.forEach((element) {print(element.header);});
+          taskModel.forEach((element) {
+            print(element.header);
+          });
           await saveTaskModel(taskModel);
         }
       }
-    }
-    else if (event is RemoveTaskEvent) {
+    } else if (event is RemoveTaskEvent) {
       List<TaskModel> taskModel = List<TaskModel>();
       if (currentState is DataLoadedState) {
         taskModel = currentState.taskList;
 
         TaskModel updateModel = taskModel.firstWhere(
-                (element) => element.uuid == event.uuid,
+            (element) => element.uuid == event.uuid,
             orElse: () => null);
 
         if (updateModel != null) {
           taskModel.remove(updateModel);
           await saveTaskModel(taskModel);
-
         }
       }
     }
