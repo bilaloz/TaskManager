@@ -1,10 +1,17 @@
 # taskmanager
 
-https://icalendar.org/ ICalendar TaskManager ve tekrarlayan eventler için yani sonu belli olmayan işler için örneğin telefonumuzda oluşturduğumuz alarm (Her gün beni 10 da uyandır) kullanılır bu formatının kullanılmasındaki asıl amaç çoğul verikaydedilmesini yani 1 iş için atıyorum 365 task   oluşturup database kaydetmektense tek bir kayıtta bu standart yapıya çözüm bulabiliriz. Ayrıca verilerin başka platformlara senkronizasyonu atıyorum uygulamayı google takvim, microsoft takvim gibi spesifik uygulamar için en optime çözümü sunduğu için bu yapıyı kullanmak oldukça mantıklıdır. Database kayıt ederken de enum keyler ve standart formattaki tarih zamanlar ile kayıt edilmek doğru bir yaklaşımdır. 
+
+Uygulamanın videosunu : https://drive.google.com/file/d/1CdCQRIvgNjdka1hbswOB_1LuR-j_uBoN/view?usp=sharing 
+
+
+<a href="https://ibb.co/t2BmpLx"><img src="https://i.ibb.co/VCVjYwQ/image.png" alt="image" border="0"></a>
+
+https://icalendar.org/ ICalendar TaskManager ve tekrarlayan eventler için yani sonu belli olmayan işler için örneğin telefonumuzda oluşturduğumuz alarm (Her gün beni 10 da uyandır) kullanılır bu formatının kullanılmasındaki asıl amaç çoğul verikaydedilmesini yani 1 iş için örneğin 365 task   oluşturup database kaydetmektense tek bir kayıtta bu standart yapıya çözüm bulabiliriz. Ayrıca verilerin başka platformlara senkronizasyonu örneğin uygulamayı google takvim, microsoft takvim gibi spesifik uygulamar için en optime çözümü sunduğu için bu yapıyı kullanmak oldukça mantıklıdır. Database kayıt ederken de enum keyler ve standart formattaki tarih zamanlar ile kayıt edilmek doğru bir yaklaşımdır. 
 
 Ben şuanlık bu yapıyı kullanmadım çünkü implementasyonu biraz uzun ve zaman maliyetini göz önünde bulundurmam gerekliydi. Daha önce Reminder ile alakalı bir app yaptığımda bu yapıyı kullanmıştım o yüzden zamanım olsa yine bu yapıyı kullanırdım.
 
 ## Getting Started
+
 
 Uygulamanın özellikleri : 
 
