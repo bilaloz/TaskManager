@@ -14,7 +14,7 @@ Uygulamanın özellikleri :
 
 Yapılması Gerekenler:
  
-  -Biraz refactor gerekli  : Business Logic Component (BLoC) pattern kullanarak iş yükümü dağıttım ama vakit olsaydı daha optime olarak çalışmasını sağlamayabilirdim. Widgetları da biraz daha ekranlara bölerek class' lar rahatlatılabilir.
+  -Biraz refactor gerekli  : Business Logic Component (BLoC) pattern kullanarak iş yükümü dağıttım ama vakit olsaydı daha optime olarak çalışmasını sağlamayabilirdim. Widgetları da biraz daha ekranlara bölerek class' lar rahatlatılabilir ve tabikide test kodu yazılmalı.
   
 Kullandığım Paketler:
   -BLOC -> Business Logic Component (BLoC) pattern,
