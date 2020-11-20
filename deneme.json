@@ -136,6 +136,28 @@
          "careRules":{
             "water":"FREQ=DAILY;INTERVAL=1;"
          }
+      },
+       {
+         "name":"Alocasia Nebula Imperialis",
+         "topic":"alocasia",
+         "image":"https:\/\/plantiary.com\/api\/images\/plants\/v1\/alocasia-nebula-imperialis.jpg",
+         "title":{
+            "en":[
+               "Jewel Alocasia",
+               "Alocasia Nebula Imperialis"
+            ],
+            "tr":[
+               "Huzur Soka\u011f\u0131",
+               "Alocasia Nebula Imperialis"
+            ]
+         },
+         "notes":[
+            
+         ],
+         "location":"INDOOR",
+         "careRules":{
+            "water":"FREQ=DAILY;INTERVAL=3;"
+         }
       }
    ]
 }
