@@ -151,7 +151,7 @@
                "Alocasia Nebula Imperialis"
             ]
          },
-         "notes":{},
+         "notes":null,
          "location":"INDOOR",
          "careRules":{
             "water":"FREQ=DAILY;INTERVAL=3;"
