@@ -1,7 +1,7 @@
 {
   "version": 8,
   "remoteData": [
-    {
+     {
       "name": "Adenium Obesum",
       "topic": "adenium",
       "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/adenium-obesum.jpg",
@@ -742,6 +742,277 @@
       },
       "notes": {
         "en": "These plants are very easy to grow, make excellent potted houseplant and hanging plants indoors. Although the plant does produce small flowers and berries when grown outdoors, rarely will Grape ivy flower when kept as an indoor plant."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Clerodendrum Thomsoniae",
+      "topic": "clerodendrum",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/clerodendrum-thomsoniae.jpg",
+      "title": {
+        "en": [
+          "Bleeding Heart Vine",
+          "Clerodendrum Thomsoniae"
+        ],
+        "tr": [
+          "Kanayan Kalpler",
+          "Clerodendrum Thomsoniae"
+        ]
+      },
+      "notes": {
+        "en": "Clerodendrum performs best in partial shade or dappled sunlight, but it may tolerate full sunlight with plenty of moisture."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Clivia Miniata",
+      "topic": "clivia",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/clivia-miniata.jpg",
+      "title": {
+        "en": [
+          "Clivia Plant",
+          "Kaffir Lily",
+          "Clivia Miniata"
+        ],
+        "tr": [
+          "Klivya",
+          "Kafir Zambak",
+          "Clivia Miniata"
+        ]
+      },
+      "notes": {
+        "en": "Allowing a Clivia plant to rest for about 6 weeks during the winter, in a cool area, helps it flower the following year. After this resting period, move the plant back into a bright, warm area."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=5;"
+      }
+    },
+    {
+      "name": "Codiaeum Variegatum",
+      "topic": "codiaeum",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/codiaeum-variegatum.jpg",
+      "title": {
+        "en": [
+          "Croton Plant",
+          "Codiaeum Variegatum"
+        ],
+        "tr": [
+          "Kroton",
+          "Codiaeum Variegatum"
+        ]
+      },
+      "notes": {
+        "en": "With its magnificent foliage in rich autumn colors, a garden croton exudes in living spaces comfort and good mood. The wonderful varieties of Codiaeum variegatum, with the impressively ornamental leaves, act also as an invigorating air freshener."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=5;"
+      }
+    },
+    {
+      "name": "Coffea Arabica",
+      "topic": "coffea",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/coffea-arabica.jpg",
+      "title": {
+        "en": [
+          "Coffee Plant",
+          "Coffea Arabica"
+        ],
+        "tr": [
+          "Kahve",
+          "Coffea Arabica"
+        ]
+      },
+      "notes": {
+        "en": "The best environment in which to grow coffee plants is to mimic its natural conditions found on a tropical, mid-elevation mountainside: plenty of water with good drainage, high humidity, relatively cool temperatures, and rich, slightly acidic soil."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Columnea Nematanthus",
+      "topic": "columnea",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/columnea-nematanthus.jpg",
+      "title": {
+        "en": [
+          "Goldfish Plant",
+          "Columnea Nematanthus"
+        ],
+        "tr": [
+          "Japon Bal\u0131\u011f\u0131 \u00c7i\u00e7e\u011fi",
+          "Columnea Nematanthus"
+        ]
+      },
+      "notes": {
+        "en": "Goldfish Plants do well in temperatures between 65-85 degrees. Intense heat burns the leaves of a Goldfish Plant. Try to keep a Goldfish Plants out of drafts and away from heaters."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Cordyline Terminalis",
+      "topic": "cordyline",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/cordyline-terminalis.jpg",
+      "title": {
+        "en": [
+          "Hawaiian Ti Plant",
+          "Cordyline Terminalis"
+        ],
+        "tr": [
+          "Kordilin",
+          "Cordyline Terminalis"
+        ]
+      },
+      "notes": {
+        "en": "Cordyline thrives in temperatures above 62 degrees Fahrenheit and prefers a high humidity environment. Avoid putting the plant near a cold draft like a window."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Crassula Ovata",
+      "topic": "crassula",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/crassula-ovata.jpg",
+      "title": {
+        "en": [
+          "Jade Plant",
+          "Money Plant",
+          "Crassula Ovata"
+        ],
+        "tr": [
+          "M\u00fccevher \u00c7i\u00e7e\u011fi",
+          "Para \u00c7i\u00e7e\u011fi",
+          "Crassula Ovata"
+        ]
+      },
+      "notes": {
+        "en": "The Jade is grown indoors and borrows itself from the bonsai in the way it grows like a miniature tree, with a trunk and branches."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Ctenanthe Lubbersiana",
+      "topic": "ctenanthe",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/ctenanthe-lubbersiana.jpg",
+      "title": {
+        "en": [
+          "Never Never Plant",
+          "Brazilian Snow Plant",
+          "Ctenanthe Lubbersiana"
+        ],
+        "tr": [
+          "Ctenanthe Dua \u00c7i\u00e7e\u011fi",
+          "Ctenanthe Lubbersiana"
+        ]
+      },
+      "notes": {
+        "en": "They are highly susceptible to frosts, and can suffer irreparable damage whenever outside temperatures drop below 55\u00b0F, or 13\u00b0C."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Cycas Revoluta",
+      "topic": "cycas",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/cycas-revoluta.jpg",
+      "title": {
+        "en": [
+          "Sago Palm",
+          "Cycas Revoluta"
+        ],
+        "tr": [
+          "Yalanc\u0131 Palmiye",
+          "Cycas Revoluta"
+        ]
+      },
+      "notes": {
+        "en": "Cycads generally prefer very bright light but will tolerate low light. They prefer staying on the dry side as excessive watering leads to rotting roots."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Cyclamen Persicum",
+      "topic": "cyclamen",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/cyclamen-persicum.jpg",
+      "title": {
+        "en": [
+          "Cyclamen Plant",
+          "Cyclamen Persicum"
+        ],
+        "tr": [
+          "Tav\u015fan Kula\u011f\u0131",
+          "Siklamen",
+          "Cyclamen Persicum"
+        ]
+      },
+      "notes": {
+        "en": "Cool temperatures from 50\u00b0F\/10\u00b0C - 65\u00b0F\/18\u00b0C are ideal, a cool room without central heating is required if you want the flowers to last long. If a room is above these temperatures just find the coolest spot within the room."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Cymbidium Orchidaceae",
+      "topic": "cymbidium",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/cymbidium-orchidaceae.jpg",
+      "title": {
+        "en": [
+          "Orchid Cymbidium",
+          "Cymbidium Orchidaceae"
+        ],
+        "tr": [
+          "Simbidyum Orkide",
+          "Cymbidium Orchidaceae"
+        ]
+      },
+      "notes": {
+        "en": "Cymbidiums bloom best when pot-bound so don\u2019t rush to repot them unless they really need it. Only go up 1 pot size and be sure that pot is clean as these orchids are susceptible to bacterial infection."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
+    },
+    {
+      "name": "Davallia Fejeensis",
+      "topic": "davallia",
+      "image": "https:\/\/plantiary.com\/api\/images\/plants\/v1\/davallia-fejeensis.jpg",
+      "title": {
+        "en": [
+          "Rabbit\u2019s Foot Fern",
+          "Hare's Foot Fern",
+          "Davallia Fejeensis"
+        ],
+        "tr": [
+          "Tav\u015fan Aya\u011f\u0131 E\u011freltiotu",
+          "Davallia Fejeensis"
+        ]
+      },
+      "notes": {
+        "en": "The rabbit foot fern may need more frequent watering when the temperature rises above 75\u00b0 degrees Fahrenheit (24\u00b0 C) and less watering when it falls below 60\u00b0 degrees Fahrenheit (16\u00b0 C)."
       },
       "location": "INDOOR",
       "careRules": {
