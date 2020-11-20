@@ -22,6 +22,28 @@
       "careRules": {
         "water": "FREQ=DAILY;INTERVAL=3;"
       }
+    },
+   {
+      "name": "Adenium Obesum",
+      "topic": "adenium",
+      "image": "https://plantiary.com/api/images/plants/v1/adenium-obesum.jpg",
+      "title": {
+        "en": [
+          "Desert Rose Plant",
+          "Adenium Obesum"
+        ],
+        "tr": [
+          "Çöl Gülü",
+          "Adenium Obesum"
+        ]
+      },
+      "notes": {
+        "en": "The one thing that will kill these plants quickly is improper watering. They are succulents but are used to rainy periods during which they grow, followed by a dormant, dry period."
+      },
+      "location": "INDOOR",
+      "careRules": {
+        "water": "FREQ=DAILY;INTERVAL=3;"
+      }
     }
   ]
 }
