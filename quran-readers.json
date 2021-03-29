@@ -1,0 +1,466 @@
+{
+  "data": [
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/abdulbaset_gapless.png",
+      "isPremium": true,
+      "priority": 0,
+      "translates": {
+        "en": "Minshawi Murattal (gapless)",
+        "ar": "المنشاوي (متصل)",
+        "de": "Minshawi Murattal (lückenlos)",
+        "my": "Minshawi Murattal (tiada jurang)",
+        "fa": "المنشاوي (بی‌وقفه)",
+        "pt": "Menshawi Morattal (sem intervalo)",
+        "ru": "Мухаммад Сиддик аль-Миншави (безинтервальное)",
+        "es": "Minshawi Murattal (sin pausas)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/abdulbaset_mujawwad_gapless.png",
+      "isPremium": true,
+      "priority": 1,
+      "translates": {
+        "en": "Husary (gapless)",
+        "ar": "الحصري (متصل)",
+        "de": "Husary (lückenlos)",
+        "my": "Husary (tiada jurang)",
+        "fa": "الحصري (بی‌وقفه)",
+        "pt": "Hosary (sem intervalo)",
+        "ru": "Махмуд Халиль аль-Хусари (безинтервальное)",
+        "es": "Husary (sin pausas)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/abdulbaset_mujawwad.png",
+      "isPremium": true,
+      "priority": 2,
+      "translates": {
+        "en": "Abdurrahman As-Sudais (gapless)",
+        "ar": "عبد الرحمن السديس (متصل)",
+        "de": "Abdurrahman As-Sudais (lückenlos)",
+        "my": "Abdurrahman As-Sudais (tiada jurang)",
+        "fa": "عبدالرحمن السديس (بی‌وقفه)",
+        "pt": "Abdurrahman As-Sodais (sem intervalo)",
+        "ru": "Абдуррахман ас-Судайс (безинтервальное)",
+        "es": "Abdurrahman As-Sudais (sin pausas)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/abdulbaset.png",
+      "isPremium": true,
+      "priority": 3,
+      "translates": {
+        "en": "Nasser Al Qatami (gapless)",
+        "ar": "ناصر القطامي (متصل)",
+        "de": "Nasser Al Qatami (lückenlos)",
+        "my": "Nasser Al Qatami (tiada jurang)",
+        "fa": "ناصر القطامي (بی‌وقفه)",
+        "pt": "Nasser Al Qatami (sem intervalo)",
+        "ru": "Насер Аль Катами (безинтервальное)",
+        "es": "Nasser Al Qatami (sin pausas)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/afasy.png",
+      "isPremium": true,
+      "priority": 4,
+      "translates": {
+        "en": "Abd Al-Basit",
+        "ar": "عبد الباسط عبد الصمد",
+        "de": "Abd Al-Basit",
+        "my": "Abd Al-Basit",
+        "fa": "عبدالباسط عبدالصمد",
+        "pt": "Abd Al-Baset",
+        "ru": "Абдуль-Басит Абдус-Самад",
+        "es": "Abd Al-Basit"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/ahmad_nauina_gapless.png",
+      "isPremium": true,
+      "priority": 5,
+      "translates": {
+        "en": "Abd Al-Basit Mujawwad",
+        "ar": "عبد الباسط عبد الصمد مجود",
+        "de": "Abd Al-Basit Mujawwad",
+        "my": "Abd Al-Basit Mujawwad",
+        "fa": "عبدالباسط عبدالصمد مجود",
+        "pt": "Abd Al-Baset Mujawwad",
+        "ru": "Абдуль-Басит Абдус-Самад (муджаввад)",
+        "es": "Abd Al-Basit Mujawwad"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/akram_al_alaqmi.png",
+      "isPremium": true,
+      "priority": 6,
+      "translates": {
+        "en": "Abdullah Basfar",
+        "ar": "عبد الله بصفر",
+        "de": "Abdullah Basfar",
+        "my": "Abdullah Basfar",
+        "fa": "عبدالله بصفر",
+        "pt": "Abdullah Basfar",
+        "ru": "Абдуллах Басфар",
+        "es": "Abdullah Basfar"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/ali_hajjaj_alsouasi_gapless.png",
+      "isPremium": true,
+      "priority": 7,
+      "translates": {
+        "en": "Abdurrahmaan As-Sudais",
+        "ar": "عبد الرحمن السديس",
+        "de": "Abdurrahmaan As-Sudais",
+        "my": "Abdurrahmaan As-Sudais",
+        "fa": "عبدالرحمن السديس",
+        "pt": "Abdurrahmaan As-Sudais",
+        "ru": "Абдуррахман ас-Судайс",
+        "es": "Abdurrahmaan As-Sudais"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/ayyoub.png",
+      "isPremium": true,
+      "priority": 8,
+      "translates": {
+        "en": "Abu Bakr Ash-Shatri",
+        "ar": "أبو بكر الشاطري",
+        "de": "Abu Bakr Ash-Shatri",
+        "my": "Abu Bakr Ash-Shatri",
+        "fa": "أبوبكر الشاطري",
+        "pt": "Abu Bakr Ash-Shatri",
+        "ru": "бу Бакр аш-Шатри",
+        "es": "Abu Bakr Ash-Shatri"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/aziz_alili_gapless.png",
+      "isPremium": true,
+      "priority": 9,
+      "translates": {
+        "en": "Mishary Al-Afasy",
+        "ar": "مشاري بن راشد العفاسي",
+        "de": "Mishary Al-Afasy",
+        "my": "Mishary Al-Afasy",
+        "fa": "مشاري بن راشد العفاسي",
+        "pt": "Meshary Al-Afasy",
+        "ru": "Мишари Рашид Аль-Афаси",
+        "es": "Mishary Al-Afasy"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/basfar.png",
+      "isPremium": true,
+      "priority": 10,
+      "translates": {
+        "en": "Saad Al-Ghamdi",
+        "ar": "سعد الغامدي",
+        "de": "Saad Al-Ghamdi",
+        "my": "Saad Al-Ghamdi",
+        "fa": "سعد الغامدي",
+        "pt": "Saad Al-Ghamedi",
+        "ru": "Саид аль Гамиди",
+        "es": "Saad Al-Ghamdi"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/dussary.png",
+      "isPremium": true,
+      "priority": 11,
+      "translates": {
+        "en": "Ibrahim Walk (English Trans.)",
+        "ar": "إبراهيم والك (ترجمة انجليزية)",
+        "de": "Ibrahim Walk (Englische Übersetzung)",
+        "my": "Ibrahim Walk (English Trans.)",
+        "fa": "إبراهيم والك (ترجمه انگلیسی)",
+        "pt": "Ibrahim Walk (Trad. Inglês)",
+        "ru": "Ibrahim Walk (English Trans.)",
+        "es": "Ibrahim Walk (traducción al inglés)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/empty.png",
+      "isPremium": true,
+      "priority": 12,
+      "translates": {
+        "en": "Hani Ar-Rifai",
+        "ar": "هاني الرفاعي",
+        "de": "Hani Ar-Rifai",
+        "my": "Hani Ar-Rifai",
+        "fa": "هاني الرفاعي",
+        "pt": "Hani Ar-Rifai",
+        "ru": "Хани ар-Рифаи",
+        "es": "Hani Ar-Rifai"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/hani_rifai.png",
+      "isPremium": true,
+      "priority": 13,
+      "translates": {
+        "en": "Husary Mujawwad",
+        "ar": "الحصري مجود",
+        "de": "Husary Mujawwad",
+        "my": "Husary Mujawwad",
+        "fa": "الحصري مجود",
+        "pt": "Hosary Mujawwad",
+        "ru": "Махмуд Халиль аль-Хусари (муджаввад)",
+        "es": "Husary Mujawwad"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/hudhayfi.png",
+      "isPremium": true,
+      "priority": 14,
+      "translates": {
+        "en": "Ali Al-Hudhaify",
+        "ar": "الحذيفي",
+        "de": "Ali Al-Hudhaify",
+        "my": "Ali Al-Hudhaify",
+        "fa": "الحذيفي",
+        "pt": "Ali Al-Hudhaify",
+        "ru": "Али Аль-Хузайфи",
+        "es": "Ali Al-Hudhaify"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/husary_gapless.png",
+      "isPremium": true,
+      "priority": 15,
+      "translates": {
+        "en": "Maher Al Muaiqly",
+        "ar": "ماهر المعيقلي",
+        "de": "Maher Al Muaiqly",
+        "my": "Maher Al Muaiqly",
+        "fa": "ماهر المعيلقي",
+        "pt": "Maher Al Muaiqly",
+        "ru": "Махир Аль-Му\\'айкли",
+        "es": "Maher Al Muaiqly"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/husary_mujawwad.png",
+      "isPremium": true,
+      "priority": 16,
+      "translates": {
+        "en": "Minshawy Mujawwad",
+        "ar": "المنشاوي مجود",
+        "de": "Minshawy Mujawwad",
+        "my": "Minshawy Mujawwad",
+        "fa": "المنشاوي مجود",
+        "pt": "Menshawy Mujawwad",
+        "ru": "Мухаммад Сиддик аль-Миншави (муджаввад)",
+        "es": "Minshawy Mujawwad"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/jibreel.png",
+      "isPremium": true,
+      "priority": 17,
+      "translates": {
+        "en": "Mohammad al Tablaway",
+        "ar": "محمد الطبلاوي",
+        "de": "Mohammad al Tablaway",
+        "my": "Mohammad al Tablaway",
+        "fa": "محمد الطبلاوي",
+        "pt": "Mohammad al Tablaway",
+        "ru": "Мухаммад Аль Таблауи",
+        "es": "Mohammad al Tablaway"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/minshawi_mujawwad.png",
+      "isPremium": true,
+      "priority": 18,
+      "translates": {
+        "en": "Muhammad Ayyoub",
+        "ar": "محمد أيوب",
+        "de": "Muhammad Ayyoub",
+        "my": "Muhammad Ayyoub",
+        "fa": "محمد أيوب",
+        "pt": "Muhammad Ayyoub",
+        "ru": "Мухаммад Аюб",
+        "es": "Muhammad Ayyoub"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/minshawi_murattal_gapless.png",
+      "isPremium": true,
+      "priority": 19,
+      "translates": {
+        "en": "Muhammad Jibreel",
+        "ar": "محمد جبريل",
+        "de": "Muhammad Jibreel",
+        "my": "Muhammad Jibreel",
+        "fa": "محمد جبريل",
+        "pt": "Muhammad Jebreel",
+        "ru": "Мухаммад Джибриль",
+        "es": "Muhammad Jibreel"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/mohammad_altablawi_gapless.png",
+      "isPremium": true,
+      "priority": 20,
+      "translates": {
+        "en": "Saood Ash-Shuraym",
+        "ar": "سعود الشريم",
+        "de": "Saood Ash-Shuraym",
+        "my": "Saood Ash-Shuraym",
+        "fa": "سعود الشريم",
+        "pt": "Saood Ash-Shoraym",
+        "ru": "Сауд аш-Шурайм",
+        "es": "Saood Ash-Shuraym"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/muaiqly.png",
+      "isPremium": true,
+      "priority": 21,
+      "translates": {
+        "en": "Yasser Ad-Dussary",
+        "ar": "ياسر الدوسري",
+        "de": "Yasser Ad-Dussary",
+        "my": "Yasser Ad-Dussary",
+        "fa": "ياسر الدوسري",
+        "pt": "Yasser Ad-Dossary",
+        "ru": "Ясир Ад-Даусари",
+        "es": "Yasser Ad-Dussary"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/qatami_gapless.png",
+      "isPremium": true,
+      "priority": 22,
+      "translates": {
+        "en": "Abd Al-Basit (gapless)",
+        "ar": "عبد الباسط (متصل)",
+        "fa": "عبدالباسط (بی‌وقفه)",
+        "pt": "Abd Al-Baset (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/saad_al_ghamdi.png",
+      "isPremium": true,
+      "priority": 23,
+      "translates": {
+        "en": "Abd Al-Basit Mujawwad (gapless)",
+        "ar": "عبد الباسط مجود (متصل)",
+        "fa": "عبدالباسط مجود (بی‌وقفه)",
+        "pt": "Abd Al-Basit Mujawwad (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/sahl_yaseen_gapless.png",
+      "isPremium": true,
+      "priority": 24,
+      "translates": {
+        "en": "Aziz Alili (gapless)",
+        "ar": "عزيز عليلي (متصل)",
+        "fa": "عزيز عليلي (بی‌وقفه)",
+        "pt": "Aziz Alili (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/salah_budair_gapless.png",
+      "isPremium": true,
+      "priority": 25,
+      "translates": {
+        "en": "Salah Budair (gapless)",
+        "ar": "صلاح بدير (متصل)",
+        "fa": "صلاح بدير (بی‌وقفه)",
+        "pt": "Salah Budair (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/shatri_gapless.png",
+      "isPremium": true,
+      "priority": 26,
+      "translates": {
+        "en": "Saood Ash-Shuraym (gapless)",
+        "ar": "سعود الشريم (متصل)",
+        "fa": "سعود الشريم (بی‌وقفه)",
+        "pt": "Saood Ash-Shuraym (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/shatri.png",
+      "isPremium": true,
+      "priority": 27,
+      "translates": {
+        "en": "Yasser Ad-Dussary (gapless)",
+        "ar": "ياسر الدوسري (متصل)",
+        "fa": "ياسر الدوسري (بی‌وقفه)",
+        "pt": "Yasser Ad-Dossary (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/shuraym_gapless.png",
+      "isPremium": true,
+      "priority": 28,
+      "translates": {
+        "en": "Mohammad al Tablawy (gapless)",
+        "ar": "محمد الطبلاوي ( متصل)",
+        "fa": "محمد الطبلاوي (بی‌وقفه)",
+        "pt": "Mohammad al Tablawy (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/shuraym.png",
+      "isPremium": true,
+      "priority": 29,
+      "translates": {
+        "en": "Sahl yaseen (gapless)",
+        "ar": "سهل ياسين (متصل)",
+        "fa": "سهل ياسين (بی‌وقفه)",
+        "pt": "Sahl Yasin (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/sudais_gapless.png",
+      "isPremium": true,
+      "priority": 30,
+      "translates": {
+        "en": "Abu Bakr Ash-Shatri (gapless)",
+        "ar": "أبو بكر الشاطري (متصل)",
+        "fa": "أبوبكر الشاطري (بی‌وقفه)",
+        "pt": "Abu Bakr Ash-Shatri (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/tablawy.png",
+      "isPremium": true,
+      "priority": 31,
+      "translates": {
+        "en": "Ahmad Nauina (gapless)",
+        "ar": "أحمد نعينع (متصل)",
+        "fa": "أحمد نعينع (بی‌وقفه)",
+        "pt": "Ahmad Nauina (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/walk.png",
+      "isPremium": true,
+      "priority": 32,
+      "translates": {
+        "en": "Akram Al-Alaqmi (gapless)",
+        "ar": "اكرم العلقمي (متصل)",
+        "fa": "أكرم العلقمي (بی‌وقفه)",
+        "pt": "Akram Al-Alaqmi (sem intervalo)"
+      }
+    },
+    {
+      "image": "https://cdn.muslimassistant.com/translations/readers/thumbnail/yasser_dussary_gapless.png",
+      "isPremium": true,
+      "priority": 33,
+      "translates": {
+        "en": "Ali Hajjaj Alsouasi (gapless)",
+        "ar": "علي حجاج السويسي (متصل)",
+        "fa": "علي حجاج السويسي (بی‌وقفه)",
+        "pt": "Ali Hajjaj Alsouasi (sem intervalo)"
+      }
+    }
+  ]
+}
