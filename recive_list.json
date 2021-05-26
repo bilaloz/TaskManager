@@ -221,66 +221,6 @@
                 "magnesium": 102.0,
                 "iren": 10.7
             }
-        },
-        {
-            "image": "",
-            "title": {
-                "tr": "",
-                "en": ""
-            },
-            "time": {
-                "tr": "",
-                "en": ""
-            },
-            "difficulty": {
-                "tr": "",
-                "en": ""
-            },
-            "calories": {
-                "tr": "",
-                "en": ""
-            },
-            "materials": {
-                "tr": [
-                    "",
-                    ""
-                ],
-                "en": [
-                    "",
-                    ""
-                ]
-            },
-            "recipe": {
-                "tr": [
-                    "",
-                    ""
-                ],
-                "en": [
-                    "",
-                    ""
-                ]
-            },
-            "nutritive_value": {
-                "total_fat": 1.0,
-                "saturated_fat": 1.0,
-                "polyunsaturated_fat": 1.0,
-                "monounsaturated_fat": 1.0,
-                "cholesterol": 1.0,
-                "sodium": 1.0,
-                "potassium": 1.0,
-                "carbohydrate": 1.0,
-                "dietary_fiber": 1.0,
-                "sugar": 1.0,
-                "protein": 1.0,
-                "a_vitamin": 1.0,
-                "b_vitamin": 1.0,
-                "c_vitamin": 1.0,
-                "d_vitamin": 1.0,
-                "calcium": 1.0,
-                "cobalamin": 1.0,
-                "magnesium": 1.0,
-                "iren": 1.0
-            }
         }
     ]
 }
