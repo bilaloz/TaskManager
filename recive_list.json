@@ -10,18 +10,13 @@
                 "tr": "Ispanaklı Lavaş",
                 "en": "Spinach Lavash "
             },
-            "time": {
-                "tr": "10 dk",
-                "en": "10 min"
-            },
-            "difficulty": {
-                "tr": "Kolay",
-                "en": "Easy"
-            },
-            "calories": {
+            "time": "10",
+            "difficulty": "easy",
+            "caloriesDesc": {
                 "tr": "1 adet 100 kcal",
                 "en": "1 piece 100 kcal"
             },
+            "calories": "100",
             "materials": {
                 "tr": [
                     "1 su bardağı tam buğday unu",
@@ -88,18 +83,13 @@
                 "tr": "Fit Supangle",
                 "en": "Fit Supangle"
             },
-            "time": {
-                "tr": "30 dk",
-                "en": "30 min"
-            },
-            "difficulty": {
-                "tr": "Kolay",
-                "en": "Easy"
-            },
-            "calories": {
+            "time": "30.0",
+            "difficulty": "easy",
+            "caloriesDesc": {
                 "tr": "1 adet 130 kcal",
                 "en": "1 piece 130 kcal"
             },
+            "calories": "130",
             "materials": {
                 "en": [
                     "1 glass of lactose-free milk or almond milk",
@@ -156,18 +146,13 @@
                 "tr": "Ispanaklı Köfte",
                 "en": "Spinach Matballs"
             },
-            "time": {
-                "tr": "30 dk",
-                "en": "30 min"
-            },
-            "difficulty": {
-                "tr": "Orta",
-                "en": "Medium"
-            },
-            "calories": {
+            "time": "30",
+            "difficulty": "medium",
+            "caloriesDesc": {
                 "tr": "1 porsiyon 260 kcal",
                 "en": "1 portion 260 kcal"
             },
+            "calories": "260",
             "materials": {
                 "tr": [
                     "350-400 gram ıspanak",
