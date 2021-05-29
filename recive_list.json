@@ -164,6 +164,10 @@
                 "tr": "1 porsiyon 260 kcal",
                 "en": "1 portion 260 kcal"
             },
+            "description":{
+                "en":"Spinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. You should try this satisfying, delicious and low-calorie recipe.",
+                "tr":"A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. hem doyurucu hem lezzetli hem de düşük kalorili bu tarifimizi denemelisiniz."
+            },
             "calories": "260",
             "materials": {
                 "tr": [
