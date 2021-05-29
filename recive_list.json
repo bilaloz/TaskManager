@@ -16,6 +16,12 @@
                 "tr": "1 adet 100 kcal",
                 "en": "1 piece 100 kcal"
             },
+            "labels":[
+                "kcal",
+                "dinner",
+                "sugarless",
+                "vegetables"
+            ],
             "calories": "100",
             "materials": {
                 "tr": [
@@ -118,6 +124,12 @@
                     "I chill in the fridge and serve."
                 ]
             },
+            "labels":[
+                "kcal",
+                "dinner",
+                "sugarless",
+                "vegetables"
+            ],
             "nutritive_value": {
                 "total_fat": "3.0",
                 "saturated_fat": "0.2",
@@ -185,6 +197,12 @@
                     "We lay our spinach balls on a baking tray with greaseproof paper and bake them in the oven at 200 degrees for 20 minutes."
                 ]
             },
+            "labels":[
+                "kcal",
+                "dinner",
+                "sugarless",
+                "vegetables"
+            ],
             "nutritive_value": {
                 "total_fat": "17.8",
                 "saturated_fat": "0.6",
