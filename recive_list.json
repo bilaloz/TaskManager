@@ -157,7 +157,12 @@
                 "cobalamin": "0.0",
                 "magnesium": "48.0",
                 "iren": "7.0"
-            }
+            },
+            "categories":[
+                "breakfast",
+                "lunch",
+                "dinner","snack","low_carb","low_fat","rich_protein","low_calories"
+            ]
         },
         {
             "id":3,
@@ -237,7 +242,12 @@
                 "cobalamin": "0.4",
                 "magnesium": "102.0",
                 "iren": "10.7"
-            }
+            },
+            "categories":[
+                "breakfast",
+                "lunch",
+                "dinner","snack","low_carb","low_fat","rich_protein","low_calories"
+            ]
         }
     ],
     "offTheDay":{
