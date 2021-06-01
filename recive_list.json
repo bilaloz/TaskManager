@@ -11,6 +11,7 @@
                 "tr": "",
                 "en": ""
             },
+            "porsion":"1",
             "time": "",
             "difficulty": "",
             "caloriesDesc": {
@@ -88,6 +89,7 @@
         "breakfast":
         {
             "id":1,
+            "porsion":"1",
             "description": {
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
                 "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
@@ -174,6 +176,7 @@
         "lunch":
         {
             "id":1,
+            "porsion":"1",
             "description": {
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
                 "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
@@ -260,6 +263,7 @@
         "snack":
         {
             "id":1,
+            "porsion":"1",
             "description": {
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
                 "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
@@ -346,6 +350,7 @@
         "dinner":
         {
             "id":1,
+            "porsion":"1",
             "description": {
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
                 "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
