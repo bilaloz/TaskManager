@@ -3,250 +3,84 @@
         {
             "id":1,
             "description": {
-                "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
-                "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+                "tr": "",
+                "en": ""
             },
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_lavash.jpg?alt=media&token=3bd3b705-4100-4a9d-af5e-527fe428e8c1",
+            "image": "",
             "title": {
-                "tr": "Ispanaklı Lavaş",
-                "en": "Spinach Lavash "
+                "tr": "",
+                "en": ""
             },
-            "time": "10",
-            "difficulty": "easy",
+            "time": "",
+            "difficulty": "",
             "caloriesDesc": {
-                "tr": "1 adet 100 kcal",
-                "en": "1 piece 100 kcal"
+                "tr": "",
+                "en": ""
             },
             "labels":[
-                "kcal",
-                "dinner",
-                "sugarless",
-                "vegetables"
+                "",
+                "",
+                "",
+                ""
             ],
-            "calories": "100",
+            "calories": "",
             "materials": {
                 "tr": [
-                    "1 su bardağı tam buğday unu",
-                    "1 su bardağı içme suyu",
-                    "1 küçük kâse ıspanak yaprağı",
-                    "1 çay kaşığı kaya tuzu",
-                    "1 yemek kaşığı zeytinyağı"
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
                 ],
                 "en": [
-                    "1 cup whole wheat flour",
-                    "1 glass of drinking water",
-                    "1 small bowl of spinach leaves",
-                    "1 teaspoon of rock salt",
-                    "1 tablespoon of olive oil"
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
                 ]
             },
             "recipe": {
                 "tr": [
-                    "Zeytinyağı hariç diğer tüm malzemeleri pürüzsüz oluncaya dek blenderdan geçiyoruz.",
-                    "Yanmaz yapışmaz orta ateşteki tavaya zeytinyağını ekliyoruz.",
-                    "Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
-                    "İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
-                    "Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
-                    "Veee tortillalarımız hazııır!"
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
                 ],
                 "en": [
-                    "We pass all the other ingredients, except olive oil, through the blender until smooth.",
-                    "We add the olive oil to the non-stick pan over medium heat.",
-                    "We transfer the mixture as much as a ladle to the pan.",
-                    "In a thin layer, we cook it upside down for five minutes.",
-                    "We repeat the same process until the dough is finished.",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
                     ""
                 ]
             },
             "nutritive_value": {
-                "total_fat": "16.3",
-                "saturated_fat": "2.6",
-                "polyunsaturated_fat": "2.05",
-                "monounsaturated_fat": "11.05",
-                "cholesterol": "0.0",
-                "sodium": "2.0",
-                "potassium": "634.0",
-                "carbohydrate": "76.6",
-                "dietary_fiber": "5.3",
-                "sugar": "0.3",
-                "protein": "12.5",
-                "a_vitamin": "781",
-                "b_vitamin": "0.0",
-                "c_vitamin": "52.0",
-                "d_vitamin": "0.0",
-                "calcium": "142.0",
-                "cobalamin": "0.0",
-                "magnesium": "22.0",
-                "iren": "5.8"
+                "total_fat": "",
+                "saturated_fat": "",
+                "polyunsaturated_fat": "",
+                "monounsaturated_fat": "",
+                "cholesterol": "",
+                "sodium": "",
+                "potassium": "",
+                "carbohydrate": "",
+                "dietary_fiber": "",
+                "sugar": "",
+                "protein": "",
+                "a_vitamin": "",
+                "b_vitamin": "",
+                "c_vitamin": "5",
+                "d_vitamin": "",
+                "calcium": "",
+                "cobalamin": "",
+                "magnesium": "",
+                "iren": ""
             },
             "categories":[
-                "breakfast",
-                "lunch",
-                "dinner","snack","low_carb","low_fat","rich_protein","low_calories"
-            ]
-        },
-        {
-            "id":2,
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Ffit_supangle.jpg?alt=media&token=e40650fa-7201-4ca6-822f-aee2da6c8d80",
-            "description": {
-                "tr": "Leziz mi leziz, güzel mi güzel, fit mi fit bir tatlı.Tatlı kriziniz mi geldi, hem kolay hem de düşük kalorili tatlılımızı denemelisiniz.",
-                "en": "A delicious, delicious, beautiful, fit or fit dessert. When you have a sweet crisis, you should try our easy and low-calorie dessert."
-            },
-            "title": {
-                "tr": "Fit Supangle",
-                "en": "Fit Supangle"
-            },
-            "time": "30.0",
-            "difficulty": "easy",
-            "caloriesDesc": {
-                "tr": "1 adet 130 kcal",
-                "en": "1 piece 130 kcal"
-            },
-            "calories": "130",
-            "materials": {
-                "en": [
-                    "1 glass of lactose-free milk or almond milk",
-                    "3 dates",
-                    "2 tablespoons of oatmeal",
-                    "1 tablespoon cocoa",
-                    "Raw cocoa nibs or dark chocolate chipsor the fruits you want "
-                ],
-                "tr": [
-                    "1 su bardağı laktozsuz süt veya badem sütü",
-                    "3 adet hurma",
-                    "2 yemek kaşığı yulaf ezmesi",
-                    "1 yemek kaşığı kakao",
-                    "Ham kakao parçacığı veya bitter damla çikolata veya istediğiniz meyveler"
-                ]
-            },
-            "recipe": {
-                "tr": [
-                    "Bütün malzemeleri kısık ateşteki bir çelik tencerede yaklaşık 20 dakika pişiriyoruz.",
-                    "Ardından blenderdan geçirip, kaselere koyuyor ve üzerine ham kakao çekirdekleri gezdiriyoruz.",
-                    "Buzdolabında soğutup, servis ediyorum."
-                ],
-                "en": [
-                    "We cook all the ingredients in a steel pot on low heat for about 20 minutes.",
-                    "Then we blend it, put it in bowls and pour raw cocoa beans on it.",
-                    "I chill in the fridge and serve."
-                ]
-            },
-            "labels":[
-                "kcal",
-                "dinner",
-                "sugarless",
-                "vegetables"
-            ],
-            "nutritive_value": {
-                "total_fat": "3.0",
-                "saturated_fat": "0.2",
-                "polyunsaturated_fat": "0.4",
-                "monounsaturated_fat": "0.4",
-                "cholesterol": "0.0",
-                "sodium": "0.0",
-                "potassium": "614.0",
-                "carbohydrate": "53.0",
-                "dietary_fiber": "6.1",
-                "sugar": "31.5",
-                "protein": "4.7",
-                "a_vitamin": "438",
-                "b_vitamin": "0.2",
-                "c_vitamin": "0.2",
-                "d_vitamin": "0.0",
-                "calcium": "100.0",
-                "cobalamin": "0.0",
-                "magnesium": "48.0",
-                "iren": "7.0"
-            },
-            "categories":[
-                "breakfast",
-                "lunch",
-                "dinner","snack","low_carb","low_fat","rich_protein","low_calories"
-            ]
-        },
-        {
-            "id":3,
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_meatballs.jps.jpeg?alt=media&token=af28c3b5-bebc-4047-9d7b-e300330473a6",
-            "title": {
-                "tr": "Ispanaklı Köfte",
-                "en": "Spinach Matballs"
-            },
-            "time": "30",
-            "difficulty": "medium",
-            "caloriesDesc": {
-                "tr": "1 porsiyon 260 kcal",
-                "en": "1 portion 260 kcal"
-            },
-            "description":{
-                "en":"Spinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. You should try this satisfying, delicious and low-calorie recipe.",
-                "tr":"A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. hem doyurucu hem lezzetli hem de düşük kalorili bu tarifimizi denemelisiniz."
-            },
-            "calories": "260",
-            "materials": {
-                "tr": [
-                    "350-400 gram ıspanak",
-                    "2 adet yumurta",
-                    "1 su bardağı rondo ile un haline getirilmiş tam buğday ekmeği (3 ince dilim)",
-                    "4 yemek kaşığı lor peyniri",
-                    "Tuz ve karabiber"
-                                ],
-                "en": [
-                    "350-400 grams of spinach",
-                    "2 eggs",
-                    "Whole wheat bread (3 thin slices) made into flour with 1 glass of rondo",
-                    "4 tablespoons of curd cheese",
-                    "Salt and pepper"
-                ]
-            },
-            "recipe": {
-                "tr": [
-                    "Ispanağın köklerini keserek sirkeli suda bekletiyoruz. Ardından süzüp güzelce yıkıyoruz.",
-                    " 5 dakika kadar tencerede haşlayıp, süzüyoruz veya buharda pişiriyoruz.",
-                    "Ardından ıspanakları ince ince kıyıyoruz ve içine diğer malzemeleri ilave ediyoruz.",
-                    "Elde yuvarlayarak ya da dondurma kaşığı ile toplar yapıyoruz.",
-                    "Ispanak toplarımızı yağlı kağıt serdiğimiz fırın tepsisine dizerek 20 dakika 200 derecelik fırında pişiriyoruz.",
-                    "Afiyet OLSUN"
-                ],
-                "en": [
-                    "We cut the roots of the spinach and soak it in vinegar water. Then we drain it and wash it well.",
-                    "We boil for 5 minutes in a pot, strain or steam.",
-                    "Then we chop the spinach finely and add the other ingredients.",
-                    "We make balls by hand rolling or with an ice cream spoon.",
-                    "We lay our spinach balls on a baking tray with greaseproof paper and bake them in the oven at 200 degrees for 20 minutes.",
-                    "Bon Appetit"
-                ]
-            },
-            "labels":[
-                "kcal",
-                "dinner",
-                "sugarless",
-                "vegetables"
-            ],
-            "nutritive_value": {
-                "total_fat": "17.8",
-                "saturated_fat": "0.6",
-                "polyunsaturated_fat": "0.4",
-                "monounsaturated_fat": "1.9",
-                "cholesterol": "0.0",
-                "sodium": "614.0",
-                "potassium": "918.0",
-                "carbohydrate": "87.1",
-                "dietary_fiber": "5.1",
-                "sugar": "35.5",
-                "protein": "13.1",
-                "a_vitamin": "785.0",
-                "b_vitamin": "1.0",
-                "c_vitamin": "0.2",
-                "d_vitamin": "3.0",
-                "calcium": "244.0",
-                "cobalamin": "0.4",
-                "magnesium": "102.0",
-                "iren": "10.7"
-            },
-            "categories":[
-                "breakfast",
-                "lunch",
-                "dinner","snack","low_carb","low_fat","rich_protein","low_calories"
+                ""
             ]
         }
     ],
