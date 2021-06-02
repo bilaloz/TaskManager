@@ -6,7 +6,7 @@
                 "tr": "Hem tatlı krizlerine çözüm olacak hem de sağlıkla tüketebileceğiniz düşük kalorili atıştırmalıklar istiyorsanız granola bar tarifi tam size göre olacaktır. Denemeye hazır mısınız?",
                 "en": "If you want low-calorie snacks that will both solve your sweet crisis and consume healthily, the granola bar recipe will be for you. Are you ready to try?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F1.jpg?alt=media&token=92a6e782-17b7-49e6-9ebf-8f4306be4867",
             "title": {
                 "tr": "Çikolatalı Granola Bar",
                 "en": "chocolate Granola Bar"
@@ -90,7 +90,7 @@
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
                 "en": "pinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F2.jpg?alt=media&token=8e2d0ea6-5cbb-4eb2-a4c4-9fb4d91f037d",
             "title": {
                 "tr": "Ispanallı lavaş",
                 "en": "lavash with spinach"
@@ -175,15 +175,15 @@
             ]
         },
         {
-            "id": 4,
+            "id": 3,
             "description": {
                 "tr": "Leziz mi leziz, güzel mi güzel, fit mi fit bir tatlı.Tatlı kriziniz mi geldi, hem kolay hem de düşük kalorili tatlılımızı denemelisiniz.",
                 "en": "It is delicious, beautiful, fit dessert. When you have a sweet crisis, you should try our easy and low-calorie dessert."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F3.jpg?alt=media&token=fbb107f5-21a9-4594-8be7-fb094c69e545",
             "title": {
-                "tr": "fit supangle",
-                "en": "fit supangle"
+                "tr": "Fit Supangle",
+                "en": "Fit Supangle"
             },
             "porsion": "2",
             "time": "30",
@@ -270,7 +270,7 @@
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem doyurucu hem lezzetli hem de düşük kalorili bu tarifimizi denemelisiniz.",
                 "en": "Spinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. You should try this satisfying, delicious and low-calorie recipe."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F4.jpg?alt=media&token=2e9b4814-fd30-4c2b-9c86-7e5dc7441806",
             "title": {
                 "tr": "Ispanak topları",
                 "en": "Spinach dumplings"
@@ -360,7 +360,7 @@
                 "tr": "Sindirim sistemine iyi gelen ve metabolizmayı hızlandıran dereotu ile birlikte hem lezzetli hem de sağlıklı bir kek yapmaya hazır mısınız?",
                 "en": "Are you ready to make a delicious and healthy cake with dill, which is good for the digestive system and accelerates metabolism?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F5.jpg?alt=media&token=fbf0b856-e110-4a00-beec-2625c5cf29fd",
             "title": {
                 "tr": "Dereotlu Fit Kek",
                 "en": "Dill Fit Cake"
@@ -455,7 +455,7 @@
                 "tr": "Kayısı A, C vitamini ve demir kaynağıdır. Diyet lif oranı çok yüksektir. bağırsaklarınızın çalışmasına yardımcı olur. Hem hafif hem de lezzetliatıştırmamızı denemeye hazır mısınız?",
                 "en": "Apricot is a source of vitamin A, vitamin C and iron. Dietary fiber is very high. It helps your bowels work. Are you ready to try our light and delicious snack?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F6.jpg?alt=media&token=197fe171-f832-4bb1-a4d1-acce15b1c6e4",
             "title": {
                 "tr": "Kayısı topları",
                 "en": "Apricot balls"
@@ -540,7 +540,7 @@
                 "tr": "Trabzon hurması antioksidan bakımından zengin bir meyvedir ve bağışıklık sisteminin güçlenmesine yardımcı olur. Bu sağlıklı ve lezzetli tatlımızı denemeye ne dersiniz?",
                 "en": "Persimmon is an antioxidant-rich fruit and helps strengthen the immune system. How would you like to try this healthy and delicious dessert?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F7.jpg?alt=media&token=e676970b-d187-47d2-bc3c-2c31f8438be6",
             "title": {
                 "tr": "Hurmalı Cheesecake",
                 "en": "Persimmon Cheesecake"
@@ -559,7 +559,7 @@
                 "100_200 kcal",
                 "snack"
             ],
-            "calories": "",
+            "calories": "160",
             "materials": {
                 "tr": [
                     "Zemin için:",
@@ -631,7 +631,7 @@
                 "tr": "İçerdiği antioksidanlar ve vitaminler sayesinde bağışıklık sisteminin güçlenmesine yardımcı olur. İltihapların iyileşmesinde rol oynar. Kalp sağlığını korur. Bu vitamin dolu çorbayı denemek ister misiniz?",
                 "en": "Thanks to the antioxidants and vitamins it contains, it helps to strengthen the immune system. It plays a role in the healing of inflammations. It protects heart health. Want to try this vitamin-packed soup?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F8.jpg?alt=media&token=caaa7bfa-9a57-440d-b14f-03ff226703b7",
             "title": {
                 "tr": "Balkabağı Çorbası",
                 "en": "Pumpkin Soup"
@@ -727,7 +727,7 @@
                 "tr": "Somon balığındaki omega 3 yağ asitleri, niasin ve B12 vitamini kalp hastalıklarına ilerleyebilen  trigliserid seviyesinin düşmesini sağlar. Bağışıklık sisteminin güçlenmesine ve iltihapların iyileşmesine yardımcı olur. Lezzetli ve sağlıklı bir akşam yemeğine ne dersiniz?",
                 "en": "The omega 3 fatty acids, niacin and vitamin B12 in salmon help lower triglyceride levels, which can progress to heart disease. It helps to strengthen the immune system and heal inflammations. How about a delicious and healthy dinner?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F9.jpg?alt=media&token=0b959292-6d71-425a-b1a6-26e7c6ac783e",
             "title": {
                 "tr": "Fırında Somon",
                 "en": "Baked Salmon"
@@ -824,7 +824,7 @@
                 "tr": "İçerdiği yulaf ve hurma sayesinde sizi tok tutacak ve içerdiği yüksek lif miktarı ile bağırsaklarınızın çalışmasına yardımcı olacak. Kolay ve hızlı hazırlanan hem doyurucu hem lezzetli bu tatlıyı denemeye hazır mısınız?",
                 "en": "Thanks to the oats and dates it contains, it will keep you full and will help your intestines work with its high fiber content. Are you ready to try this easy and fast, satisfying and delicious dessert?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F10.jpg?alt=media&token=441e212f-d60c-4626-9ae7-eef9926e098d",
             "title": {
                 "tr": "Çikolatalı Fit Puding",
                 "en": "Chocolate Fit Puding"
@@ -908,7 +908,7 @@
                 "tr": "İçerdiği lif ve chia tohumu sayesinde sizi tok tutacaktır. Sağlıklı bir atıştırmalık olarak tercih edebilirsiniz.",
                 "en": "Thanks to the fiber and chia seeds it contains, it will keep you full. You can choose it as a healthy snack."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F11.jpg?alt=media&token=fb703061-4649-4f6e-9fa5-0124d8838985",
             "title": {
                 "tr": "Lif enerji lapası",
                 "en": "Fiber energy porridge"
@@ -1010,7 +1010,7 @@
                 "tr": "Her gün kahvaltıda aynı şeyleri yemekten sıkılmadınız mı? Haydi lezzetli bir kahvaltı hazırlayalım.",
                 "en": "Tired of eating the same things for breakfast every day? Let's prepare a delicious breakfast."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F12.jpg?alt=media&token=1b73489b-c147-4c74-baa5-4d23fe0943d1",
             "title": {
                 "tr": "Unsuz muzlu pankek",
                 "en": "Flourless banana pancakes"
@@ -1093,7 +1093,7 @@
                 "tr": "Her gün kahvaltıda aynı şeyleri yemekten sıkılmadınız mı? Haydi lezzetli bir kahvaltı hazırlayalım.",
                 "en": "Tired of eating the same things for breakfast every day? Let's prepare a delicious breakfast."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F13.jpg?alt=media&token=4aee9ad8-6bde-4741-bd8f-eeabb727094f",
             "title": {
                 "tr": "Kahveli Pankek",
                 "en": "Brown Pancakes"
@@ -1186,7 +1186,7 @@
                 "tr": "İçeriğinde yüksek oranda mineral ve vitamin barındıran lor peyniri, bağışıklık sistemini güçlendirerek vücudun daha dirençli olmasını sağlamaktadır.Diğer süt ürünleri gibi kalsiyum deposu olan lor, kemik gelişiminde önemli bir rol oynamaktadır. Besleyici ve bol vitamin mineral içeren bir kahvaltıya hazır mısınız?",
                 "en": "Curd cheese, which contains high levels of minerals and vitamins, strengthens the immune system and makes the body more resistant.Curd, which is a calcium store like other dairy products, plays an important role in bone development. Are you ready for a nutritious breakfast with plenty of vitamins and minerals?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F14.jpg?alt=media&token=91eb3ba1-301b-44e4-b97b-69c00595a339",
             "title": {
                 "tr": "Lor tava",
                 "en": "Curd pan"
@@ -1272,7 +1272,7 @@
                 "tr": " Canınız tatlı mı çekti? Kahvaltıda tüketebileceğiniz sağlıklı ve protein oranı yüksek nutellanızı yapmaya ne dersiniz?",
                 "en": "Are you craving sweets? How about making your healthy and high protein nutella that you can consume for breakfast?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F15.jpg?alt=media&token=fd0271b6-4f15-4e8f-a3ff-1802e00948ed",
             "title": {
                 "tr": "Ev yapımı nutella",
                 "en": "Homemade nutella"
@@ -1363,7 +1363,7 @@
                 "tr": "Mantar protein ve vitamin-mineral açısından zengin bir yiyecektir. kahvaltınız için hem doyurucu hem de sağlıklı bir tarif denemeye ne dersiniz?",
                 "en": "Mushroom is a food rich in protein and vitamins and minerals. How about trying a satisfying and healthy recipe for your breakfast?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F16.jpg?alt=media&token=1a093a4a-c48b-43d6-b617-75afdc73feb0",
             "title": {
                 "tr": "Mantarlı Fit Omlet",
                 "en": "Mushroom Fit Omelette"
@@ -1451,7 +1451,7 @@
                 "tr": "Ispanak içerdiği demir sayesinde bağışıklık sisteminizi güçlendirecektir. Peynirin ve yumurtanın içerdiği yüksek protein miktarı ile sizi tok tutacak bu tarifi kahvaltınızda denemeye ne dersiniz?",
                 "en": "Thanks to the iron it contains, spinach will strengthen your immune system. How would you like to try this recipe for breakfast, which will keep you full with the high protein content of cheese and eggs?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F17.jpg?alt=media&token=f47e4dd5-1b4b-4621-8305-41ea3aeb7a1a",
             "title": {
                 "tr": "Ispanaklı omlet",
                 "en": "Spinach Omelette"
@@ -1535,7 +1535,7 @@
                 "tr": "Muhteşem bir protein kaynağı olan fıstık ezmesini özellikle sporcular çok sık tüketmektedir. Çoklu doymamış yağlar içerir. Bu yağlar doymuş olduğu için kalp krizi riskini azaltır ve kötü kolestrol seviyesinin düşmesine yardımcı olur.",
                 "en": "Especially athletes consume peanut butter, which is a great source of protein, very often. Contains polyunsaturated fats. Since these fats are saturated, they reduce the risk of heart attack and help lower bad cholesterol levels."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F18.jpg?alt=media&token=0194f955-ee71-4acc-8dde-ce6c6fc855ba",
             "title": {
                 "tr": "Fıstık ezmesi ",
                 "en": "Peanut butter"
@@ -1620,7 +1620,7 @@
                 "tr": "Tahinin içerdiği yüksek kalsiyum ve diğer mineraller ile kemikleri ve bağışıklık sistemini güçlendirir. Kalp hastalıklarını önler ve kolestrol seviyesini dengeler.Hem sağlıklı hem düşük kalorili bir kahvaltıya ne dersiniz? Haydi kendimize güzel bir kahvaltı hazırlayalım.",
                 "en": "Tahini strengthens bones and immune system with its high calcium and other minerals. It prevents heart diseases and balances cholesterol levels. How about a healthy and low-calorie breakfast? Let's prepare ourselves a nice breakfast."
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F19.jpg?alt=media&token=ca95e1c8-3ff8-4461-b70b-c13fa1436bd0",
             "title": {
                 "tr": "Tahinli unsuz pankek",
                 "en": "Tahini flourless pancakes"
@@ -1714,7 +1714,7 @@
                 "tr": "Yüksek protein oranı ile hem doyurucu hem de sağlıklı bir kahvaltıya ne dersiniz?",
                 "en": "How about a hearty and healthy breakfast with a high protein ratio?"
             },
-            "image": "",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F20.jpg?alt=media&token=7673be60-a282-4f72-925d-e9bc8d66e445",
             "title": {
                 "tr": "Peynirli omlet",
                 "en": "Cheese Omelette"
@@ -1756,8 +1756,6 @@
                     "Ekmeği kestikten sonra alt ve üst katmana kaşarları, aralarına da lor peynirini koyuyoruz.",
                     "Tost makinesinde pişirdikten sonra dilimliyoruz.",
                     "Afiyet olsun!"
-                    
-                    
                 ],
                 "en": [
                     "We chop the cheddar small.",
@@ -1799,117 +1797,115 @@
     ],
     "offTheDay": {
         "breakfast": {
-            "id": 1,
+            "id": 14,
             "description": {
-                "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
-                "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+                "tr": "İçeriğinde yüksek oranda mineral ve vitamin barındıran lor peyniri, bağışıklık sistemini güçlendirerek vücudun daha dirençli olmasını sağlamaktadır.Diğer süt ürünleri gibi kalsiyum deposu olan lor, kemik gelişiminde önemli bir rol oynamaktadır. Besleyici ve bol vitamin mineral içeren bir kahvaltıya hazır mısınız?",
+                "en": "Curd cheese, which contains high levels of minerals and vitamins, strengthens the immune system and makes the body more resistant.Curd, which is a calcium store like other dairy products, plays an important role in bone development. Are you ready for a nutritious breakfast with plenty of vitamins and minerals?"
             },
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_lavash.jpg?alt=media&token=3bd3b705-4100-4a9d-af5e-527fe428e8c1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F14.jpg?alt=media&token=91eb3ba1-301b-44e4-b97b-69c00595a339",
             "title": {
-                "tr": "Ispanaklı Lavaş",
-                "en": "Spinach Lavash "
+                "tr": "Lor tava",
+                "en": "Curd pan"
             },
-            "time": "10",
+            "porsion": "2",
+            "time": "8",
             "difficulty": "easy",
             "caloriesDesc": {
-                "tr": "1 adet 100 kcal",
-                "en": "1 piece 100 kcal"
+                "tr": "1 porsiyon 224 kcal",
+                "en": "1 porsion 224 kcal"
             },
             "labels": [
-                "kcal",
-                "dinner",
+                "breakfast",
                 "sugarless",
-                "vegetables"
+                "low_carb",
+                "rich_protein"
             ],
-            "calories": "100",
+            "calories": "224",
             "materials": {
                 "tr": [
-                    "1 su bardağı tam buğday unu",
-                    "1 su bardağı içme suyu",
-                    "1 küçük kâse ıspanak yaprağı",
-                    "1 çay kaşığı kaya tuzu",
-                    "1 yemek kaşığı zeytinyağı"
+                    "200 g lor peyniri",
+                    "1 yemek kaşığı tereyağı",
+                    "2 yemek kaşığı domates püresi",
+                    "baharatlar"
                 ],
                 "en": [
-                    "1 cup whole wheat flour",
-                    "1 glass of drinking water",
-                    "1 small bowl of spinach leaves",
-                    "1 teaspoon of rock salt",
-                    "1 tablespoon of olive oil"
+                    "200 g of curd cheese",
+                    "1 tablespoon of butter",
+                    "2 tablespoons of tomato puree",
+                    "spices"
                 ]
             },
             "recipe": {
                 "tr": [
-                    "Zeytinyağı hariç diğer tüm malzemeleri pürüzsüz oluncaya dek blenderdan geçiyoruz.",
-                    "Yanmaz yapışmaz orta ateşteki tavaya zeytinyağını ekliyoruz.",
-                    "Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
-                    "İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
-                    "Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
-                    "Veee tortillalarımız hazııır!"
+                    "Tavada tereyağını eritin.",
+                    "Lor peynirleri ekleyerek 1 dakika pişirin.",
+                    "Domates püresini ekleyip bir kaç dakika karıştırarak pişirin.",
+                    "Baharatları da ekleyin.",
+                    "Dilerseniz istediğiniz yeşillikleri de ekleyebilirsiniz.",
+                    "Afiyet olsun!"
                 ],
                 "en": [
-                    "We pass all the other ingredients, except olive oil, through the blender until smooth.",
-                    "We add the olive oil to the non-stick pan over medium heat.",
-                    "We transfer the mixture as much as a ladle to the pan.",
-                    "In a thin layer, we cook it upside down for five minutes.",
-                    "We repeat the same process until the dough is finished.",
-                    ""
+                    "Melt the butter in the pan.",
+                    "Add curd cheese and cook for 1 minute.",
+                    "Add the tomato puree and cook for a few minutes, stirring.",
+                    "Add spices too.",
+                    "You can also add any greens you want.",
+                    "Bon Appetit!"
                 ]
             },
             "nutritive_value": {
-                "total_fat": "16.3",
-                "saturated_fat": "2.6",
-                "polyunsaturated_fat": "2.05",
-                "monounsaturated_fat": "11.05",
-                "cholesterol": "0.0",
-                "sodium": "2.0",
-                "potassium": "634.0",
-                "carbohydrate": "76.6",
-                "dietary_fiber": "5.3",
-                "sugar": "0.3",
-                "protein": "12.5",
-                "a_vitamin": "781",
-                "b_vitamin": "0.0",
-                "c_vitamin": "52.0",
-                "d_vitamin": "0.0",
-                "calcium": "142.0",
-                "cobalamin": "0.0",
-                "magnesium": "22.0",
-                "iren": "5.8"
+                "total_fat": "8.3",
+                "saturated_fat": "2.7",
+                "polyunsaturated_fat": "0.2",
+                "monounsaturated_fat": "1.6",
+                "cholesterol": "34",
+                "sodium": "728",
+                "potassium": "204",
+                "carbohydrate": "6.4",
+                "dietary_fiber": "0",
+                "sugar": "4.7",
+                "protein": "22",
+                "a_vitamin": "240",
+                "b_vitamin": "0",
+                "c_vitamin": "0",
+                "d_vitamin": "6",
+                "calcium": "163",
+                "cobalamin": "0.4",
+                "magnesium": "16",
+                "iren": "0.2"
             },
             "categories": [
                 "breakfast",
-                "lunhc",
-                "dinner",
-                "snack",
+                "sugarless",
                 "low_carb",
-                "low_fat",
                 "rich_protein",
-                "low_calories"
+                "200_300"
             ]
         },
         "lunch": {
-            "id": 1,
+            "id": 2,
             "description": {
                 "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
-                "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+                "en": "pinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
             },
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_lavash.jpg?alt=media&token=3bd3b705-4100-4a9d-af5e-527fe428e8c1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F2.jpg?alt=media&token=8e2d0ea6-5cbb-4eb2-a4c4-9fb4d91f037d",
             "title": {
-                "tr": "Ispanaklı Lavaş",
-                "en": "Spinach Lavash "
+                "tr": "Ispanallı lavaş",
+                "en": "lavash with spinach"
             },
             "time": "10",
             "difficulty": "easy",
+            "porsion": "4",
             "caloriesDesc": {
                 "tr": "1 adet 100 kcal",
                 "en": "1 piece 100 kcal"
             },
             "labels": [
-                "kcal",
-                "dinner",
-                "sugarless",
-                "vegetables"
+                "breakfast",
+                "low_calories",
+                "50_100 kcal",
+                "low_fat",
+                "lunch"
             ],
             "calories": "100",
             "materials": {
@@ -1921,7 +1917,7 @@
                     "1 yemek kaşığı zeytinyağı"
                 ],
                 "en": [
-                    "1 cup whole wheat flour",
+                    "1 cup of whole wheat flour",
                     "1 glass of drinking water",
                     "1 small bowl of spinach leaves",
                     "1 teaspoon of rock salt",
@@ -1935,15 +1931,15 @@
                     "Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
                     "İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
                     "Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
-                    "Veee tortillalarımız hazııır!"
+                    "Veee tortillalarımız hazııır! Afiyet olsuuun!"
                 ],
                 "en": [
-                    "We pass all the other ingredients, except olive oil, through the blender until smooth.",
-                    "We add the olive oil to the non-stick pan over medium heat.",
-                    "We transfer the mixture as much as a ladle to the pan.",
-                    "In a thin layer, we cook it upside down for five minutes.",
-                    "We repeat the same process until the dough is finished.",
-                    ""
+                    "We pass all ingredients except olive oil in a blender until smooth.",
+                    "We add olive oil to a non-stick pan on medium heat.",
+                    "We transfer a ladle of the mixture to the pan.",
+                    "We cook it upside down in a thin layer for five minutes.",
+                    "We repeat the same process until our dough is finished.",
+                    "Veee our tortillas are ready! Bon appetit!"
                 ]
             },
             "nutritive_value": {
@@ -1951,211 +1947,221 @@
                 "saturated_fat": "2.6",
                 "polyunsaturated_fat": "2.05",
                 "monounsaturated_fat": "11.05",
-                "cholesterol": "0.0",
-                "sodium": "2.0",
-                "potassium": "634.0",
+                "cholesterol": "0",
+                "sodium": "2",
+                "potassium": "634",
                 "carbohydrate": "76.6",
                 "dietary_fiber": "5.3",
                 "sugar": "0.3",
                 "protein": "12.5",
                 "a_vitamin": "781",
-                "b_vitamin": "0.0",
-                "c_vitamin": "52.0",
-                "d_vitamin": "0.0",
-                "calcium": "142.0",
-                "cobalamin": "0.0",
-                "magnesium": "22.0",
+                "b_vitamin": "0",
+                "c_vitamin": "52",
+                "d_vitamin": "0",
+                "calcium": "52",
+                "cobalamin": "0",
+                "magnesium": "22",
                 "iren": "5.8"
             },
             "categories": [
                 "breakfast",
-                "lunhc",
-                "dinner",
-                "snack",
-                "low_carb",
+                "low_calories",
+                "lunch",
                 "low_fat",
-                "rich_protein",
-                "low_calories"
+                "low_carb",
+                "50_100"
             ]
         },
         "snack": {
-            "id": 1,
+            "id": 11,
             "description": {
-                "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
-                "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+                "tr": "İçerdiği lif ve chia tohumu sayesinde sizi tok tutacaktır. Sağlıklı bir atıştırmalık olarak tercih edebilirsiniz.",
+                "en": "Thanks to the fiber and chia seeds it contains, it will keep you full. You can choose it as a healthy snack."
             },
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_lavash.jpg?alt=media&token=3bd3b705-4100-4a9d-af5e-527fe428e8c1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F11.jpg?alt=media&token=fb703061-4649-4f6e-9fa5-0124d8838985",
             "title": {
-                "tr": "Ispanaklı Lavaş",
-                "en": "Spinach Lavash "
+                "tr": "Lif enerji lapası",
+                "en": "Fiber energy porridge"
             },
+            "porsion": "1",
             "time": "10",
             "difficulty": "easy",
             "caloriesDesc": {
-                "tr": "1 adet 100 kcal",
-                "en": "1 piece 100 kcal"
+                "tr": "1 porsiyon 450 kcal",
+                "en": "1 porsion 450 kcal"
             },
             "labels": [
-                "kcal",
-                "dinner",
-                "sugarless",
-                "vegetables"
+                "dessert",
+                "fit",
+                "breakfast",
+                "low_fat",
+                "low_carb",
+                "snack"
             ],
-            "calories": "100",
+            "calories": "450",
             "materials": {
                 "tr": [
-                    "1 su bardağı tam buğday unu",
-                    "1 su bardağı içme suyu",
-                    "1 küçük kâse ıspanak yaprağı",
-                    "1 çay kaşığı kaya tuzu",
-                    "1 yemek kaşığı zeytinyağı"
+                    "3/4 su bardağı yulaf ezmesi",
+                    "Yarım su bardağı su",
+                    "Yarım adet dilimlenmiş muz",
+                    "1 adet küp küp doğranmış hurma",
+                    "1 yemek kaşığı kakao",
+                    "1 tatlı kaşığı chia",
+                    "1 çay kaşığı tarçın",
+                    "Üzeri için:",
+                    "Yarım adet muz veya istediğiniz meyveler",
+                    "1-2 tatlı kaşığı fıstık ezmesi",
+                    "1 çay kaşığı ham kakao parçacığı veya bitter damla çikolata",
+                    "4-5 adet çiğ badem içi"
                 ],
                 "en": [
-                    "1 cup whole wheat flour",
-                    "1 glass of drinking water",
-                    "1 small bowl of spinach leaves",
-                    "1 teaspoon of rock salt",
-                    "1 tablespoon of olive oil"
+                    "3/4 cup oatmeal",
+                    "Half a glass of water",
+                    "Half a sliced ​​banana",
+                    "1 diced persimmon",
+                    "1 tablespoon of cocoa",
+                    "1 teaspoon of chia",
+                    "1 teaspoon of cinnamon",
+                    "For the above:",
+                    "Half a banana or any fruit you want",
+                    "1-2 teaspoons of peanut butter",
+                    "1 teaspoon of raw cocoa powder or dark chocolate chips",
+                    "4-5 raw almond kernels"
                 ]
             },
             "recipe": {
                 "tr": [
-                    "Zeytinyağı hariç diğer tüm malzemeleri pürüzsüz oluncaya dek blenderdan geçiyoruz.",
-                    "Yanmaz yapışmaz orta ateşteki tavaya zeytinyağını ekliyoruz.",
-                    "Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
-                    "İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
-                    "Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
-                    "Veee tortillalarımız hazııır!"
+                    "Yulaf ezmesini, muz dilimlerini, hurmaları, ham kakaoyu, chiayı ve tarçını su ile birlikte çelik tencerede yaklaşık 7-8 dakika pişiriyoruz.",
+                    "Servis edeceğimiz kaseye koyuyoruz.",
+                    "Üzerine meyve dilimleri, fıstık ezmesi, çiğ badem ve kakao parçacıkları gezdirip afiyetle tüketiyoruz. "
                 ],
                 "en": [
-                    "We pass all the other ingredients, except olive oil, through the blender until smooth.",
-                    "We add the olive oil to the non-stick pan over medium heat.",
-                    "We transfer the mixture as much as a ladle to the pan.",
-                    "In a thin layer, we cook it upside down for five minutes.",
-                    "We repeat the same process until the dough is finished.",
-                    ""
+                    "We cook oatmeal, banana slices, dates, raw cocoa, chia and cinnamon in a steel pot with water for about 7-8 minutes.",
+                    "We put it in the bowl we will serve.",
+                    "We drizzle fruit slices, peanut butter, raw almonds and cocoa chips on it and enjoy it."
                 ]
             },
             "nutritive_value": {
-                "total_fat": "16.3",
-                "saturated_fat": "2.6",
-                "polyunsaturated_fat": "2.05",
-                "monounsaturated_fat": "11.05",
-                "cholesterol": "0.0",
-                "sodium": "2.0",
-                "potassium": "634.0",
-                "carbohydrate": "76.6",
-                "dietary_fiber": "5.3",
-                "sugar": "0.3",
-                "protein": "12.5",
-                "a_vitamin": "781",
-                "b_vitamin": "0.0",
-                "c_vitamin": "52.0",
-                "d_vitamin": "0.0",
-                "calcium": "142.0",
-                "cobalamin": "0.0",
-                "magnesium": "22.0",
-                "iren": "5.8"
+                "total_fat": "9.4",
+                "saturated_fat": "0.2",
+                "polyunsaturated_fat": "0.4",
+                "monounsaturated_fat": "0.4",
+                "cholesterol": "0",
+                "sodium": "51",
+                "potassium": "666",
+                "carbohydrate": "79",
+                "dietary_fiber": "19.7",
+                "sugar": "63",
+                "protein": "13.3",
+                "a_vitamin": "440",
+                "b_vitamin": "0.2",
+                "c_vitamin": "1.4",
+                "d_vitamin": "0",
+                "calcium": "172",
+                "cobalamin": "0",
+                "magnesium": "363",
+                "iren": "7.3"
             },
             "categories": [
-                "breakfast",
-                "lunhc",
-                "dinner",
+                "dessert",
                 "snack",
+                "breakfast",
+                "rich_fiber",
+                "rich_protein",
                 "low_carb",
                 "low_fat",
-                "rich_protein",
-                "low_calories"
+                "lunch",
+                "400_500"
             ]
         },
         "dinner": {
-            "id": 1,
+            "id": 4,
             "description": {
-                "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
-                "en": "Rich in vitamins A, C, K, E, iron, magnesium and copper, spinach helps strengthen our bones and immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+                "tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem doyurucu hem lezzetli hem de düşük kalorili bu tarifimizi denemelisiniz.",
+                "en": "Spinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. You should try this satisfying, delicious and low-calorie recipe."
             },
-            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2Fspinach_lavash.jpg?alt=media&token=3bd3b705-4100-4a9d-af5e-527fe428e8c1",
+            "image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F4.jpg?alt=media&token=2e9b4814-fd30-4c2b-9c86-7e5dc7441806",
             "title": {
-                "tr": "Ispanaklı Lavaş",
-                "en": "Spinach Lavash "
+                "tr": "Ispanak topları",
+                "en": "Spinach dumplings"
             },
-            "time": "10",
-            "difficulty": "easy",
+            "porsion": "2",
+            "time": "30",
+            "difficulty": "medium",
             "caloriesDesc": {
-                "tr": "1 adet 100 kcal",
-                "en": "1 piece 100 kcal"
+                "tr": "15 adet 260 kcal",
+                "en": "15 pieces 260 kcal"
             },
             "labels": [
-                "kcal",
+                "lunch",
+                "200_300 kcal",
                 "dinner",
-                "sugarless",
-                "vegetables"
+                "low_fat",
+                "sugarless"
             ],
-            "calories": "100",
+            "calories": "260",
             "materials": {
                 "tr": [
-                    "1 su bardağı tam buğday unu",
-                    "1 su bardağı içme suyu",
-                    "1 küçük kâse ıspanak yaprağı",
-                    "1 çay kaşığı kaya tuzu",
-                    "1 yemek kaşığı zeytinyağı"
+                    "350-400 gram ıspanak",
+                    "2 adet yumurta",
+                    "1 su bardağı rondo ile un haline getirilmiş tam buğday ekmeği (3 ince dilim)",
+                    "4 yemek kaşığı lor peyniri",
+                    "Tuz ve karabiber"
                 ],
                 "en": [
-                    "1 cup whole wheat flour",
-                    "1 glass of drinking water",
-                    "1 small bowl of spinach leaves",
-                    "1 teaspoon of rock salt",
-                    "1 tablespoon of olive oil"
+                    "350-400 grams of spinach",
+                    "2 eggs",
+                    "1 cup of rondo and floured whole wheat bread (3 thin slices)",
+                    "4 tablespoons of curd cheese",
+                    "Salt and Pepper"
                 ]
             },
             "recipe": {
                 "tr": [
-                    "Zeytinyağı hariç diğer tüm malzemeleri pürüzsüz oluncaya dek blenderdan geçiyoruz.",
-                    "Yanmaz yapışmaz orta ateşteki tavaya zeytinyağını ekliyoruz.",
-                    "Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
-                    "İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
-                    "Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
-                    "Veee tortillalarımız hazııır!"
+                    "Ispanağın köklerini keserek sirkeli suda bekletiyoruz. Ardından süzüp güzelce yıkıyoruz.",
+                    "5 dakika kadar tencerede haşlayıp, süzüyoruz veya buharda pişiriyoruz.",
+                    "Ardından ıspanakları ince ince kıyıyoruz ve içine diğer malzemeleri ilave ediyoruz.",
+                    "Elde yuvarlayarak ya da dondurma kaşığı ile toplar yapıyoruz.",
+                    "Ispanak toplarımızı yağlı kağıt serdiğimiz fırın tepsisine dizerek 20 dakika 200 derecelik fırında pişiriyoruz.",
+                    "Afiyet olsun!"
                 ],
                 "en": [
-                    "We pass all the other ingredients, except olive oil, through the blender until smooth.",
-                    "We add the olive oil to the non-stick pan over medium heat.",
-                    "We transfer the mixture as much as a ladle to the pan.",
-                    "In a thin layer, we cook it upside down for five minutes.",
-                    "We repeat the same process until the dough is finished.",
-                    ""
+                    "We cut the roots of the spinach and soak it in vinegar water. Then we drain it and wash it well.",
+                    "We boil it in a pot for 5 minutes, drain or steam it.",
+                    "Then we chop the spinach finely and add the other ingredients.",
+                    "We make balls by hand rolling or with an ice cream scoop.",
+                    "We lay our spinach balls on a baking tray with greaseproof paper and bake them in the oven at 200 degrees for 20 minutes.",
+                    "Bon Appetit!"
                 ]
             },
             "nutritive_value": {
-                "total_fat": "16.3",
-                "saturated_fat": "2.6",
-                "polyunsaturated_fat": "2.05",
-                "monounsaturated_fat": "11.05",
-                "cholesterol": "0.0",
-                "sodium": "2.0",
-                "potassium": "634.0",
-                "carbohydrate": "76.6",
-                "dietary_fiber": "5.3",
-                "sugar": "0.3",
-                "protein": "12.5",
-                "a_vitamin": "781",
-                "b_vitamin": "0.0",
-                "c_vitamin": "52.0",
-                "d_vitamin": "0.0",
-                "calcium": "142.0",
-                "cobalamin": "0.0",
-                "magnesium": "22.0",
-                "iren": "5.8"
+                "total_fat": "17.8",
+                "saturated_fat": "0.6",
+                "polyunsaturated_fat": "0.4",
+                "monounsaturated_fat": "1.9",
+                "cholesterol": "0",
+                "sodium": "614",
+                "potassium": "918",
+                "carbohydrate": "87.1",
+                "dietary_fiber": "5.1",
+                "sugar": "35.5",
+                "protein": "13.1",
+                "a_vitamin": "785",
+                "b_vitamin": "0.4",
+                "c_vitamin": "0.2",
+                "d_vitamin": "3",
+                "calcium": "244",
+                "cobalamin": "0.4",
+                "magnesium": "102",
+                "iren": "10.7"
             },
             "categories": [
-                "breakfast",
-                "lunhc",
+                "lunch",
                 "dinner",
-                "snack",
+                "200_300",
                 "low_carb",
                 "low_fat",
-                "rich_protein",
-                "low_calories"
+                "sugarless"
             ]
         }
     }
