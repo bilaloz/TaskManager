@@ -18,11 +18,6 @@
                 "tr": "1 adet 149 kcal",
                 "en": "1 piece 149 kcal"
             },
-            "labels": [
-                "snack",
-                "low_calories",
-                "dessert"
-            ],
             "calories": "149",
             "materials": {
                 "tr": [
@@ -102,13 +97,6 @@
                 "tr": "1 adet 100 kcal",
                 "en": "1 piece 100 kcal"
             },
-            "labels": [
-                "breakfast",
-                "low_calories",
-                "50_100 kcal",
-                "low_fat",
-                "lunch"
-            ],
             "calories": "100",
             "materials": {
                 "tr": [
@@ -192,13 +180,6 @@
                 "tr": "1 adet 130 kcal",
                 "en": "1 piece 130 kcal"
             },
-            "labels": [
-                "snack",
-                "dessert",
-                "low_calories",
-                "100_200 kcal",
-                "low_fat"
-            ],
             "calories": "130",
             "materials": {
                 "tr": [
@@ -282,13 +263,6 @@
                 "tr": "15 adet 260 kcal",
                 "en": "15 pieces 260 kcal"
             },
-            "labels": [
-                "lunch",
-                "200_300 kcal",
-                "dinner",
-                "low_fat",
-                "sugarless"
-            ],
             "calories": "260",
             "materials": {
                 "tr": [
@@ -372,12 +346,6 @@
                 "tr": "1 dilim 190 kcal",
                 "en": "1 piece 190 kcal"
             },
-            "labels": [
-                "snack",
-                "healty",
-                "fit",
-                "100_200 kcal"
-            ],
             "calories": "190",
             "materials": {
                 "tr": [
@@ -467,14 +435,6 @@
                 "tr": "1 adet 49 kcal",
                 "en": "1 piece 49 kcal"
             },
-            "labels": [
-                "snack",
-                "low_calories",
-                "low_fat",
-                "sugarless",
-                "dessert",
-                "50_100 kcal"
-            ],
             "calories": "49",
             "materials": {
                 "tr": [
@@ -552,13 +512,6 @@
                 "tr": "1 adet 160 kcal",
                 "en": "1 piece 160 kcal"
             },
-            "labels": [
-                "dessert",
-                "low_calories",
-                "low_fat",
-                "100_200 kcal",
-                "snack"
-            ],
             "calories": "160",
             "materials": {
                 "tr": [
@@ -643,13 +596,6 @@
                 "tr": "1 porsiyon 280 kcal",
                 "en": "1 porsion 280 kcal"
             },
-            "labels": [
-                "lunch",
-                "dinner",
-                "200_300 kcal",
-                "low_carb",
-                "low_fat"
-            ],
             "calories": "280",
             "materials": {
                 "tr": [
@@ -739,14 +685,6 @@
                 "tr": "1 porsiyon 200 kcal",
                 "en": "1 porsion 200 kcal"
             },
-            "labels": [
-                "dinner",
-                "low_calories",
-                "healty",
-                "low_fat",
-                "low_carb",
-                "lunch"
-            ],
             "calories": "200",
             "materials": {
                 "tr": [
@@ -836,13 +774,6 @@
                 "tr": "1 porsiyon 150 kcal",
                 "en": "1 porsion 150 kcal"
             },
-            "labels": [
-                "dessert",
-                "low_fat",
-                "low_carb",
-                "100_200 kcal",
-                "snack"
-            ],
             "calories": "150",
             "materials": {
                 "tr": [
@@ -920,14 +851,6 @@
                 "tr": "1 porsiyon 450 kcal",
                 "en": "1 porsion 450 kcal"
             },
-            "labels": [
-                "dessert",
-                "fit",
-                "breakfast",
-                "low_fat",
-                "low_carb",
-                "snack"
-            ],
             "calories": "450",
             "materials": {
                 "tr": [
@@ -1022,12 +945,6 @@
                 "tr": "1 porsiyon 303 kcal",
                 "en": "1 porsion 303 kcal"
             },
-            "labels": [
-                "breakfast",
-                "low_carb",
-                "low_fat",
-                "rich_protein"
-            ],
             "calories": "303",
             "materials": {
                 "tr": [
@@ -1105,15 +1022,6 @@
                 "tr": "1 porsiyon 374 kcal",
                 "en": "1 porsion 374 kcal"
             },
-            "labels": [
-                "breakfast",
-                "fit",
-                "healty",
-                "low_carb",
-                "low_fat",
-                "sugarless",
-                "rich_fiber"
-            ],
             "calories": "374",
             "materials": {
                 "tr": [
@@ -1198,12 +1106,6 @@
                 "tr": "1 porsiyon 224 kcal",
                 "en": "1 porsion 224 kcal"
             },
-            "labels": [
-                "breakfast",
-                "sugarless",
-                "low_carb",
-                "rich_protein"
-            ],
             "calories": "224",
             "materials": {
                 "tr": [
@@ -1284,15 +1186,6 @@
                 "tr": "1 porsiyon 50 kcal",
                 "en": "1 porsion 50 kcal"
             },
-            "labels": [
-                "breakfast",
-                "snack",
-                "low_calories",
-                "low_carb",
-                "low_fat",
-                "dessert",
-                "50_100 kcal"
-            ],
             "calories": "50",
             "materials": {
                 "tr": [
@@ -1375,13 +1268,6 @@
                 "tr": "1 porsiyon 304 kcal",
                 "en": "1 porsion 304 kcal"
             },
-            "labels": [
-                "breakfast",
-                "rich_protein",
-                "low_carb",
-                "low_carb",
-                "300_400"
-            ],
             "calories": "304",
             "materials": {
                 "tr": [
@@ -1463,12 +1349,6 @@
                 "tr": "1 porsiyon 306 kcal",
                 "en": "1 porsion 306 kcal"
             },
-            "labels": [
-                "breakfast",
-                "300_400",
-                "low_carb",
-                "rich_protein"
-            ],
             "calories": "306",
             "materials": {
                 "tr": [
@@ -1526,7 +1406,7 @@
                 "low_carb",
                 "rich_protein",
                 "300_400",
-                "healty"
+                "healthy"
             ]
         },
         {
@@ -1547,15 +1427,6 @@
                 "tr": "1 porsiyon 101 kcal",
                 "en": "1 porsion 101 kcal"
             },
-            "labels": [
-                "breakfast",
-                "snack",
-                "healty",
-                "rich_protein",
-                "low_carb",
-                "100_200 kcal",
-                "dessert"
-            ],
             "calories": "101",
             "materials": {
                 "tr": [
@@ -1610,7 +1481,7 @@
                 "low_carb",
                 "snack",
                 "rich_fiber",
-                "healty",
+                "healthy",
                 "100_200"
             ]
         },
@@ -1632,12 +1503,6 @@
                 "tr": "1 porsiyon 303 kcal",
                 "en": "1 porsion 303 kcal"
             },
-            "labels": [
-                "breakfast",
-                "low_carb",
-                "300_400",
-                "rich_protein"
-            ],
             "calories": "303",
             "materials": {
                 "tr": [
@@ -1704,7 +1569,7 @@
                 "breakfast",
                 "low_carb",
                 "300_400",
-                "healty",
+                "healthy",
                 "dessert"
             ]
         },
@@ -1726,14 +1591,6 @@
                 "tr": "1 porsiyon 297",
                 "en": "1 porsion 297 kcal"
             },
-            "labels": [
-                "breakfast",
-                "healty",
-                "rich_protein",
-                "low_carb",
-                "low_fat",
-                "200_300 kcal"
-            ],
             "calories": "297",
             "materials": {
                 "tr": [
@@ -1812,16 +1669,6 @@
                 "tr": "1 porsiyon 213 kcal",
                 "en": "1 porsion 213 kcal"
             },
-            "labels": [
-                "200_300 kcal",
-                "breakfast",
-                "healty",
-                "fit",
-                "low_fat",
-                "low_carb",
-                "sugarless",
-                "rich_fiber"
-            ],
             "calories": "213",
             "materials": {
                 "tr": [
@@ -1894,14 +1741,6 @@
                 "tr": "1 porsiyon 264 kcal",
                 "en": "1 porsion 264 kcal"
             },
-            "labels": [
-                "breakfast",
-                "healty",
-                "fit",
-                "rich_protein",
-                "sugarless",
-                "low_carb"
-            ],
             "calories": "264",
             "materials": {
                 "tr": [
@@ -1962,7 +1801,7 @@
             },
             "categories": [
                 "breakfast",
-                "healty",
+                "healthy",
                 "low_carb",
                 "rich_protein",
                 "200_300"
@@ -1986,14 +1825,6 @@
                 "tr": "1 porsiyon 331 kcal",
                 "en": "1 porsion 331 kcal"
             },
-            "labels": [
-                "lunch",
-                "dinner",
-                "fit",
-                "rich_fiber",
-                "rich_protein",
-                "low_carb"
-            ],
             "calories": "331",
             "materials": {
                 "tr": [
@@ -2056,7 +1887,7 @@
                 "rich_protein",
                 "lunch",
                 "dinner",
-                "healty",
+                "healthy",
                 "low_carb",
                 "rich_fiber",
                 "300_400"
@@ -2080,14 +1911,6 @@
                 "tr": "1 porsiyon 375 kcal",
                 "en": "1 porsion 375 kcal"
             },
-            "labels": [
-                "300_400",
-                "dinner",
-                "lunch",
-                "rich_protein",
-                "healty",
-                "fit"
-            ],
             "calories": "375",
             "materials": {
                 "tr": [
@@ -2146,7 +1969,7 @@
                 "300_400",
                 "low_fat",
                 "rich_protein",
-                "healty"
+                "healthy"
             ]
         },
         {
@@ -2167,14 +1990,6 @@
                 "tr": "1 porsiyon 458 kcal",
                 "en": "1 porsion 458 kcal"
             },
-            "labels": [
-                "lunch",
-                "dinner",
-                "healty",
-                "fit",
-                "low_fat",
-                "400-500"
-            ],
             "calories": "458",
             "materials": {
                 "tr": [
@@ -2243,7 +2058,7 @@
                 "400_500",
                 "rich_protein",
                 "low_fat",
-                "healty"
+                "healthy"
             ]
         },
         {
@@ -2264,14 +2079,6 @@
                 "tr": "1 porsiyon 425 kcal",
                 "en": "1 porsion 425 kcal"
             },
-            "labels": [
-                "healty",
-                "fit",
-                "lunch",
-                "dinner",
-                "400-500",
-                "low_carb"
-            ],
             "calories": "425",
             "materials": {
                 "tr": [
@@ -2329,7 +2136,7 @@
             "categories": [
                 "dinner",
                 "lunch",
-                "healty",
+                "healthy",
                 "rich_protein",
                 "400_500"
             ]
@@ -2352,15 +2159,6 @@
                 "tr": "1 porsiyon 400 kcal",
                 "en": "1 porsion 400 kcal"
             },
-            "labels": [
-                "lunch",
-                "dinner",
-                "fit",
-                "healty",
-                "rich_protein",
-                "low_fat",
-                "low_carb"
-            ],
             "calories": "400",
             "materials": {
                 "tr": [
@@ -2420,7 +2218,7 @@
             "categories": [
                 "lunch",
                 "dinner",
-                "healty",
+                "healthy",
                 "low_carb",
                 "low_fat",
                 "rich_protein"
@@ -2444,13 +2242,6 @@
                 "tr": "1 porsiyon 442 kcal",
                 "en": "1 porsion 442 kcal"
             },
-            "labels": [
-                "dinner",
-                "healty",
-                "fit",
-                "low_carb",
-                "rich_protein"
-            ],
             "calories": "442",
             "materials": {
                 "tr": [
@@ -2507,7 +2298,7 @@
             },
             "categories": [
                 "dinner",
-                "healty",
+                "healthy",
                 "low_carb",
                 "sugarless",
                 "rich_protein",
@@ -2532,14 +2323,6 @@
                 "tr": "1 porsiyon 264 kcal",
                 "en": "1 porsion 264 kcal"
             },
-            "labels": [
-                "dinner",
-                "fit",
-                "healty",
-                "rich_protein",
-                "low_carb",
-                "low_carb"
-            ],
             "calories": "264",
             "materials": {
                 "tr": [
@@ -2606,7 +2389,7 @@
             },
             "categories": [
                 "dinner",
-                "healty",
+                "healthy",
                 "low_carb",
                 "low_fat",
                 "rich_protein"
@@ -2632,14 +2415,6 @@
                 "tr": "1 porsiyon 297",
                 "en": "1 porsion 297 kcal"
             },
-            "labels": [
-                "breakfast",
-                "healty",
-                "rich_protein",
-                "low_carb",
-                "low_fat",
-                "200_300 kcal"
-            ],
             "calories": "297",
             "materials": {
                 "tr": [
@@ -2718,14 +2493,6 @@
                 "tr": "1 porsiyon 450 kcal",
                 "en": "1 porsion 450 kcal"
             },
-            "labels": [
-                "dessert",
-                "fit",
-                "breakfast",
-                "low_fat",
-                "low_carb",
-                "snack"
-            ],
             "calories": "450",
             "materials": {
                 "tr": [
@@ -2820,15 +2587,6 @@
                 "tr": "1 porsiyon 101 kcal",
                 "en": "1 porsion 101 kcal"
             },
-            "labels": [
-                "breakfast",
-                "snack",
-                "healty",
-                "rich_protein",
-                "low_carb",
-                "100_200 kcal",
-                "dessert"
-            ],
             "calories": "101",
             "materials": {
                 "tr": [
@@ -2883,7 +2641,7 @@
                 "low_carb",
                 "snack",
                 "rich_fiber",
-                "healty",
+                "healthy",
                 "100_200"
             ]
         },
@@ -2905,13 +2663,6 @@
                 "tr": "1 porsiyon 280 kcal",
                 "en": "1 porsion 280 kcal"
             },
-            "labels": [
-                "lunch",
-                "dinner",
-                "200_300 kcal",
-                "low_carb",
-                "low_fat"
-            ],
             "calories": "280",
             "materials": {
                 "tr": [
