@@ -1,0 +1,5432 @@
+{
+"allRecipe": [
+{
+"id": 1,
+"description": {
+"tr": "Hem tatlı krizlerine çözüm olacak hem de sağlıkla tüketebileceğiniz düşük kalorili atıştırmalıklar istiyorsanız granola bar tarifi tam size göre olacaktır. Denemeye hazır mısınız?",
+"en": "If you want low-calorie snacks that will both solve your sweet crisis and consume healthily, the granola bar recipe will be for you. Are you ready to try?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F1.jpg?alt=media&token=92a6e782-17b7-49e6-9ebf-8f4306be4867",
+"title": {
+"tr": "Çikolatalı Granola Bar",
+"en": "chocolate Granola Bar"
+},
+"time": "10",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 149 kcal",
+"en": "1 piece 149 kcal"
+},
+"calories": "149",
+"materials": {
+"tr": [
+"1 su bardağı yulaf ezmesi",
+"2 yemek kaşığı fıstık ezmesi",
+"2 yemek kaşığı doğal bal",
+"40 gr bitter çikolata"
+],
+"en": [
+"1 cup of oatmeal",
+"2 tablespoons of peanut butter",
+"2 tablespoons of natural honey",
+"40 g dark chocolate"
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ezmesini, fıstık ezmesini ve doğal balı derin bir kabın içinde parmaklarımızla birbirine iyice yediriyoruz.",
+"Yağlı kağıt üzerine karışımı döküyoruz. Kaşık yardımı ile baskı uygulayarak yüzeyini düzleştiyoruz.",
+"Derin dondurucuda en az 1 saat bekletiyoruz. Benmari usulü erittiğimiz biter çikolatayı üzerine gezdiriyoruz.",
+"5 dakika dinlendirdikten sonra servis ediyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We mix the oatmeal, peanut butter and natural honey in a deep bowl with our fingers.",
+"We pour the mixture on oiled paper. We flatten the surface by applying pressure with the help of a spoon.",
+"We keep it in the freezer for at least 1 hour. We pour the finished chocolate that we melted in a bain-marie style on it.",
+"We serve it after resting for 5 minutes.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 20,
+"saturated_fat": 2.4,
+"polyunsaturated_fat": 12,
+"monounsaturated_fat": 4.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 64,
+"dietary_fiber": 5,
+"sugar": 29,
+"protein": 10,
+"a_vitamin": 33,
+"b_vitamin": 0.1,
+"c_vitamin": 0.9,
+"d_vitamin": 0,
+"calcium": 61,
+"cobalamin": 0,
+"magnesium": 97,
+"iren": 3
+},
+"categories": [
+"snack",
+"100_200",
+"low_calories",
+"breakfast",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 2,
+"description": {
+"tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem lezzetli hem de kolay hazırlanan bu tarifimizi denemek ister misiniz? ",
+"en": "pinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. Would you like to try this recipe that is both delicious and easy to prepare?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F2.jpg?alt=media&token=8e2d0ea6-5cbb-4eb2-a4c4-9fb4d91f037d",
+"title": {
+"tr": "Ispanallı lavaş",
+"en": "lavash with spinach"
+},
+"time": "10",
+"difficulty": "easy",
+"porsion": "4",
+"caloriesDesc": {
+"tr": "1 adet 100 kcal",
+"en": "1 piece 100 kcal"
+},
+"calories": "100",
+"materials": {
+"tr": [
+"1 su bardağı tam buğday unu",
+"1 su bardağı içme suyu",
+"1 küçük kâse ıspanak yaprağı",
+"1 çay kaşığı kaya tuzu",
+"1 yemek kaşığı zeytinyağı"
+],
+"en": [
+"1 cup of whole wheat flour",
+"1 glass of drinking water",
+"1 small bowl of spinach leaves",
+"1 teaspoon of rock salt",
+"1 tablespoon of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Zeytinyağı hariç diğer tüm malzemeleri pürüzsüz oluncaya dek blenderdan geçiyoruz.",
+"Yanmaz yapışmaz orta ateşteki tavaya zeytinyağını ekliyoruz.",
+"Bir kepçe kadar karışımdan tavaya aktarıyoruz.",
+"İnce bir katman hâlinde ters düz beş dakika boyunca pişiriyoruz.",
+"Hamurumuz bitinceye dek aynı işlemi tekrarlıyoruz.",
+"Veee tortillalarımız hazııır! Afiyet olsuuun!"
+],
+"en": [
+"We pass all ingredients except olive oil in a blender until smooth.",
+"We add olive oil to a non-stick pan on medium heat.",
+"We transfer a ladle of the mixture to the pan.",
+"We cook it upside down in a thin layer for five minutes.",
+"We repeat the same process until our dough is finished.",
+"Veee our tortillas are ready! Bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 16.3,
+"saturated_fat": 2.6,
+"polyunsaturated_fat": 2.05,
+"monounsaturated_fat": 11.05,
+"cholesterol": 0,
+"sodium": 2,
+"potassium": 634,
+"carbohydrate": 76.6,
+"dietary_fiber": 5.3,
+"sugar": 0.3,
+"protein": 12.5,
+"a_vitamin": 781,
+"b_vitamin": 0,
+"c_vitamin": 142,
+"d_vitamin": 0,
+"calcium": 142,
+"cobalamin": 0,
+"magnesium": 22,
+"iren": 5.8
+},
+"categories": [
+"breakfast",
+"low_calories",
+"lunch",
+"low_fat",
+"low_carb",
+"50_100"
+]
+},
+{
+"id": 3,
+"description": {
+"tr": "Leziz mi leziz, güzel mi güzel, fit mi fit bir tatlı.Tatlı kriziniz mi geldi, hem kolay hem de düşük kalorili tatlılımızı denemelisiniz.",
+"en": "It is delicious, beautiful, fit dessert. When you have a sweet crisis, you should try our easy and low-calorie dessert."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F3.jpg?alt=media&token=fbb107f5-21a9-4594-8be7-fb094c69e545",
+"title": {
+"tr": "Fit Supangle",
+"en": "Fit Supangle"
+},
+"porsion": "2",
+"time": "30",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 130 kcal",
+"en": "1 piece 130 kcal"
+},
+"calories": "130",
+"materials": {
+"tr": [
+"Supangle için",
+"1 su bardağı laktozsuz süt veya badem sütü",
+"3 adet hurma",
+"2 yemek kaşığı yulaf ezmesi",
+"1 yemek kaşığı kakao",
+"Üzeri için:",
+"Ham kakao parçacığı veya bitter damla çikolata veya istediğiniz meyveler"
+],
+"en": [
+"For Supangle",
+"1 glass of lactose-free milk or almond milk",
+"3 dates",
+"2 tablespoons of oatmeal",
+"1 tablespoon of cocoa",
+"For the above:",
+"Raw cocoa powder or dark chocolate chips or any fruit you like"
+]
+},
+"recipe": {
+"tr": [
+"Bütün malzemeleri kısık ateşteki bir çelik tencerede yaklaşık 20 dakika pişiriyoruz.",
+"Ardından blenderdan geçirip, kaselere koyuyor ve üzerine ham kakao çekirdekleri gezdiriyoruz.",
+"Buzdolabında soğutup, servis ediyoruz.",
+"Afiyet olsun"
+],
+"en": [
+"We cook all the ingredients in a steel saucepan on low heat for about 20 minutes.",
+"Then we put it in a blender, put it in bowls and drizzle raw cocoa beans on it.",
+"We cool and serve in the refrigerator.",
+"Bon Appetit"
+]
+},
+"nutritive_value": {
+"total_fat": 3,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 5,
+"potassium": 614,
+"carbohydrate": 53,
+"dietary_fiber": 6.1,
+"sugar": 31.5,
+"protein": 4.7,
+"a_vitamin": 438,
+"b_vitamin": 0.2,
+"c_vitamin": 0.2,
+"d_vitamin": 0,
+"calcium": 100,
+"cobalamin": 0,
+"magnesium": 48,
+"iren": 7
+},
+"categories": [
+"dessert",
+"snack",
+"low_calories",
+"low_fat",
+"low_carb",
+"100_200"
+]
+},
+{
+"id": 4,
+"description": {
+"tr": "A, C, K, E vitaminleri, demir, magnezyum ve bakır açısından oldukça zengin olan ıspanak, kemikleri ve bağışıklık sistemimizin güçlenmesine yardımcı olur. Hem doyurucu hem lezzetli hem de düşük kalorili bu tarifimizi denemelisiniz.",
+"en": "Spinach, which is very rich in vitamins A, C, K, E, iron, magnesium and copper, helps strengthen bones and our immune system. You should try this satisfying, delicious and low-calorie recipe."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F4.jpg?alt=media&token=2e9b4814-fd30-4c2b-9c86-7e5dc7441806",
+"title": {
+"tr": "Ispanak topları",
+"en": "Spinach dumplings"
+},
+"porsion": "2",
+"time": "30",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "15 adet 260 kcal",
+"en": "15 pieces 260 kcal"
+},
+"calories": "260",
+"materials": {
+"tr": [
+"350-400 gram ıspanak",
+"2 adet yumurta",
+"1 su bardağı rondo ile un haline getirilmiş tam buğday ekmeği (3 ince dilim)",
+"4 yemek kaşığı lor peyniri",
+"Tuz ve karabiber"
+],
+"en": [
+"350-400 grams of spinach",
+"2 eggs",
+"1 cup of rondo and floured whole wheat bread (3 thin slices)",
+"4 tablespoons of curd cheese",
+"Salt and Pepper"
+]
+},
+"recipe": {
+"tr": [
+"Ispanağın köklerini keserek sirkeli suda bekletiyoruz. Ardından süzüp güzelce yıkıyoruz.",
+"5 dakika kadar tencerede haşlayıp, süzüyoruz veya buharda pişiriyoruz.",
+"Ardından ıspanakları ince ince kıyıyoruz ve içine diğer malzemeleri ilave ediyoruz.",
+"Elde yuvarlayarak ya da dondurma kaşığı ile toplar yapıyoruz.",
+"Ispanak toplarımızı yağlı kağıt serdiğimiz fırın tepsisine dizerek 20 dakika 200 derecelik fırında pişiriyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We cut the roots of the spinach and soak it in vinegar water. Then we drain it and wash it well.",
+"We boil it in a pot for 5 minutes, drain or steam it.",
+"Then we chop the spinach finely and add the other ingredients.",
+"We make balls by hand rolling or with an ice cream scoop.",
+"We lay our spinach balls on a baking tray with greaseproof paper and bake them in the oven at 200 degrees for 20 minutes.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 17.8,
+"saturated_fat": 0.6,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 1.9,
+"cholesterol": 0,
+"sodium": 614,
+"potassium": 918,
+"carbohydrate": 87.1,
+"dietary_fiber": 5.1,
+"sugar": 35.5,
+"protein": 13.1,
+"a_vitamin": 785,
+"b_vitamin": 0.4,
+"c_vitamin": 0.2,
+"d_vitamin": 3,
+"calcium": 244,
+"cobalamin": 0.4,
+"magnesium": 102,
+"iren": 10.7
+},
+"categories": [
+"lunch",
+"dinner",
+"200_300",
+"low_carb",
+"low_fat",
+"sugarless"
+]
+},
+{
+"id": 5,
+"description": {
+"tr": "Sindirim sistemine iyi gelen ve metabolizmayı hızlandıran dereotu ile birlikte hem lezzetli hem de sağlıklı bir kek yapmaya hazır mısınız?",
+"en": "Are you ready to make a delicious and healthy cake with dill, which is good for the digestive system and accelerates metabolism?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F5.jpg?alt=media&token=fbf0b856-e110-4a00-beec-2625c5cf29fd",
+"title": {
+"tr": "Dereotlu Fit Kek",
+"en": "Dill Fit Cake"
+},
+"porsion": "10",
+"time": "45",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 dilim 190 kcal",
+"en": "1 piece 190 kcal"
+},
+"calories": "190",
+"materials": {
+"tr": [
+"2 adet yumurta",
+"Yarım su bardağı sızma zeytinyağı",
+"Yarım su bardağı süt",
+"1 tutam dereotu",
+"1 su bardağı kinoa unu veya tam buğday unu",
+"1 tatlı kaşığı zerdeçal",
+"3 yemek kaşığı ay çekirdeği",
+"1 paket kabartma tozu",
+"1 çay kaşığı tuz"
+],
+"en": [
+"2 eggs",
+"Half a glass of extra virgin olive oil",
+"Half a glass of milk",
+"1 pinch of dill",
+"1 cup of quinoa flour or whole wheat flour",
+"1 teaspoon of turmeric",
+"3 tablespoons of sunflower seeds",
+"1 packet of baking powder",
+"1 teaspoon of salt"
+]
+},
+"recipe": {
+"tr": [
+"Yumurtayı, zeytinyağını ve sütü birlikte mikserle çırpıyoruz.",
+"İçine ince ince kıydığımız dereotunu ekliyoruz. Güzelce karıştırıyoruz.",
+"Kinoa ununu, zerdeçalı, ay çekirdeğini, kabartma tozunu ve tuzu yaş karışıma aktarıyoruz. Birbirine iyice yediriyoruz.",
+"Yağlı kâğıt serdiğimiz baton kek kalıbına hamuru döküyoruz. Üzerine ay çekirdeği gezdiriyoruz.",
+"Önceden ısıttığımız 180 derecelik fırında 35 dakika pişiriyoruz.",
+"Soğuduktan sonra dilimleyerek servis ediyoruz. Afiyet olsun!"
+],
+"en": [
+"We whisk the egg, olive oil and milk together with a mixer.",
+"We add the finely chopped dill into it. We mix it well.",
+"We transfer quinoa flour, turmeric, sunflower seeds, baking powder and salt to the wet mixture. We feed each other well.",
+"We pour the dough into a loaf cake mold that we have laid out with greaseproof paper. We pour sunflower seeds on it.",
+"We bake in a preheated 180-degree oven for 35 minutes.",
+"After cooling, we serve it by slicing. Bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 27,
+"saturated_fat": 10,
+"polyunsaturated_fat": 4.2,
+"monounsaturated_fat": 12,
+"cholesterol": 1085,
+"sodium": 48,
+"potassium": 109,
+"carbohydrate": 2.6,
+"dietary_fiber": 0,
+"sugar": 0.6,
+"protein": 16,
+"a_vitamin": 1442,
+"b_vitamin": 0.4,
+"c_vitamin": 0,
+"d_vitamin": 218,
+"calcium": 129,
+"cobalamin": 2,
+"magnesium": 5,
+"iren": 2.7
+},
+"categories": [
+"snack",
+"200_300",
+"low_carb",
+"sugarless"
+]
+},
+{
+"id": 6,
+"description": {
+"tr": "Kayısı A, C vitamini ve demir kaynağıdır. Diyet lif oranı çok yüksektir. bağırsaklarınızın çalışmasına yardımcı olur. Hem hafif hem de lezzetliatıştırmamızı denemeye hazır mısınız?",
+"en": "Apricot is a source of vitamin A, vitamin C and iron. Dietary fiber is very high. It helps your bowels work. Are you ready to try our light and delicious snack?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F6.jpg?alt=media&token=197fe171-f832-4bb1-a4d1-acce15b1c6e4",
+"title": {
+"tr": "Kayısı topları",
+"en": "Apricot balls"
+},
+"porsion": "8",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 49 kcal",
+"en": "1 piece 49 kcal"
+},
+"calories": "49",
+"materials": {
+"tr": [
+"8 adet günkurusu kayısı",
+"8 adet ceviz içi",
+"1 silme yemek kaşığı toz kakao",
+"Toz Hindistan cevizi(isteğe bağlı)"
+],
+"en": [
+"8 dried apricots",
+"8 walnut kernels",
+"1 level tablespoon of cocoa powder",
+"Powdered Coconut (optional)"
+]
+},
+"recipe": {
+"tr": [
+"Günkurusu kayısıları yaklaşık 4-5 dakika boyunca suda bekletiyoruz.",
+"Dinlenen kayısıların suyunu süzdükten sonra ceviz ve kakao ile birlikte güçlü bir blenderda macun kıvamına gelinceye kadar çekiyoruz.",
+"Ceviz boyutunda aldığımız karışımı elimizde yuvarladıktan sonra Hindistan cevizine buluyoruz.",
+"Buzdolabında 30 dakika dinlendirdikten sonra servis ediyoruz. Afiyet olsun!"
+],
+"en": [
+"We soak the sun-dried apricots in water for about 4-5 minutes.",
+"After straining the juice of the rested apricots, we grind it together with walnuts and cocoa in a powerful blender until it becomes a paste.",
+"After rolling the walnut-sized mixture in our hands, we find it in a coconut.",
+"We serve it after resting in the refrigerator for 30 minutes. Bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 30.2,
+"saturated_fat": 2,
+"polyunsaturated_fat": 23,
+"monounsaturated_fat": 3,
+"cholesterol": 0,
+"sodium": 50,
+"potassium": 565,
+"carbohydrate": 12,
+"dietary_fiber": 5.2,
+"sugar": 1.9,
+"protein": 9.2,
+"a_vitamin": 152,
+"b_vitamin": 0.9,
+"c_vitamin": 4.2,
+"d_vitamin": 218,
+"calcium": 60,
+"cobalamin": 2,
+"magnesium": 165,
+"iren": 1.3
+},
+"categories": [
+"dessert",
+"sugarless",
+"low_calories",
+"low_carb",
+"low_fat",
+"50_100"
+]
+},
+{
+"id": 7,
+"description": {
+"tr": "Trabzon hurması antioksidan bakımından zengin bir meyvedir ve bağışıklık sisteminin güçlenmesine yardımcı olur. Bu sağlıklı ve lezzetli tatlımızı denemeye ne dersiniz?",
+"en": "Persimmon is an antioxidant-rich fruit and helps strengthen the immune system. How would you like to try this healthy and delicious dessert?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F7.jpg?alt=media&token=e676970b-d187-47d2-bc3c-2c31f8438be6",
+"title": {
+"tr": "Hurmalı Cheesecake",
+"en": "Persimmon Cheesecake"
+},
+"porsion": "4",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 160 kcal",
+"en": "1 piece 160 kcal"
+},
+"calories": "160",
+"materials": {
+"tr": [
+"Zemin için:",
+"6 adet gün kurusu",
+"3 yemek kaşığı çiğ fındık içi",
+"Krema için:",
+"2 adet cennet hurması",
+"100 gr light labne peyniri"
+],
+"en": [
+"For floor:",
+"6 dried sun dried",
+"3 tablespoons of raw hazelnuts",
+"For the cream:",
+"2 persimmons of paradise",
+"100 gr light labneh cheese"
+]
+},
+"recipe": {
+"tr": [
+"Gün kurusu ile fındık içini rondodan (en az 1000W) geçiriyoruz.",
+"4 karton muffin kalıbına eşit şekilde yayıyoruz, parmaklarımızla bastırıyoruz.",
+"Trabzon hurmalarını yıkıyoruz, kabuklarını soyuyoruz, çekirdeklerinden arındırıyoruz. Labne peyniri ile birlikte blenderdan geçiriyoruz.",
+"Karışımı da muffin kalıplarına eşit şekilde yayıyoruz. Üzerine arzuya göre fındık serpip derin dondurucuya atıyoruz.",
+"Yaklaşık 2 saat dinlendirdikten sonra servis ediyoruz. Afiyet olsuuun!"
+],
+"en": [
+"We pass the sun dried and hazelnut kernels through the rondo (at least 1000W).",
+"We spread it evenly in 4 cardboard muffin tins, press it with our fingers.",
+"We wash the persimmons, peel them, remove the seeds. We put them in a blender with labneh cheese.",
+"We spread the mixture evenly in the muffin molds. We sprinkle hazelnuts on it as desired and put it in the freezer.",
+"We serve it after resting for about 2 hours. Enjoy!"
+]
+},
+"nutritive_value": {
+"total_fat": 26.4,
+"saturated_fat": 4.2,
+"polyunsaturated_fat": 20.5,
+"monounsaturated_fat": 3.2,
+"cholesterol": 0,
+"sodium": 1,
+"potassium": 510,
+"carbohydrate": 41.4,
+"dietary_fiber": 3.1,
+"sugar": 2.1,
+"protein": 10.5,
+"a_vitamin": 17.6,
+"b_vitamin": 0,
+"c_vitamin": 66,
+"d_vitamin": 0,
+"calcium": 147,
+"cobalamin": 0,
+"magnesium": 0,
+"iren": 2.5
+},
+"categories": [
+"dessert",
+"sugarless",
+"snack",
+"low_calories",
+"low_carb",
+"low_fat",
+"100_200"
+]
+},
+{
+"id": 8,
+"description": {
+"tr": "İçerdiği antioksidanlar ve vitaminler sayesinde bağışıklık sisteminin güçlenmesine yardımcı olur. İltihapların iyileşmesinde rol oynar. Kalp sağlığını korur. Bu vitamin dolu çorbayı denemek ister misiniz?",
+"en": "Thanks to the antioxidants and vitamins it contains, it helps to strengthen the immune system. It plays a role in the healing of inflammations. It protects heart health. Want to try this vitamin-packed soup?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F8.jpg?alt=media&token=caaa7bfa-9a57-440d-b14f-03ff226703b7",
+"title": {
+"tr": "Balkabağı Çorbası",
+"en": "Pumpkin Soup"
+},
+"porsion": "4",
+"time": "30",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 280 kcal",
+"en": "1 porsion 280 kcal"
+},
+"calories": "280",
+"materials": {
+"tr": [
+"2 yemek kaşığı sızma zeytinyağı",
+"1 adet kuru soğan",
+"500 gram balkabağı",
+"Yarım adet yeşil elma",
+"5 su bardağı içme suyu",
+"Tuz, karabiber",
+"Üzeri için:",
+"Labne peyniri ve kereviz yaprağı (isteğe bağlı)"
+],
+"en": [
+"2 tablespoons of extra virgin olive oil",
+"1 onion",
+"500 grams of pumpkin",
+"Half a green apple",
+"5 glasses of drinking water",
+"Salt, pepper",
+"For the above:",
+"Labne cheese and celery leaves (optional)"
+]
+},
+"recipe": {
+"tr": [
+"Küp küp doğradığımız soğanları tenceremizdeki yağda kavuruyoruz.",
+"İçine kabaca doğradığımız balkabağını ve kabuğunu soyduğumuz elmayı ilave ediyoruz ve üzerine suyu ekliyoruz.",
+"Yaklaşık 15 dakika kısık ateşte pişirdikten sonra blender yardımı ile pürüzsüz hale getiriyoruz.",
+"Tuzunu ve karabiberini ilave edip beş dakika sonra ateşten alıyoruz.",
+"Servis etmeden önce isteğe bağlı olarak üzerine labne peyniri ve kereviz yaprağı gezdiriyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We fry the onions that we cut into cubes in the oil in our pot.",
+"We add the roughly chopped pumpkin and the peeled apple into it and add the water on it.",
+"After cooking on low heat for about 15 minutes, we make it smooth with the help of a blender.",
+"Add salt and pepper and take it off the fire after five minutes.",
+"Before serving, we optionally drizzle labneh cheese and celery leaves on it.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 10.1,
+"saturated_fat": 1.4,
+"polyunsaturated_fat": 1.1,
+"monounsaturated_fat": 7.3,
+"cholesterol": 0,
+"sodium": 6,
+"potassium": 352,
+"carbohydrate": 12,
+"dietary_fiber": 2,
+"sugar": 2.2,
+"protein": 1,
+"a_vitamin": 10.63,
+"b_vitamin": 0.2,
+"c_vitamin": 21,
+"d_vitamin": 0,
+"calcium": 48,
+"cobalamin": 0,
+"magnesium": 34,
+"iren": 0.7
+},
+"categories": [
+"dinner",
+"low_calories",
+"low_carb",
+"low_fat",
+"lunch",
+"200_300"
+]
+},
+{
+"id": 9,
+"description": {
+"tr": "Somon balığındaki omega 3 yağ asitleri, niasin ve B12 vitamini kalp hastalıklarına ilerleyebilen  trigliserid seviyesinin düşmesini sağlar. Bağışıklık sisteminin güçlenmesine ve iltihapların iyileşmesine yardımcı olur. Lezzetli ve sağlıklı bir akşam yemeğine ne dersiniz?",
+"en": "The omega 3 fatty acids, niacin and vitamin B12 in salmon help lower triglyceride levels, which can progress to heart disease. It helps to strengthen the immune system and heal inflammations. How about a delicious and healthy dinner?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F9.jpg?alt=media&token=0b959292-6d71-425a-b1a6-26e7c6ac783e",
+"title": {
+"tr": "Fırında Somon",
+"en": "Baked Salmon"
+},
+"porsion": "2",
+"time": "30",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 200 kcal",
+"en": "1 porsion 200 kcal"
+},
+"calories": "200",
+"materials": {
+"tr": [
+"2 dilim Somon balığı",
+"Brokoli, havuç, patates vb. istediğiniz mevsime uygun sebzeler",
+"Sosu için:",
+"1 adet limonun suyu",
+"1 tatlı kaşığı zeytinyağı",
+"2 diş rende sarımsak",
+"1 çay kaşığı kimyon",
+"1 çay kaşığı karabiber",
+"1 çay kaşığı kaya tuzu"
+],
+"en": [
+"2 slices of Salmon",
+"Seasonal vegetables such as broccoli, carrots, potatoes, etc.",
+"For the sauce:",
+"Juice of 1 lemon",
+"1 teaspoon of olive oil",
+"2 cloves of garlic grated",
+"1 teaspoon of cumin",
+"1 teaspoon of black pepper",
+"1 teaspoon of rock salt"
+]
+},
+"recipe": {
+"tr": [
+"Sosu için gerekli tüm malzemeleri karıştırıyoruz. Yağlı kâğıt serdiğimiz fırın tepsisine somonları yerleştiriyoruz.",
+"Sosumuzu somonlara iyice yediriyoruz. En az 1 saat buzdolabında dinlendiriyoruz.",
+"Önceden ısıttığımız 220 derecelik fırında 20 dakika pişiriyoruz.",
+"Buharda pişirdiğimiz sebzelerle (ben brokoli ve havuç tercih ettim) servis ediyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We mix all the necessary ingredients for the sauce. We place the salmon on the baking tray that we lined with greaseproof paper.",
+"We feed our sauce to the salmon well. We let it rest in the refrigerator for at least 1 hour.",
+"We cook for 20 minutes in a preheated 220 degree oven.",
+"We serve it with steamed vegetables (I chose broccoli and carrots).",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 13,
+"saturated_fat": 3.1,
+"polyunsaturated_fat": 3.9,
+"monounsaturated_fat": 3.8,
+"cholesterol": 55,
+"sodium": 59,
+"potassium": 363,
+"carbohydrate": 0,
+"dietary_fiber": 0,
+"sugar": 0,
+"protein": 20,
+"a_vitamin": 50,
+"b_vitamin": 0.6,
+"c_vitamin": 3.9,
+"d_vitamin": 0,
+"calcium": 9,
+"cobalamin": 3.2,
+"magnesium": 27,
+"iren": 0.3
+},
+"categories": [
+"dinner",
+"low_carb",
+"low_calories",
+"sugarless",
+"rich_protein",
+"100_200"
+]
+},
+{
+"id": 10,
+"description": {
+"tr": "İçerdiği yulaf ve hurma sayesinde sizi tok tutacak ve içerdiği yüksek lif miktarı ile bağırsaklarınızın çalışmasına yardımcı olacak. Kolay ve hızlı hazırlanan hem doyurucu hem lezzetli bu tatlıyı denemeye hazır mısınız?",
+"en": "Thanks to the oats and dates it contains, it will keep you full and will help your intestines work with its high fiber content. Are you ready to try this easy and fast, satisfying and delicious dessert?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F10.jpg?alt=media&token=441e212f-d60c-4626-9ae7-eef9926e098d",
+"title": {
+"tr": "Çikolatalı Fit Puding",
+"en": "Chocolate Fit Puding"
+},
+"porsion": "2",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 150 kcal",
+"en": "1 porsion 150 kcal"
+},
+"calories": "150",
+"materials": {
+"tr": [
+"2 su bardağı light süt",
+"4 yemek kaşığı chia tohumu ya da yulaf ezmesi",
+"2 yemek kaşığı kakao ya da keçiboynuzu unu",
+"4 adet hurma"
+],
+"en": [
+"2 glasses of light milk",
+"4 tablespoons of chia seeds or oatmeal",
+"2 tablespoons of cocoa or carob flour",
+"4 persimmons"
+]
+},
+"recipe": {
+"tr": [
+"Hurmaların çekirdeklerini çıkardıktan sonra, tüm malzemeleri pürüzsüz oluncaya dek güçlü bir blenderdan geçiriyoruz.",
+"Servis edeceğimiz bardaklara boşalttıktan sonra 1 saat buzdolabında bekletiyoruz.",
+"Uzerine bitter çikolata rendeleyip soğuk soğuk servis ediyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"After removing the seeds from the dates, we put all the ingredients in a powerful blender until smooth.",
+"After pouring it into the glasses we will serve, we keep it in the refrigerator for 1 hour.",
+"We grate dark chocolate on it and serve it cold.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 0.4,
+"saturated_fat": 0,
+"polyunsaturated_fat": 0,
+"monounsaturated_fat": 0,
+"cholesterol": 0,
+"sodium": 2,
+"potassium": 656,
+"carbohydrate": 75,
+"dietary_fiber": 8,
+"sugar": 63,
+"protein": 2.5,
+"a_vitamin": 10,
+"b_vitamin": 0.2,
+"c_vitamin": 0.4,
+"d_vitamin": 0,
+"calcium": 39,
+"cobalamin": 0,
+"magnesium": 43,
+"iren": 1
+},
+"categories": [
+"dessert",
+"low_carb",
+"low_fat",
+"snack",
+"rich_fiber",
+"100_200"
+]
+},
+{
+"id": 11,
+"description": {
+"tr": "İçerdiği lif ve chia tohumu sayesinde sizi tok tutacaktır. Sağlıklı bir atıştırmalık olarak tercih edebilirsiniz.",
+"en": "Thanks to the fiber and chia seeds it contains, it will keep you full. You can choose it as a healthy snack."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F11.jpg?alt=media&token=fb703061-4649-4f6e-9fa5-0124d8838985",
+"title": {
+"tr": "Lif enerji lapası",
+"en": "Fiber energy porridge"
+},
+"porsion": "1",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 450 kcal",
+"en": "1 porsion 450 kcal"
+},
+"calories": "450",
+"materials": {
+"tr": [
+"3/4 su bardağı yulaf ezmesi",
+"Yarım su bardağı su",
+"Yarım adet dilimlenmiş muz",
+"1 adet küp küp doğranmış hurma",
+"1 yemek kaşığı kakao",
+"1 tatlı kaşığı chia",
+"1 çay kaşığı tarçın",
+"Üzeri için:",
+"Yarım adet muz veya istediğiniz meyveler",
+"1-2 tatlı kaşığı fıstık ezmesi",
+"1 çay kaşığı ham kakao parçacığı veya bitter damla çikolata",
+"4-5 adet çiğ badem içi"
+],
+"en": [
+"3/4 cup oatmeal",
+"Half a glass of water",
+"Half a sliced ​​banana",
+"1 diced persimmon",
+"1 tablespoon of cocoa",
+"1 teaspoon of chia",
+"1 teaspoon of cinnamon",
+"For the above:",
+"Half a banana or any fruit you want",
+"1-2 teaspoons of peanut butter",
+"1 teaspoon of raw cocoa powder or dark chocolate chips",
+"4-5 raw almond kernels"
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ezmesini, muz dilimlerini, hurmaları, ham kakaoyu, chiayı ve tarçını su ile birlikte çelik tencerede yaklaşık 7-8 dakika pişiriyoruz.",
+"Servis edeceğimiz kaseye koyuyoruz.",
+"Üzerine meyve dilimleri, fıstık ezmesi, çiğ badem ve kakao parçacıkları gezdirip afiyetle tüketiyoruz. "
+],
+"en": [
+"We cook oatmeal, banana slices, dates, raw cocoa, chia and cinnamon in a steel pot with water for about 7-8 minutes.",
+"We put it in the bowl we will serve.",
+"We drizzle fruit slices, peanut butter, raw almonds and cocoa chips on it and enjoy it."
+]
+},
+"nutritive_value": {
+"total_fat": 9.4,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 51,
+"potassium": 666,
+"carbohydrate": 79,
+"dietary_fiber": 19.7,
+"sugar": 63,
+"protein": 13.3,
+"a_vitamin": 440,
+"b_vitamin": 0.2,
+"c_vitamin": 1.4,
+"d_vitamin": 0,
+"calcium": 172,
+"cobalamin": 0,
+"magnesium": 363,
+"iren": 7.3
+},
+"categories": [
+"dessert",
+"snack",
+"breakfast",
+"rich_fiber",
+"rich_protein",
+"low_carb",
+"low_fat",
+"lunch",
+"400_500"
+]
+},
+{
+"id": 12,
+"description": {
+"tr": "Her gün kahvaltıda aynı şeyleri yemekten sıkılmadınız mı? Haydi lezzetli bir kahvaltı hazırlayalım.",
+"en": "Tired of eating the same things for breakfast every day? Let's prepare a delicious breakfast."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F12.jpg?alt=media&token=d27c9486-87d0-4857-8299-59172a2ca822",
+"title": {
+"tr": "Unsuz muzlu pankek",
+"en": "Flourless banana pancakes"
+},
+"porsion": "1",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 303 kcal",
+"en": "1 porsion 303 kcal"
+},
+"calories": "303",
+"materials": {
+"tr": [
+"1 adet muz",
+"2 adet yumurta",
+"1 çay kaşığı ceviz yağı"
+],
+"en": [
+"1 banana",
+"2 eggs",
+"1 teaspoon of walnut oil"
+]
+},
+"recipe": {
+"tr": [
+"Muzu ezerek püre kıvamına getirin.",
+"Yumurtaları muz püresi ile birlikte iyice çırpın.",
+"Tavayı yağladıktan sonra hazırladığınız harçtan tavaya bir yemek kaşığı dökün.",
+"Alt kısmı pişince çevirerek diğer tarafını pişirin.",
+"Afiyet olsun!"
+],
+"en": [
+"Crush the banana to a puree consistency.",
+"Beat the eggs well with the mashed banana.",
+"After oiling the pan, pour a tablespoon of the mortar you prepared into the pan.",
+"When the bottom is cooked, turn it over and cook the other side.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 12.3,
+"saturated_fat": 2.1,
+"polyunsaturated_fat": 3.1,
+"monounsaturated_fat": 5,
+"cholesterol": 0,
+"sodium": 1,
+"potassium": 358,
+"carbohydrate": 39.5,
+"dietary_fiber": 4.6,
+"sugar": 12,
+"protein": 14.1,
+"a_vitamin": 64,
+"b_vitamin": 0.4,
+"c_vitamin": 0.3,
+"d_vitamin": 0,
+"calcium": 5,
+"cobalamin": 0,
+"magnesium": 27,
+"iren": 0.3
+},
+"categories": [
+"breakfast",
+"low_carb",
+"low_fat",
+"rich_protein",
+"rich_fiber",
+"sugarless"
+]
+},
+{
+"id": 13,
+"description": {
+"tr": "Her gün kahvaltıda aynı şeyleri yemekten sıkılmadınız mı? Haydi lezzetli bir kahvaltı hazırlayalım.",
+"en": "Tired of eating the same things for breakfast every day? Let's prepare a delicious breakfast."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F13.jpg?alt=media&token=4aee9ad8-6bde-4741-bd8f-eeabb727094f",
+"title": {
+"tr": "Kahveli Pankek",
+"en": "Brown Pancakes"
+},
+"porsion": "1",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 374 kcal",
+"en": "1 porsion 374 kcal"
+},
+"calories": "374",
+"materials": {
+"tr": [
+"1 çay bardağı yulaf ezmesi",
+"2 yemek kaşığı yoğurt",
+"1 tatlı kaşığı türk kahvesi",
+"yarım paket kabartma tozu",
+"2 adet yumurta",
+"1 tatlı kaşığı rende hindistan cevizi"
+],
+"en": [
+"1 teaspoon of oatmeal",
+"2 tablespoons of yogurt",
+"1 teaspoon of Turkish coffee",
+"half a pack of baking soda",
+"2 eggs",
+"1 teaspoon of grated coconut"
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ezmesini blender yardımı ile un haline getirin.",
+"Tüm malzemeleri karıştırıp çırparak karışım elde edin.",
+"Tavayı ısıttıktan sonra harcınızdan bir kaşık koyun.",
+"Alt tarafı piştikten sonra çevirerek diğer tarafı pişirin.",
+"Afiyet olsun."
+],
+"en": [
+"Make the oatmeal flour with the help of a blender.",
+"Make a mixture by mixing and whisking all the ingredients.",
+"After heating the pan, put a spoonful of your mortar.",
+"After the bottom side is cooked, turn and cook the other side.",
+"Bon Appetit."
+]
+},
+"nutritive_value": {
+"total_fat": 18,
+"saturated_fat": 5.2,
+"polyunsaturated_fat": 3.4,
+"monounsaturated_fat": 6.4,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 30.3,
+"dietary_fiber": 5,
+"sugar": 0.5,
+"protein": 24.4,
+"a_vitamin": 433,
+"b_vitamin": 0.3,
+"c_vitamin": 8.7,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"breakfast",
+"sugarless",
+"low_carb",
+"low_fat",
+"rich_protein",
+"rich_fiber",
+"300_400"
+]
+},
+{
+"id": 14,
+"description": {
+"tr": "İçeriğinde yüksek oranda mineral ve vitamin barındıran lor peyniri, bağışıklık sistemini güçlendirerek vücudun daha dirençli olmasını sağlamaktadır.Diğer süt ürünleri gibi kalsiyum deposu olan lor, kemik gelişiminde önemli bir rol oynamaktadır. Besleyici ve bol vitamin mineral içeren bir kahvaltıya hazır mısınız?",
+"en": "Curd cheese, which contains high levels of minerals and vitamins, strengthens the immune system and makes the body more resistant.Curd, which is a calcium store like other dairy products, plays an important role in bone development. Are you ready for a nutritious breakfast with plenty of vitamins and minerals?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F14.jpg?alt=media&token=91eb3ba1-301b-44e4-b97b-69c00595a339",
+"title": {
+"tr": "Lor tava",
+"en": "Curd pan"
+},
+"porsion": "2",
+"time": "8",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 224 kcal",
+"en": "1 porsion 224 kcal"
+},
+"calories": "224",
+"materials": {
+"tr": [
+"200 g lor peyniri",
+"1 yemek kaşığı tereyağı",
+"2 yemek kaşığı domates püresi",
+"baharatlar"
+],
+"en": [
+"200 g of curd cheese",
+"1 tablespoon of butter",
+"2 tablespoons of tomato puree",
+"spices"
+]
+},
+"recipe": {
+"tr": [
+"Tavada tereyağını eritin.",
+"Lor peynirleri ekleyerek 1 dakika pişirin.",
+"Domates püresini ekleyip bir kaç dakika karıştırarak pişirin.",
+"Baharatları da ekleyin.",
+"Dilerseniz istediğiniz yeşillikleri de ekleyebilirsiniz.",
+"Afiyet olsun!"
+],
+"en": [
+"Melt the butter in the pan.",
+"Add curd cheese and cook for 1 minute.",
+"Add the tomato puree and cook for a few minutes, stirring.",
+"Add spices too.",
+"You can also add any greens you want.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 8.3,
+"saturated_fat": 2.7,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 1.6,
+"cholesterol": 34,
+"sodium": 728,
+"potassium": 204,
+"carbohydrate": 6.4,
+"dietary_fiber": 0,
+"sugar": 4.7,
+"protein": 22,
+"a_vitamin": 240,
+"b_vitamin": 0,
+"c_vitamin": 0,
+"d_vitamin": 6,
+"calcium": 163,
+"cobalamin": 0.4,
+"magnesium": 16,
+"iren": 0.2
+},
+"categories": [
+"breakfast",
+"sugarless",
+"low_carb",
+"rich_protein",
+"200_300"
+]
+},
+{
+"id": 15,
+"description": {
+"tr": " Canınız tatlı mı çekti? Kahvaltıda tüketebileceğiniz sağlıklı ve protein oranı yüksek nutellanızı yapmaya ne dersiniz?",
+"en": "Are you craving sweets? How about making your healthy and high protein nutella that you can consume for breakfast?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F15.jpg?alt=media&token=fd0271b6-4f15-4e8f-a3ff-1802e00948ed",
+"title": {
+"tr": "Ev yapımı nutella",
+"en": "Homemade nutella"
+},
+"porsion": "20",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 50 kcal",
+"en": "1 porsion 50 kcal"
+},
+"calories": "50",
+"materials": {
+"tr": [
+"1 su bardağı fındık ",
+"1 yk kakao ",
+"12 adet orta boy hurma",
+"1 tk bal",
+"Dilerseniz 1 tatlı kaşığı hindistan cevizi yağı da ekleyebilirsiniz."
+],
+"en": [
+"1 cup of hazelnuts",
+"1 tbsp cocoa",
+"12 medium dates",
+"1 tsp honey",
+"You can also add 1 teaspoon of coconut oil if you wish."
+]
+},
+"recipe": {
+"tr": [
+"Fındıkları bir tavaya alarak birkaç dakika kavuruyoruz.",
+"Hurmaları 15 dakika kadar sıcak suda bekletip çekirdeklerini ayırıyoruz.",
+"Fındıkların üzerine 1 yemek kaşığı kadar hurma suyundan ekleyip blenderdan geçiriyoruz.",
+"Hurmaları, balı ve kakaoyu da blender kabına ekleyip tekrar blenderdan geçiriyoruz. Bu aşamada hurma suyundan ekleyerek fındık kremanızı istediğiniz kıvama getirebilirsiniz.",
+"Afiyet olsun!"
+],
+"en": [
+"We take the hazelnuts in a pan and roast them for a few minutes.",
+"Soak the dates in hot water for 15 minutes and separate the seeds.",
+"We add 1 tablespoon of palm juice to the hazelnuts and pass them through the blender.",
+"We add the dates, honey and cocoa to the blender bowl and pass them through the blender again. At this stage, you can add the palm juice and bring your hazelnut cream to the desired consistency.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 3.5,
+"saturated_fat": 0.7,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.6,
+"cholesterol": 14,
+"sodium": 728,
+"potassium": 204,
+"carbohydrate": 78.4,
+"dietary_fiber": 9,
+"sugar": 63.7,
+"protein": 2,
+"a_vitamin": 24,
+"b_vitamin": 0,
+"c_vitamin": 10.5,
+"d_vitamin": 6,
+"calcium": 163,
+"cobalamin": 0.4,
+"magnesium": 16,
+"iren": 4.7
+},
+"categories": [
+"breakfast",
+"snack",
+"dessert",
+"low_calories",
+"low_carb",
+"low_fat",
+"50_100"
+]
+},
+{
+"id": 16,
+"description": {
+"tr": "Mantar protein ve vitamin-mineral açısından zengin bir yiyecektir. kahvaltınız için hem doyurucu hem de sağlıklı bir tarif denemeye ne dersiniz?",
+"en": "Mushroom is a food rich in protein and vitamins and minerals. How about trying a satisfying and healthy recipe for your breakfast?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F16.jpg?alt=media&token=1a093a4a-c48b-43d6-b617-75afdc73feb0",
+"title": {
+"tr": "Mantarlı Fit Omlet",
+"en": "Mushroom Fit Omelette"
+},
+"porsion": "1",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 304 kcal",
+"en": "1 porsion 304 kcal"
+},
+"calories": "304",
+"materials": {
+"tr": [
+"60 g lor peyniri",
+"2 adet yumurta",
+"1 kase kültür mantarı",
+"1 çay kaşığı pul biber",
+"1 çay kaşığı zeytinyağı"
+],
+"en": [
+"60 g curd cheese",
+"2 eggs",
+"1 bowl of cultivated mushrooms",
+"1 teaspoon of cayenne pepper",
+"1 teaspoon of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Mantarların zarlarını soyup dilimliyoruz.",
+"Tavanın altını ısıtıp zeytinyağını da koyduktan sonra mantarları bir kaşık yardımıyla çevirerek birkaç dakika pişiriyoruz.",
+"Yumurtaları çırpıp mantarların üzerine döküyoruz ve tavanın üzerini kapatıyoruz.",
+"Tavadaki karışımın alt tabanı piştikten sonra üzerine lor peynirlerini de ekleyip kapağını tekrar kapatıyoruz ve üst kısmının da pişmesini sağlıyoruz.",
+"Son olarak üzerine pul biber veya istediğiniz farklı baharatları ekleyerek servis edebilirsiniz. Afiyet olsun!"
+],
+"en": [
+"We peel and slice the mushrooms.",
+"After heating the bottom of the pan and adding olive oil, we cook the mushrooms for a few minutes by turning them with the help of a spoon.",
+"Beat the eggs and pour them over the mushrooms and cover the pan.",
+"After the bottom of the mixture in the pan is cooked, we add curd cheese on it, close the lid again, and let the top cook too.",
+"Finally, you can serve it by adding chili pepper or any other seasoning you want. Bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 15.8,
+"saturated_fat": 2.5,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.6,
+"cholesterol": 140,
+"sodium": 327,
+"potassium": 204,
+"carbohydrate": 10.5,
+"dietary_fiber": 1.7,
+"sugar": 1.5,
+"protein": 26.7,
+"a_vitamin": 104,
+"b_vitamin": 0.12,
+"c_vitamin": 2.5,
+"d_vitamin": 39,
+"calcium": 163,
+"cobalamin": 0.38,
+"magnesium": 16,
+"iren": 4.7
+},
+"categories": [
+"breakfast",
+"low_fat",
+"low_carb",
+"rich_protein",
+"sugarless",
+"300_400"
+]
+},
+{
+"id": 17,
+"description": {
+"tr": "Ispanak içerdiği demir sayesinde bağışıklık sisteminizi güçlendirecektir. Peynirin ve yumurtanın içerdiği yüksek protein miktarı ile sizi tok tutacak bu tarifi kahvaltınızda denemeye ne dersiniz?",
+"en": "Thanks to the iron it contains, spinach will strengthen your immune system. How would you like to try this recipe for breakfast, which will keep you full with the high protein content of cheese and eggs?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F17.jpg?alt=media&token=f47e4dd5-1b4b-4621-8305-41ea3aeb7a1a",
+"title": {
+"tr": "Ispanaklı omlet",
+"en": "Spinach Omelette"
+},
+"porsion": "1",
+"time": "13",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 306 kcal",
+"en": "1 porsion 306 kcal"
+},
+"calories": "306",
+"materials": {
+"tr": [
+"1 kase doğranmış ıspanak",
+"50 g beyaz peynir",
+"2 adet yumurta",
+"1 tk tereyağı (opsiyonel)"
+],
+"en": [
+"1 cup of chopped spinach",
+"50 g of feta cheese",
+"2 eggs",
+"1 tsp butter (optional)"
+]
+},
+"recipe": {
+"tr": [
+"Ispanakları iyice yıkayıp ince ince doğruyoruz.",
+"Beyaz peyniri de küçük parçalar halinde doğrayıp ıspanakla karıştırıyoruz.",
+"Yapışmak yüzeyli tavayı ısıttıktan sonra ıspanak ve peynir karışımını peynirler yumuşayana kadar pişiriyoruz. (Tereyağı kullanacaksanız bu aşamada ekleyebilirsiniz.)",
+"Üzerine yumurtaları da ekleyip karıştırarak pişiriyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"Wash and finely chop the spinach.",
+"We cut the feta cheese into small pieces and mix it with the spinach.",
+"After heating the sticky pan, we cook the spinach and cheese mixture until the cheeses soften. (If you are going to use butter, you can add it at this stage)",
+"We add eggs to it and cook it by mixing.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 21.8,
+"saturated_fat": 2.5,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.6,
+"cholesterol": 140,
+"sodium": 327,
+"potassium": 204,
+"carbohydrate": 3.5,
+"dietary_fiber": 0.7,
+"sugar": 1.5,
+"protein": 23.7,
+"a_vitamin": 104,
+"b_vitamin": 0.12,
+"c_vitamin": 2.5,
+"d_vitamin": 39,
+"calcium": 163,
+"cobalamin": 0.38,
+"magnesium": 16,
+"iren": 4.7
+},
+"categories": [
+"breakfast",
+"low_carb",
+"rich_protein",
+"300_400",
+"healthy"
+]
+},
+{
+"id": 18,
+"description": {
+"tr": "Muhteşem bir protein kaynağı olan fıstık ezmesini özellikle sporcular çok sık tüketmektedir. Çoklu doymamış yağlar içerir. Bu yağlar doymuş olduğu için kalp krizi riskini azaltır ve kötü kolestrol seviyesinin düşmesine yardımcı olur.",
+"en": "Especially athletes consume peanut butter, which is a great source of protein, very often. Contains polyunsaturated fats. Since these fats are saturated, they reduce the risk of heart attack and help lower bad cholesterol levels."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F18.jpg?alt=media&token=0194f955-ee71-4acc-8dde-ce6c6fc855ba",
+"title": {
+"tr": "Fıstık ezmesi ",
+"en": "Peanut butter"
+},
+"porsion": "10",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 101 kcal",
+"en": "1 porsion 101 kcal"
+},
+"calories": "101",
+"materials": {
+"tr": [
+"160 g tuzsuz fıstık (1 orta boy kase)",
+"1 yemek kaşığı hindistan cevizi yağı veya zeytinyağı (isteğe bağlı)",
+"1 tatlı kaşığı bal"
+],
+"en": [
+"160 g unsalted peanuts (1 medium bowl)",
+"1 tablespoon of coconut oil or olive oil (optional)",
+"1 teaspoon of honey"
+]
+},
+"recipe": {
+"tr": [
+"Fıstıkların kabukları soyulur ve tavada 5 dakika kadar kavrulur.",
+"Rondo veya blender yardımıyla iyice parçalanır.",
+"İsteğe göre bal ekleyerek tatlandırılır ve yağ ekleyerek akışkan kıvama getirilir.",
+"İyice karıştırılır, afiyet olsun!"
+],
+"en": [
+"Peanuts are peeled and roasted in the pan for 5 minutes.",
+"It is thoroughly shredded with the help of a rondo or blender.",
+"It is sweetened by adding honey to taste and brought to a fluid consistency by adding oil.",
+"Mix well, bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 8.9,
+"saturated_fat": 2.3,
+"polyunsaturated_fat": 0.5,
+"monounsaturated_fat": 0.7,
+"cholesterol": 0,
+"sodium": 17,
+"potassium": 649,
+"carbohydrate": 3,
+"dietary_fiber": 1.4,
+"sugar": 9,
+"protein": 4.1,
+"a_vitamin": 0,
+"b_vitamin": 0.5,
+"c_vitamin": 1.9,
+"d_vitamin": 0,
+"calcium": 43,
+"cobalamin": 0,
+"magnesium": 154,
+"iren": 1.9
+},
+"categories": [
+"breakfast",
+"dessert",
+"low_carb",
+"snack",
+"rich_fiber",
+"healthy",
+"100_200"
+]
+},
+{
+"id": 19,
+"description": {
+"tr": "Tahinin içerdiği yüksek kalsiyum ve diğer mineraller ile kemikleri ve bağışıklık sistemini güçlendirir. Kalp hastalıklarını önler ve kolestrol seviyesini dengeler.Hem sağlıklı hem düşük kalorili bir kahvaltıya ne dersiniz? Haydi kendimize güzel bir kahvaltı hazırlayalım.",
+"en": "Tahini strengthens bones and immune system with its high calcium and other minerals. It prevents heart diseases and balances cholesterol levels. How about a healthy and low-calorie breakfast? Let's prepare ourselves a nice breakfast."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F19.jpg?alt=media&token=ca95e1c8-3ff8-4461-b70b-c13fa1436bd0",
+"title": {
+"tr": "Tahinli unsuz pankek",
+"en": "Tahini flourless pancakes"
+},
+"porsion": "2",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 303 kcal",
+"en": "1 porsion 303 kcal"
+},
+"calories": "303",
+"materials": {
+"tr": [
+"1 tatlı kaşığı susam ",
+"1 adet muz",
+"2 adet yumurta",
+"1 çay kaşığı tarçın",
+"1 yemek kaşığı tahin",
+"1 çay kaşığı hindistan cevizi yağı veya zeytinyağı",
+"1 çay kaşığı bal"
+],
+"en": [
+"1 teaspoon sesame",
+"1 banana",
+"2 eggs",
+"1 teaspoon of cinnamon",
+"1 tablespoon of tahini",
+"1 teaspoon of coconut oil or olive oil",
+"1 teaspoon of honey"
+]
+},
+"recipe": {
+"tr": [
+"Susamları tavada birkaç dakika ısıtıyoruz, rengi biraz karardıktan sonra ateşten alıp kenara koyuyoruz.",
+"Muzu çatal yardımıyla ezerek püre haline getiriyoruz.",
+"Muz püresinin üzerine yumurtaları kırıyoruz ve iyice çırpıyoruz. İyice çırptıktan sonra tarçın ve tahini de karışımın üzerine ekliyoruz.",
+"Tavayı yağlayıp biraz ısıtıyoruz. Daha sonra harcımızı tavaya alarak pişiriyoruz. (Tüm harcı tek pankek olarak pişirmeye çalışmayın, çevirmesi zor olacaktır. Bir yemek kaşıklık boyutlarda alarak pişirebilirsiniz.)",
+"Pişirirken pankeklerin üst kısmında kabarcıklar oluştuğunda çevirebilirsiniz.",
+"Pişen pankekleri tabağımıza aldıktan sonra üzerine bal ve kavurduğumuz susamları da ekliyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We heat the sesame seeds in the pan for a few minutes, after they turn a little dark, we take them off the fire and set them aside.",
+"We mash the banana with a fork and mash it.",
+"We break the eggs on the banana puree and whisk well. After whisking well, we add cinnamon and tahini to the mixture.",
+"We grease the pan and heat it up a bit. Then we put our mortar in the pan and cook it. (Do not try to cook the whole pancake as one pancake, it will be difficult to turn it over. You can cook it in the size of a spoon.",
+"You can flip the pancakes when bubbles form on the top while baking.",
+"After we take the cooked pancakes to our plate, we add honey and roasted sesame seeds on it.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 12.3,
+"saturated_fat": 2.1,
+"polyunsaturated_fat.": 3.1,
+"monounsaturated_fat": 5,
+"cholesterol": 0,
+"sodium": 1,
+"potassium": 358,
+"carbohydrate": 39.5,
+"dietary_fiber": 4.6,
+"sugar": 12,
+"protein": 14.1,
+"a_vitamin": 64,
+"b_vitamin": 0.4,
+"c_vitamin": 8.7,
+"d_vitamin": 0,
+"calcium": 5,
+"cobalamin": 0,
+"magnesium": 27,
+"iren": 0.3
+},
+"categories": [
+"breakfast",
+"low_carb",
+"300_400",
+"healthy",
+"dessert"
+]
+},
+{
+"id": 20,
+"description": {
+"tr": "Yüksek protein oranı ile hem doyurucu hem de sağlıklı bir kahvaltıya ne dersiniz?",
+"en": "How about a hearty and healthy breakfast with a high protein ratio?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/meslekanalizi-47f28.appspot.com/o/20.jpg?alt=media&token=d50adb35-7164-4390-a153-32e8f58105c3",
+"title": {
+"tr": "Peynirli omlet",
+"en": "Cheese Omelette"
+},
+"porsion": "1",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 297",
+"en": "1 porsion 297 kcal"
+},
+"calories": "297",
+"materials": {
+"tr": [
+"100 g lor peyniri",
+"2 dilim kaşar",
+"Tam tahıllı veya kepekli ekmek",
+"Domates suyu (domates püresi veya salçayı sulandırarak da kullanabilirsiniz)"
+],
+"en": [
+"100 g curd cheese",
+"2 slices of cheddar",
+"Whole-grain or wholemeal bread",
+"Tomato juice (you can also dilute tomato puree or tomato paste)"
+]
+},
+"recipe": {
+"tr": [
+"Kaşarları küçük küçük doğruyoruz.",
+"Lor peynirini domates suyuyla veya domates püresiyle biraz sulandırarak karıştırıyoruz.",
+"Ekmeği kestikten sonra alt ve üst katmana kaşarları, aralarına da lor peynirini koyuyoruz.",
+"Tost makinesinde pişirdikten sonra dilimliyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We chop the cheddar small.",
+"We mix the curd cheese with tomato juice or tomato puree by diluting it a little.",
+"After cutting the bread, we put the cheddar on the top and bottom layers, and the curd cheese between them.",
+"We slice it after cooking in the toaster.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 14.3,
+"saturated_fat": 10.1,
+"polyunsaturated_fat": 3.1,
+"monounsaturated_fat": 2.1,
+"cholesterol": 215,
+"sodium": 521,
+"potassium": 378,
+"carbohydrate": 11.1,
+"dietary_fiber": 0.9,
+"sugar": 12,
+"protein": 21.1,
+"a_vitamin": 364,
+"b_vitamin": 1.4,
+"c_vitamin": 39.7,
+"d_vitamin": 0,
+"calcium": 441,
+"cobalamin": 0.25,
+"magnesium": 27,
+"iren": 0.3
+},
+"categories": [
+"breakfast",
+"low_carb",
+"rich_protein",
+"sugarless",
+"200_300"
+]
+},
+{
+"id": 21,
+"description": {
+"tr": "Sabah kahvaltı yapmaya vaktiniz mi yok? Akşamdan hazırlayabileceğiniz bu lezzetli tarif ile hızlıca doyurucu bir kahvaltı yapabilirsiniz.",
+"en": "Don't have time to have breakfast in the morning? With this delicious recipe that you can prepare in the evening, you can quickly have a hearty breakfast."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F21.jpg?alt=media&token=8ef3f128-9dc5-44e4-a858-35703bdd8efa",
+"title": {
+"tr": "Yulaf Ezmesi",
+"en": "Rolled Oats"
+},
+"time": "5",
+"porsion": "2",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 213 kcal",
+"en": "1 porsion 213 kcal"
+},
+"calories": "213",
+"materials": {
+"tr": [
+"60 g yulaf ezmesi",
+"200 ml süt",
+"Yarım muz (veya farklı bir meyve)",
+"Fıstık ezmesi",
+"Hindistan cevizi",
+"Tarçın (isteğe bağlı eklenebilir)"
+],
+"en": [
+"60 g of oatmeal",
+"200 ml of milk",
+"Half a banana (or another fruit)",
+"Peanut Butter",
+"Coconut",
+"Cinnamon (optional)"
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ve sütü bir kaba ekleyerek 15 dakika kadar buzdolabında bekletiyoruz.",
+"Meyveleri dilimliyoruz, isteğe bağlı eklenecek diğer malzemelerle birlikte (fıstık ezmesi, hindistan cevizi, bal) yulaf karışımına ekliyoruz.",
+"Üzerini kapatarak akşamdan buzdolabına atıyoruz. Sabah dolaptan çıkarıp karıştırıyoruz."
+],
+"en": [
+"We add oats and milk to a bowl and keep it in the refrigerator for 15 minutes.",
+"We slice the fruit, add it to the oat mixture with other optional ingredients (peanut butter, coconut, honey).",
+"We cover it and put it in the fridge overnight. We take it out of the fridge in the morning and mix it."
+]
+},
+"nutritive_value": {
+"total_fat": 5.8,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 32,
+"dietary_fiber": 5.2,
+"sugar": 0.5,
+"protein": 8.4,
+"a_vitamin": 433,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": []
+},
+{
+"id": 22,
+"description": {
+"tr": "Yüksek protein içeriği ile hem tok tutacak hem de lezzetli bir kahvaltıya ne dersiniz?",
+"en": "How about a breakfast that will keep you full and delicious with its high protein content?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F22.jpg?alt=media&token=8bf36c62-d333-4daf-9e9b-c70b9cbe9949",
+"title": {
+"tr": "Fit Fransız Tostu",
+"en": "Fit French Toast"
+},
+"time": "20",
+"porsion": "2",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 264 kcal",
+"en": "1 porsion 264 kcal"
+},
+"calories": "264",
+"materials": {
+"tr": [
+"1 adet yumurta",
+"Yarım bardak süt",
+"4 dilim tam tahıllı tost ekmeği",
+"1 yemek kaşığı hindistan cevizi yağı veya tereyağı",
+"1 ölçek whey protein"
+],
+"en": [
+"1 egg",
+"Half a glass of milk",
+"4 slices of whole grain toast bread",
+"1 tablespoon of coconut oil or butter",
+"1 scoop of whey protein"
+]
+},
+"recipe": {
+"tr": [
+"Yumurtaları geniş bir kabın içine kırarak çırpıyoruz.",
+"Whey proteini sütle beraber iyice karıştırıyoruz.",
+"Tüm malzemeleri çırptığımız yumurtaların üzerine ekleyerek çırpıyoruz. (Bu aşamada blender da kullanabilirsiniz.)",
+"Tavayı ısıtıp yağlıyoruz.",
+"Tost ekmeklerini az önce hazırladığımız karışımın içine atarak ıslatıp iyice emdiriyoruz.",
+"Daha sonra tavaya alıyoruz ve çevirerek iki tarafını da kızartıyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We break the eggs into a large bowl and whisk them.",
+"We mix the whey protein well with the milk.",
+"We add all the ingredients to the beaten eggs and whisk them. (You can also use a blender at this stage)",
+"We heat the pan and grease it.",
+"We throw the toast breads into the mixture we have just prepared, soak them thoroughly.",
+"Then we put it in the pan and fry it on both sides by turning it.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 19.8,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 381,
+"potassium": 231,
+"carbohydrate": 32,
+"dietary_fiber": 3.2,
+"sugar": 0.5,
+"protein": 19.4,
+"a_vitamin": 233,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 103,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"breakfast",
+"healthy",
+"low_carb",
+"rich_protein",
+"200_300"
+]
+},
+{
+"id": 23,
+"description": {
+"tr": "İster öğlen yemeğinde ister akşam yemeğinde tercih edebileceğiniz lezzetli bir tarif denemeye ne dersiniz?",
+"en": "How about trying a delicious recipe that you can choose for lunch or dinner?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F23.png?alt=media&token=e74f5ebe-0ddc-4a18-9ca5-61b1e1db80df",
+"title": {
+"tr": "Sarımsaklı Tavuk",
+"en": "Garlic Chicken"
+},
+"time": "40",
+"porsion": "5",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 331 kcal",
+"en": "1 porsion 331 kcal"
+},
+"calories": "331",
+"materials": {
+"tr": [
+"1 kg tavuk göğsü",
+"50 g yulaf ezmesi",
+"50 g az yağlı kaşar peyniri veya parmesan peyniri",
+"6 diş sarımsak",
+"1 yemek kaşığı zeytin yağı"
+],
+"en": [
+"1 kg of chicken breast",
+"50 g of oatmeal",
+"50 g low-fat cheddar or parmesan cheese",
+"6 cloves of garlic",
+"1 tablespoon of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Bir tabakta rendelenmiş kaşar peynirinin üzerine un haline getirilmiş yulaf ezmesi eklenir, karıştırılır.",
+"Sarımsaklar dövülür veya rendelenir.",
+"Bir tavaya bir kaşık zeytinyağı dökülür, üzerine sarımsaklar eklenir, birkaç dakika ısıtılır.",
+"Yağ biraz kızınca ocağın altı kapatılır.",
+"Tavuk göğüsleri önce yağa bandırılır, sonra kaşar ve yulaflı karışıma sürülür, fırın kabına koyulur. ",
+"220 derecede 30-35 dakika pişirilir.",
+"Afiyet olsun!"
+],
+"en": [
+"Oatmeal made into flour is added to the grated cheddar cheese on a plate and mixed.",
+"Garlic is crushed or grated.",
+"A spoonful of olive oil is poured into a pan, garlic is added to it, heated for a few minutes.",
+"When the oil gets a little hot, the bottom of the stove is turned off.",
+"The chicken breasts are first dipped in oil, then rubbed into the cheddar and oatmeal mixture, and put in the baking dish.",
+"Baked at 220 degrees for 30-35 minutes.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 10,
+"saturated_fat": 3.8,
+"polyunsaturated_fat": 3,
+"monounsaturated_fat": 5,
+"cholesterol": 88,
+"sodium": 82,
+"potassium": 223,
+"carbohydrate": 7,
+"dietary_fiber": 1,
+"sugar": 0,
+"protein": 50,
+"a_vitamin": 161,
+"b_vitamin": 0.4,
+"c_vitamin": 0.4,
+"d_vitamin": 2,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 23,
+"iren": 1.3
+},
+"categories": [
+"rich_protein",
+"lunch",
+"dinner",
+"healthy",
+"low_carb",
+"rich_fiber",
+"300_400"
+]
+},
+{
+"id": 24,
+"description": {
+"tr": " Doyurucu ve yüksek protein içeren bu tarifi ister öğlen yemeğinde isterse akşam yemeğinde tüketebilirsiniz. Kolay ve hızlı hazırlanan bu tarifi yanınızda taşıyabilirsiniz.",
+"en": "You can consume this hearty and high-protein recipe for lunch or dinner. You can take this easy and quick recipe with you."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F24.jpg?alt=media&token=0321f636-29a3-456e-b5e4-7503a5648614",
+"title": {
+"tr": "Ton Balıklı Burger",
+"en": "Tuna Burger"
+},
+"time": "5",
+"porsion": "1",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 375 kcal",
+"en": "1 porsion 375 kcal"
+},
+"calories": "375",
+"materials": {
+"tr": [
+"1 kutu ton balığı (süzme ağırlık 52 gram)",
+"Makarna sosu",
+"4 adet ince-küçük dilim yarım yağlı kaşar peyniri",
+"1 adet kepekli veya tam tahıllı tost ekmeği (veya hamburger ekmeği)"
+],
+"en": [
+"1 can of tuna (percolated weight 52 grams)",
+"Pasta sauce",
+"4 thin-small slices of semi-skimmed cheddar cheese",
+"1 wholemeal or whole grain toast (or hamburger bun)"
+]
+},
+"recipe": {
+"tr": [
+"Hamburger veya tost ekmeğine ton balığı koyulur.",
+"Üzerine makarna sosu sürülür.",
+"Kaşarlar küçük dilimler halinde üstüne koyulur, ekmek kapatılır. ",
+"Tost makinesinde kaşarlar eriyene kadar ısıtılır.",
+"Afiyet olsun!"
+],
+"en": [
+"Tuna fish is put on a hamburger or toast.",
+"It's drizzled with pasta sauce.",
+"The cheddar is put on top in small slices, the bread is covered.",
+"The cheese is heated in the toaster until it melts.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 12.6,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.1,
+"cholesterol": 47,
+"sodium": 54,
+"potassium": 527,
+"carbohydrate": 38,
+"dietary_fiber": 5.3,
+"sugar": 0,
+"protein": 29,
+"a_vitamin": 65,
+"b_vitamin": 1,
+"c_vitamin": 0,
+"d_vitamin": 82,
+"calcium": 4,
+"cobalamin": 2.4,
+"magnesium": 42,
+"iren": 0.9
+},
+"categories": [
+"lunch",
+"dinner",
+"300_400",
+"low_fat",
+"rich_protein",
+"healthy"
+]
+},
+{
+"id": 25,
+"description": {
+"tr": "Doyurucu ve yüksek protein içeren bu tarifi ister öğlen yemeğinde isterse akşam yemeğinde tüketebilirsiniz. Kolay ve hızlı hazırlanan bu tarifi yanınızda taşıyabilirsiniz,",
+"en": "You can consume this hearty and high-protein recipe for lunch or dinner. You can take this easy and quick recipe with you."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F25.jpg?alt=media&token=f1ffbf2c-5cf4-4e36-8db4-b94c02359304",
+"title": {
+"tr": "Fit Tavuk Burger",
+"en": "Fit Chicken Burger"
+},
+"time": "15",
+"porsion": "2",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 458 kcal",
+"en": "1 porsion 458 kcal"
+},
+"calories": "458",
+"materials": {
+"tr": [
+"(2 adet tavukburger için)",
+"300 g tavuk göğsü",
+"1 diş sarımsak",
+"1 küçük soğan",
+"2 yemek kaşığı galeta unu",
+"2 adet yumurta",
+"1 tatlı kaşığı karabiber",
+"1 tatlı kaşığı kimyon",
+"hamburger ekmeği (tam tahıllı olursa daha iyi olur)",
+"domates, marul (miktar isteğe bağlı)"
+],
+"en": [
+"(for 2 chicken burgers)",
+"300 g chicken breast",
+"1 clove of garlic",
+"1 small onion",
+"2 tablespoons of breadcrumbs",
+"2 eggs",
+"1 teaspoon of black pepper",
+"1 teaspoon cumin",
+"hamburger buns (better with whole grain)",
+"tomatoes, lettuce (quantity optional)"
+]
+},
+"recipe": {
+"tr": [
+"Tavuk göğsü blender ile kıyma haline getirilir.",
+"Diğer malzemelerle birlikte karıştırılarak köfte şekli verilir.",
+"Tavada iki tarafı da pişirilip burger ekmeği arasına koyun.",
+"Afiyet olsun!"
+],
+"en": [
+"Chicken breast is ground into minced meat with a blender.",
+"It is mixed with other ingredients to form meatballs.",
+"Cook both sides in the pan and put it between the burger buns.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 14,
+"saturated_fat": 4.7,
+"polyunsaturated_fat": 4.6,
+"monounsaturated_fat": 6,
+"cholesterol": 33,
+"sodium": 526,
+"potassium": 194,
+"carbohydrate": 47,
+"dietary_fiber": 0.5,
+"sugar": 3,
+"protein": 47,
+"a_vitamin": 55,
+"b_vitamin": 0,
+"c_vitamin": 4.9,
+"d_vitamin": 0,
+"calcium": 33,
+"cobalamin": 0.2,
+"magnesium": 19,
+"iren": 2.6
+},
+"categories": [
+"dinner",
+"lunch",
+"400_500",
+"rich_protein",
+"low_fat",
+"healthy"
+]
+},
+{
+"id": 26,
+"description": {
+"tr": "Canınız pizza mı çekti? Sağlıklı bir pizza hazırlamaya ne dersiniz?",
+"en": "Craving pizza? How about preparing a healthy pizza?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F26.jpg?alt=media&token=f4bd0f44-8539-4bec-a24d-e614e9414057",
+"title": {
+"tr": "Diyet Pizza",
+"en": "Diet Pizza"
+},
+"time": "7",
+"porsion": "1",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 425 kcal",
+"en": "1 porsion 425 kcal"
+},
+"calories": "425",
+"materials": {
+"tr": [
+"1 adet tortilla ekmeği veya tam tahıllı lavaş",
+"70 g haşlanmış tavuk göğsü",
+"30 g rendelenmiş kaşar",
+"1 yemek kaşığı domates püresi veya salça",
+"istenilen baharatlar (kekik, sarımsak tozu, pul biber önerilir)"
+],
+"en": [
+"1 piece of tortilla bread or whole grain lavash",
+"70 g of boiled chicken breast",
+"30 g grated cheddar",
+"1 tablespoon of tomato puree or tomato paste",
+"desired spices (thyme, garlic powder, chili flakes recommended)"
+]
+},
+"recipe": {
+"tr": [
+"Tavanın altı yakılır ve üzerine tortilla ekmeği koyulur.",
+"Üzerine sırayla salça, tavuk ve kaşar peyniri koyulur.",
+"Üzerine istenilen baharatlar eklenir.",
+"Tavanın üstü kapanır ve pişmesi beklenir.",
+"Afiyet olsun!"
+],
+"en": [
+"The bottom of the pan is burned and tortilla bread is placed on it.",
+"Place tomato paste, chicken and cheddar cheese on it in order.",
+"Add the desired spices on it.",
+"The top of the pan is covered and waiting for it to cook.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 13.6,
+"saturated_fat": 1,
+"polyunsaturated_fat": 0.8,
+"monounsaturated_fat": 1.2,
+"cholesterol": 85,
+"sodium": 74,
+"potassium": 256,
+"carbohydrate": 38,
+"dietary_fiber": 5.4,
+"sugar": 0,
+"protein": 38,
+"a_vitamin": 21,
+"b_vitamin": 0.6,
+"c_vitamin": 0,
+"d_vitamin": 5,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 29,
+"iren": 1
+},
+"categories": [
+"dinner",
+"lunch",
+"healthy",
+"rich_protein",
+"400_500"
+]
+},
+{
+"id": 27,
+"description": {
+"tr": "Kolay ve hızlı hazırlanan bu tarifi atıştırmalık veya öğle yemeğinde tüketebilirsiniz. hem lezzetli hem yüksek protein içeren bu tarifi denemeye ne dersiniz?",
+"en": "You can consume this easy and quick recipe for a snack or lunch. How would you like to try this delicious and high-protein recipe?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F27.jpg?alt=media&token=124ca2a5-7264-4d96-90bd-e7ffd93be951",
+"title": {
+"tr": "Hindi Füme Dürüm",
+"en": "Smoked Turkey Wrap"
+},
+"time": "3",
+"porsion": "1",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 400 kcal",
+"en": "1 porsion 400 kcal"
+},
+"calories": "400",
+"materials": {
+"tr": [
+"1 adet tortilla ekmeği veya tam tahıllı lavaş",
+"100 g hindi füme",
+"Domatesli makarna sosu veya domates salçası",
+"yeşillik",
+"1 yemek kaşığı hardal",
+"Sarımsak tozu"
+],
+"en": [
+"1 piece of tortilla bread or whole grain lavash",
+"100 g smoked turkey",
+"Tomato pasta sauce or tomato paste",
+"greens",
+"1 tablespoon mustard",
+"Garlic powder"
+]
+},
+"recipe": {
+"tr": [
+"Tortilla ekmeğine makarna sosu veya salça sürülür.",
+"Hindi füme üzerine eklenir.",
+"İstediğiniz yeşilliklerden ekleyin.",
+"Üzerine hardal ve sarımsak tozu eklenir.",
+"Dürüm haline getirilip afiyetle yenir!"
+],
+"en": [
+"Tortilla bread is spread with pasta sauce or tomato paste.",
+"Added on smoked turkey.",
+"Add any greens you want.",
+"Add mustard and garlic powder.",
+"It is made into rolls and eaten with pleasure!"
+]
+},
+"nutritive_value": {
+"total_fat": 12,
+"saturated_fat": 2.2,
+"polyunsaturated_fat": 2.1,
+"monounsaturated_fat": 2.6,
+"cholesterol": 109,
+"sodium": 103,
+"potassium": 239,
+"carbohydrate": 34.1,
+"dietary_fiber": 3.4,
+"sugar": 0,
+"protein": 36,
+"a_vitamin": 39,
+"b_vitamin": 0.6,
+"c_vitamin": 0,
+"d_vitamin": 15,
+"calcium": 14,
+"cobalamin": 1,
+"magnesium": 30,
+"iren": 1.1
+},
+"categories": [
+"lunch",
+"dinner",
+"healthy",
+"low_carb",
+"low_fat",
+"rich_protein"
+]
+},
+{
+"id": 28,
+"description": {
+"tr": "Yüksek protein ve omega içeriği ile hem sağlıklı hem de antioksidan özelliği olan bu tarifi denemeye hazır mısınız?",
+"en": "Are you ready to try this recipe, which is both healthy and antioxidant with its high protein and omega content?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F28.jpg?alt=media&token=afe86705-a0fb-4ef7-9945-b5803c6f9c2d",
+"title": {
+"tr": "Fırında Alabalık",
+"en": "Baked Salmon"
+},
+"time": "35",
+"porsion": "1",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 442 kcal",
+"en": "1 porsion 442 kcal"
+},
+"calories": "442",
+"materials": {
+"tr": [
+"1 adet yerli somon balığı",
+"Yarım çay bardağı zeytinyağı",
+"1 çay kaşığı tuz",
+"2 çay kaşığı kekik",
+"1 çay kaşığı karabiber"
+],
+"en": [
+"1 adet yerli somon balığı",
+"Yarım çay bardağı zeytinyağı",
+"1 çay kaşığı tuz",
+"2 çay kaşığı kekik",
+"1 çay kaşığı karabiber"
+]
+},
+"recipe": {
+"tr": [
+"Bir çay bardağında zeytinyağı, tuz, kekik, karabiber karıştırılır.",
+"Kapaklı bir kaba somon balığı fileto halinde koyulur.",
+"Üzerine çay bardağındaki karışım dökülür, kapağı kapatılıp buzdolabında 2 saat bekletilir.",
+"Önceden 180 dereceye ısıtılmış fırında 30 dakika pişirilir.",
+"Afiyet olsun!"
+],
+"en": [
+"In a tea glass, olive oil, salt, thyme, black pepper are mixed.",
+"Filled salmon fillet in a container with a lid.",
+"The mixture in the tea glass is poured on it, the lid is closed and left in the refrigerator for 2 hours.",
+"Baked in an oven preheated to 180 degrees for 30 minutes.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 38,
+"saturated_fat": 1.4,
+"polyunsaturated_fat": 1.5,
+"monounsaturated_fat": 2,
+"cholesterol": 59,
+"sodium": 51,
+"potassium": 377,
+"carbohydrate": 5.8,
+"dietary_fiber": 2.7,
+"sugar": 0,
+"protein": 21,
+"a_vitamin": 280,
+"b_vitamin": 0.3,
+"c_vitamin": 2.9,
+"d_vitamin": 635,
+"calcium": 25,
+"cobalamin": 4.3,
+"magnesium": 25,
+"iren": 0.3
+},
+"categories": [
+"dinner",
+"healthy",
+"low_carb",
+"sugarless",
+"rich_protein",
+"400_500"
+]
+},
+{
+"id": 29,
+"description": {
+"tr": "İçerdiği yüksek protein mktarı ile kas yapısını güçlendirir, kolestrolü düşürür ve kalp sağlığını destekler. Bu sağlıklı ve doyurucu yemeği hazırlamaya ne dersiniz?",
+"en": "With its high protein content, it strengthens the muscle structure, lowers cholesterol and supports heart health. How about preparing this healthy and satisfying meal?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F29.jpg?alt=media&token=2c97cd62-bcf0-4652-b947-f0b27e7afb3b",
+"title": {
+"tr": "Yeşil Mercimek Yemeği",
+"en": "Green Lentil Meal"
+},
+"time": "35",
+"porsion": "4",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 264 kcal",
+"en": "1 porsion 264 kcal"
+},
+"calories": "264",
+"materials": {
+"tr": [
+"300 g yeşil mercimek (2 su bardağı)",
+"1 adet küçük soğan",
+"yeşil biber (miktar isteğe bağlı)",
+"1 yemek kaşığı domates salçası",
+"1 yemek kaşığı tereyağ",
+"1 yemek kaşığı nane"
+],
+"en": [
+"300 g of green lentils (2 cups)",
+"1 small onion",
+"green pepper (amount optional)",
+"1 tablespoon of tomato paste",
+"1 tablespoon of butter",
+"1 tablespoon of mint"
+]
+},
+"recipe": {
+"tr": [
+"Mercimeklerimizi süzgeç yardımıyla yıkıyoruz. Yıkadığımız mercimekleri bir tencereye boşaltıp üzerine mercimekleri 2 parmak geçene kadar su dolduruyoruz.",
+"Mercimeklerimiz kaynarken soğan ve biberlerimizi küçük küçük doğruyoruz. (Domates de doğrayabilirsiniz.)",
+"15 dakika kadar kaynattıktan sonra mercimeklerimizi süzüyoruz.",
+"Tenceremizi sudan geçiriyoruz veya yeni bir tencere alıyoruz. 1 yemek kaşığı tereyağ ekleyerek eritiyoruz.",
+"Bu arada 1 litre su kaynatıyoruz.",
+"Erittiğimiz tereyağının üzerine doğradığımız biber ve soğanı atıp, birkaç dakika kavuruyoruz. Daha sonra üzerine mercimeklerimizi de ekleyip karıştırıyoruz.",
+"Önceden kaynattığımız sıcak suyu tencereye döküyoruz, biraz karıştırıp 10 dakika kadar pişmeye bırakıyoruz.",
+"Son olarak ocağımızın altını kapatıp 1 yemek kaşığı nanemizi tencereye ekleyip karıştırıyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We wash our lentils with the help of a strainer. We pour the washed lentils into a pot and fill them with water until they are 2 inches above the lentils.",
+"While our lentils are boiling, we chop our onions and peppers small. (You can also chop tomatoes.)",
+"After boiling for 15 minutes, we drain our lentils.",
+"We rinse our pot with water or buy a new pot. Add 1 tablespoon of butter and melt it.",
+"By the way, we boil 1 liter of water.",
+"We throw the chopped pepper and onion on the melted butter and fry for a few minutes. Then we add our lentils and mix them.",
+"We pour the hot water that we previously boiled into the pot, mix a little and let it cook for 10 minutes.",
+"Finally, we turn off the stove and add 1 tablespoon of mint to the pot and mix it.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 3.6,
+"saturated_fat": 0.1,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.1,
+"cholesterol": 0,
+"sodium": 50,
+"potassium": 369,
+"carbohydrate": 30,
+"dietary_fiber": 20,
+"sugar": 1.8,
+"protein": 18,
+"a_vitamin": 8,
+"b_vitamin": 0.2,
+"c_vitamin": 1.5,
+"d_vitamin": 0,
+"calcium": 19,
+"cobalamin": 0,
+"magnesium": 36,
+"iren": 3.3
+},
+"categories": [
+"dinner",
+"healthy",
+"low_carb",
+"low_fat",
+"rich_protein"
+]
+},
+{
+"id": 30,
+"description": {
+"tr": "Yeşil mercimek yüksek protein sayesinde kemik sağlığına katkıda bulunur. Vücudun kas sistemini güçlendiren yeşil mercimek hastalıklı hücrelerin sayısını azaltarak vücudun bağışıklığını artırır. - Uzun süre midenin tok hissetmesini sağlar. Aynı zamanda lif bakımından zengin olan yeşil mercimek bağırsakları temizler.Lezzetli bir salata hazırlamaya ne dersiniz?",
+"en": "Thanks to its high protein, green lentils contribute to bone health. Green lentils, which strengthen the body's muscular system, increase the body's immunity by reducing the number of diseased cells. - It makes the stomach feel full for a long time. Green lentils, which are also rich in fiber, clean the intestines. How about preparing a delicious salad?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F30.jpeg?alt=media&token=7167523f-33d9-4b0b-a82c-5d56a9b97bed",
+"title": {
+"tr": "Yeşil Mercimek Salatası",
+"en": "Green Lentils Salad"
+},
+"time": "25",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 277 kcal",
+"en": "1 porsion 277 kcal"
+},
+"calories": "277",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"220 g yeşil mercimek 1 buçuk su bardağı",
+"Su",
+"Bir tutam tuz",
+"1 adet domates",
+"1 adet salatalık",
+"1 adet biber",
+"İsterseniz turşu ve mısır da ekleyebilirsiniz.",
+"3 yemek kaşığı zeytinyağı",
+"Yarım adet limon",
+"1 yemek kaşığı nane "
+],
+"en": [
+"for 4 servings",
+"220 g green lentils 1 and a half cups",
+"That",
+"A pinch of salt",
+"1 tomato",
+"1 cucumber",
+"1 pepper",
+"You can also add pickles and corn if you want.",
+"3 tablespoons of olive oil",
+"Half a lemon",
+"1 tablespoon of mint"
+]
+},
+"recipe": {
+"tr": [
+"Yeşil mercimeğimizi bir gece öncesinden suya koyarak bekletiyoruz.",
+"Suyunu süzdükten sonra mercimeklerimizi bir tencereye koyup, üzerine mercimekleri bir parmak geçecek kadar kaynar su ekliyoruz. Bir tutam da tuz atıp altını yakıyoruz.",
+"İstediğimiz kıvama geldikten sonra altını kapatıp suyunu süzüyoruz.",
+"Domates, salatalık ve biberimizi doğruyoruz ve büyük bir kaseye alıyoruz. İsterseniz turşu ve mısır da ekleyebilirsiniz.",
+"Bunun üzerine mercimeğimizi de ekliyoruz.",
+"Üzerine nane ekleyip bir limon sıkıyoruz.",
+"Zeytinyağımızı ekleyip iyice karıştırıyoruz."
+],
+"en": [
+"We keep our green lentils by putting them in water the night before.",
+"After straining the water, we put our lentils in a pot and add enough boiling water to cover the lentils by an inch. We add a pinch of salt and burn the gold.",
+"After it reaches the consistency we want, we turn off the heat and strain the water.",
+"We chop our tomatoes, cucumbers and peppers and put them in a big bowl. You can add pickles and corn if you want.",
+"On top of that, we add our lentils.",
+"We add mint to it and squeeze a lemon.",
+"We add our olive oil and mix well."
+]
+},
+"nutritive_value": {
+"total_fat": 10,
+"saturated_fat": 5.4,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.6,
+"cholesterol": 0,
+"sodium": 356,
+"potassium": 967,
+"carbohydrate": 25,
+"dietary_fiber": 15.4,
+"sugar": 0,
+"protein": 14,
+"a_vitamin": 17,
+"b_vitamin": 0.5,
+"c_vitamin": 1,
+"d_vitamin": 0.6,
+"calcium": 64,
+"cobalamin": 0.5,
+"magnesium": 5,
+"iren": 8
+},
+"categories": [
+"200_300",
+"dinner",
+"lunch",
+"rich_fiber",
+"rich_protein",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 31,
+"description": {
+"tr": "Yüksek protein içeriği ile hem lezzetli hem de tok tutan bir yemek hazırlamaya ne dersiniz?",
+"en": "How about preparing a delicious and filling meal with its high protein content?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F31.jpg?alt=media&token=ed82265a-c525-425d-91f7-72954c54291b",
+"title": {
+"tr": "Domatesli Tavuk Sote",
+"en": "Sauteed Chicken with Tomatoes"
+},
+"time": "25",
+"porsion": "1",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 380 kcal",
+"en": "1 porsion 380 kcal"
+},
+"calories": "380",
+"materials": {
+"tr": [
+"200 g tavuk göğsü",
+"1 adet domates",
+"1 yemek kaşığı zeytinyağı"
+],
+"en": [
+"200 g chicken breast",
+"1 tomato",
+"1 tablespoon of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Tavuklar kuşbaşı, domatesler de küp küp doğranır.",
+"Yapışmaz yüzeyli tavaya zeytinyağı dökülür, ısıtılır.",
+"Isındıktan sonra domatesler tavaya eklenir ve pembeleşene kadar pişirilir.",
+"Son olarak da tavuklar eklenir ve karıştırarak pişirilir."
+],
+"en": [
+"Chicken is cubed and tomatoes are diced.",
+"Oil is poured into a non-stick pan and heated.",
+"After heating, the tomatoes are added to the pan and cooked until they turn pink.",
+"Finally, the chickens are added and mixed and cooked."
+]
+},
+"nutritive_value": {
+"total_fat": 19,
+"saturated_fat": 2,
+"polyunsaturated_fat": 1.6,
+"monounsaturated_fat": 2.4,
+"cholesterol": 85,
+"sodium": 152,
+"potassium": 256,
+"carbohydrate": 4,
+"dietary_fiber": 1.3,
+"sugar": 0,
+"protein": 46,
+"a_vitamin": 42,
+"b_vitamin": 1.2,
+"c_vitamin": 0,
+"d_vitamin": 10,
+"calcium": 30,
+"cobalamin": 0.6,
+"magnesium": 60,
+"iren": 2
+},
+"categories": [
+"low_fat",
+"healthy",
+"low_carb",
+"rich_protein",
+"dinner"
+]
+},
+{
+"id": 32,
+"description": {
+"tr": "Brokoli içerdiği minareller sayesinde antioksidan görevi görerek vücudu temizler. metabolizmayı hızlandırır, kilo kaybına yardımcı olur.",
+"en": "Thanks to the minerals it contains, broccoli acts as an antioxidant and cleanses the body. It accelerates metabolism and helps weight loss."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F32.jpg?alt=media&token=5eab2914-2541-4bc6-8d83-958486925b4e",
+"title": {
+"tr": "Brokolili Tavuk Yemeği",
+"en": "Chicken Meal with Broccoli"
+},
+"time": "40",
+"porsion": "5",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 217 kcal",
+"en": "1 porsion 217 kcal"
+},
+"calories": "217",
+"materials": {
+"tr": [
+"5 porsiyon için",
+"600 g tavuk göğsü",
+"500 g brokoli",
+"2 yemek kaşığı zeytinyağı",
+"2 çay kaşığı tuz",
+"isteğe bağlı baharatlar"
+],
+"en": [
+"for 5 servings",
+"600 g chicken breast",
+"500 g of broccoli",
+"2 tablespoons of olive oil",
+"2 teaspoons of salt",
+"optional spices"
+]
+},
+"recipe": {
+"tr": [
+"Tavuk göğsü kuşbaşı dilimlenir.",
+"Brokolilerin sapları kesilip parça parça ayrılır.",
+"Brokoliler iyice yıkanır, hatta bir süre sirkeli suda bekletilebilir.",
+"Tavuklar tencereye koyulur, üzerine 2-3 parmak geçecek kadar su eklenir.",
+"2 yemek kaşığı kadar zeytinyağı ve 1 çay kaşığı tuz eklenip karıştırılır. Tencerenin altı yakılır.",
+"Suyun üzerine brokoliler koyulur ve tencerenin kapağı yarım kapatılır.",
+"20 dakika sonra kapağı tam kapatılarak 5-10 dakika kadar daha pişirilir.",
+"Brokolilere limon, sirke eklenebilir. Tavuklara da karabi- ber, kekik, pul biber gibi baharatlar eklenebilir."
+],
+"en": [
+"Chicken breast is sliced ​​into cubes.",
+"The stems of the broccoli are cut and cut into pieces.",
+"Broccoli is thoroughly washed, it can even be kept in vinegar water for a while.",
+"The chickens are put in the pot, and water is added until they reach 2-3 fingers.",
+"Add 2 tablespoons of olive oil and 1 teaspoon of salt and mix. The bottom of the pot is burned.",
+"Broccoli is put on the water and the lid of the pot is half closed.",
+"After 20 minutes, cover the lid completely and cook for another 5-10 minutes.",
+"Lemon and vinegar can be added to broccoli. Spices such as black pepper, thyme and chili pepper can be added to chickens."
+]
+},
+"nutritive_value": {
+"total_fat": 8.7,
+"saturated_fat": 1,
+"polyunsaturated_fat": 0.8,
+"monounsaturated_fat": 1.2,
+"cholesterol": 85,
+"sodium": 135,
+"potassium": 256,
+"carbohydrate": 2.5,
+"dietary_fiber": 3,
+"sugar": 0,
+"protein": 30,
+"a_vitamin": 623,
+"b_vitamin": 0.2,
+"c_vitamin": 90,
+"d_vitamin": 0,
+"calcium": 47,
+"cobalamin": 0,
+"magnesium": 21,
+"iren": 0.7
+},
+"categories": [
+"low_carb",
+"low_fat",
+"rich_protein",
+"healthy",
+"200_300"
+]
+},
+{
+"id": 33,
+"description": {
+"tr": "Lor peyniri, içeriğindeki yüksek oranda mineral ve vitamin oranı sayesinde bağışıklık sistemini, yüksek kalsiyum miktarı ile de kemikleri güçlendirir.",
+"en": "Curd cheese strengthens the immune system thanks to its high mineral and vitamin content, and strengthens the bones with its high calcium content."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F33.jpg?alt=media&token=c9b2b4cd-37d7-440b-9fc6-27e88f451ce9",
+"title": {
+"tr": "Lor Köftesi",
+"en": "Curd Cheese Ball"
+},
+"time": "15",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 247 kcal",
+"en": "1 porsion 247 kcal"
+},
+"calories": "247",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"200 g lor peyniri",
+"100 g yulaf ezmesi",
+"Sarımsak veya sarımsak granül ",
+"kekik, toz biber",
+"2 adet yumurta",
+"1 yemek kaşığı zeytinyağı"
+],
+"en": [
+"for 4 servings",
+"200 g of curd cheese",
+"100 g of oatmeal",
+"Garlic or garlic granules",
+"thyme, ground pepper",
+"2 eggs",
+"1 tablespoon of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Lor peyniri, yulaf ezmesi, baharatlar ve yumurtalar bir kapta iyice yoğurulur.",
+"Tavanın altı ısıtılır, 1 yemek kaşığı zeytinyağı dökülür.",
+"Karışım köfte şekline getirilerek tavaya dizilir. Arkalı önlü pişirilir."
+],
+"en": [
+"Curd cheese, oatmeal, spices and eggs are thoroughly kneaded in a bowl.",
+"The bottom of the pan is heated, 1 tablespoon of olive oil is poured.",
+"The mixture is formed into meatballs and placed in the pan. It is cooked on both sides."
+]
+},
+"nutritive_value": {
+"total_fat": 12,
+"saturated_fat": 1.7,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.8,
+"cholesterol": 17,
+"sodium": 364,
+"potassium": 104,
+"carbohydrate": 17,
+"dietary_fiber": 3,
+"sugar": 2.7,
+"protein": 16,
+"a_vitamin": 140,
+"b_vitamin": 0,
+"c_vitamin": 0,
+"d_vitamin": 3,
+"calcium": 83,
+"cobalamin": 0.4,
+"magnesium": 8,
+"iren": 0.1
+},
+"categories": [
+"lunch",
+"breakfast",
+"healthy",
+"rich_protein",
+"sugarless",
+"low_fat",
+"low_carb"
+]
+},
+{
+"id": 34,
+"description": {
+"tr": "Bulgur lif bakımından zengin bir gıdadır. içerdiği B1 vitamini ile sinir ve sindirim sisteminde önemli rol oynar.",
+"en": "Bulgur is a food rich in fiber. It plays an important role in the nervous and digestive system with the vitamin B1 it contains."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F34.jpg?alt=media&token=ed6bce9f-0d1e-4350-904f-41ab5472e70d",
+"title": {
+"tr": "Bulgur Pilavı",
+"en": "Bulgur Pilaf"
+},
+"time": "35",
+"porsion": "3",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 325 kcal",
+"en": "1 porsion 325 kcal"
+},
+"calories": "325",
+"materials": {
+"tr": [
+"3 porsiyon için",
+"225 g bulgur (1 buçuk su bardağı)",
+"Bulgur miktarının 2 katı kadar su",
+"1 yemek kaşığı zeytinyağı",
+"3 yemek kaşığı domates salçası",
+"1 orta boy soğan",
+"isteğe bağlı sebzeler"
+],
+"en": [
+"for 3 servings",
+"225 g bulgur (1 and a half cups)",
+"Water 2 times the amount of bulgur",
+"1 tablespoon of olive oil",
+"3 tablespoons of tomato paste",
+"1 medium onion",
+"optional vegetables"
+]
+},
+"recipe": {
+"tr": [
+"Bulgur iyice yıkanır ve suyu süzülür.",
+"Tencereye zeytinyağı eklenip orta ateşte ısıtılır.",
+"Yağ ısındıktan sonra doğranmış soğanlar tencereye eklenir ve pembeleşene kadar kavrulur.",
+"Domates püresi (veya salça) de tencereye eklenip soğan- larla iyice karıştırılır.",
+"Bulgur tencereye eklenip üzerine bulgurun 2 katı kadar su eklenir. (örnek: 1 bardak bulgur için 2 bardak su)",
+"Tüm malzemeler karıştırılıp tencerenin kapağı kapatılır ve kaynayana kadar pişirilir.",
+"Su kaynadıktan sonra ocak kısık ateşe getirilir ve 10 dakika daha pişirilir.",
+"Tencerenin altı kapatıldıktan sonra havlu veya kağıt havlu tencerenin üstüne örtülerek kapağı kapatılır. 15-20 dakika kadar demlenmeye bırakılır."
+],
+"en": [
+"The bulgur is thoroughly washed and the water is filtered.",
+"Add olive oil to the pot and heat it over medium heat.",
+"After the oil is heated, the chopped onions are added to the pot and roasted until they turn pink.",
+"Tomato puree (or tomato paste) is also added to the pot and mixed well with the onions.",
+"Bulgur is added to the pot and 2 times the amount of water is added to the bulgur. (Example: 2 glasses of water for 1 glass of bulgur)",
+"All the ingredients are mixed, the lid of the pot is closed and cooked until it boils.",
+"After the water boils, the stove is brought to low heat and cooked for another 10 minutes.",
+"After the bottom of the pot is covered, a towel or paper towel is covered over the pot and the lid is closed. It is left to infuse for 15-20 minutes."
+]
+},
+"nutritive_value": {
+"total_fat": 5.7,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.5,
+"monounsaturated_fat": 0.2,
+"cholesterol": 0,
+"sodium": 17,
+"potassium": 410,
+"carbohydrate": 64,
+"dietary_fiber": 9,
+"sugar": 0.4,
+"protein": 10.3,
+"a_vitamin": 9,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 35,
+"cobalamin": 0,
+"magnesium": 164,
+"iren": 2.5
+},
+"categories": [
+"lunch",
+"breakfast",
+"rich_fiber",
+"sugarless",
+"low_fat",
+"healthy"
+]
+},
+{
+"id": 35,
+"description": {
+"tr": "Hindi eti az kolestrol ve yağ içerir ve kalp dostudur. B vitamini ve minerallerden zengindir. Yüksek protein içerir.",
+"en": "Turkey meat contains little cholesterol and fat and is heart-friendly. It is rich in B vitamins and minerals. It contains high protein."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F35.jpg?alt=media&token=7e5b9135-6877-4716-bf06-000dd603ff2a",
+"title": {
+"tr": "Fırında Hindi Göğüs",
+"en": "Baked Turkey Breast"
+},
+"time": "65",
+"porsion": "4",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 273 kcal",
+"en": "1 porsion 273 kcal"
+},
+"calories": "273",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"600 g hindi göğsü",
+"3 yemek kaşığı zeytinyağı",
+"3 tatlı kaşığı kekik",
+"2 diş sarımsak veya 1 tatlı kaşığı sarımsak granül",
+"1 tatlı kaşığı kimyon, pul biber",
+"1 çay kaşığı karabiber ve tuz"
+],
+"en": [
+"for 4 servings",
+"600 g turkey breast",
+"3 tablespoons of olive oil",
+"3 teaspoons of thyme",
+"2 cloves of garlic or 1 teaspoon of garlic granules",
+"1 teaspoon of cumin, cayenne pepper",
+"1 teaspoon of black pepper and salt"
+]
+},
+"recipe": {
+"tr": [
+"Hindi göğsü baharatlar ve zeytinyağı ile iyice karıştırıyoruz.",
+"Karıştırdıktan sonra buzdolabında 2-3 saat kadar bekletir- seniz çok daha lezzetli olacaktır, zamanınız yoksa bekletmeden de yapabilirsiniz.",
+"Tavanın altını ısıtıp etin iki yüzünü de biraz pişiriyoruz, buradaki amacımız eti mühürleyerek su kaybetmesini önlemek.",
+"Fırın kabına alüminyum folyo serip üzerine eti koyuyoruz ve üzerine yarım çay bardağı kadar su ekliyoruz.",
+"Isıtılmış 180 derece fırına koyarak 1 saat pişiriyoruz. Fırından çıkarınca 10-15 dakika bekletip sonrasında keserek yiyebilirsiniz."
+],
+"en": [
+"We mix turkey breast well with spices and olive oil.",
+"After mixing, it will be much more delicious if you keep it in the refrigerator for 2-3 hours, if you don't have time, you can make it without waiting.",
+"We heat the bottom of the pan and cook both sides of the meat a little bit, our aim here is to seal the meat and prevent it from losing water.",
+"We put aluminum foil on the baking dish, put the meat on it, and add half a tea glass of water.",
+"We bake it for 1 hour by putting it in a heated 180 degree oven. After taking it out of the oven, you can wait 10-15 minutes and then cut it and eat it."
+]
+},
+"nutritive_value": {
+"total_fat": 12,
+"saturated_fat": 2.2,
+"polyunsaturated_fat": 2.1,
+"monounsaturated_fat": 2.6,
+"cholesterol": 109,
+"sodium": 103,
+"potassium": 239,
+"carbohydrate": 4.5,
+"dietary_fiber": 2,
+"sugar": 0,
+"protein": 38,
+"a_vitamin": 39,
+"b_vitamin": 0.6,
+"c_vitamin": 0,
+"d_vitamin": 15,
+"calcium": 14,
+"cobalamin": 1,
+"magnesium": 30,
+"iren": 1.1
+},
+"categories": [
+"dinner",
+"healthy",
+"rich_protein",
+"low_fat",
+"sugarless",
+"200_300"
+]
+},
+{
+"id": 36,
+"description": {
+"tr": "Lor peyniri, içeriğindeki yüksek oranda mineral ve vitamin oranı sayesinde bağışıklık sistemini, yüksek kalsiyum miktarı ile de kemikleri güçlendirir.",
+"en": "Curd cheese strengthens the immune system thanks to its high mineral and vitamin content, and strengthens the bones with its high calcium content."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F36.jpg?alt=media&token=cd5e2bab-1610-411d-898f-c831a4e86960",
+"title": {
+"tr": "Lor Peynirli Salata",
+"en": "Curd Cheese Salad"
+},
+"time": "10",
+"porsion": "2",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 233 kcal",
+"en": "1 porsion 233 kcal"
+},
+"calories": "233",
+"materials": {
+"tr": [
+"2 porsiyon için",
+"150 g lor peyniri",
+"2 adet yeşil biber",
+"2 adet domates",
+"Marul",
+"Yarım limon",
+"2 tatlı kaşığı zeytinyağı"
+],
+"en": [
+"for 2 servings",
+"150 g curd cheese",
+"2 green peppers",
+"2 tomatoes",
+"Lettuce",
+"Half a lemon",
+"2 teaspoons of olive oil"
+]
+},
+"recipe": {
+"tr": [
+"Lor peyniri parçalanarak bir kaseye koyulur.",
+"Sebzeler yıkanır veya tercihen sirkeli suda bekletilebilir. Kurutulduktan sonra doğranarak salata kabına eklenir.",
+"Üzerine limon ve zeytinyağı da eklenerek salata iyice karıştırılır. İstenilen baharatlar eklenir."
+],
+"en": [
+"The curd cheese is crushed and put in a bowl.",
+"Vegetables can be washed or preferably soaked in vinegar water. After drying, they are chopped and added to the salad bowl.",
+"Add lemon and olive oil and mix the salad well. Add the desired spices."
+]
+},
+"nutritive_value": {
+"total_fat": 7,
+"saturated_fat": 1.7,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.8,
+"cholesterol": 17,
+"sodium": 364,
+"potassium": 104,
+"carbohydrate": 18,
+"dietary_fiber": 2.5,
+"sugar": 2.7,
+"protein": 15,
+"a_vitamin": 140,
+"b_vitamin": 0,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 3,
+"cobalamin": 0.4,
+"magnesium": 8,
+"iren": 0.1
+},
+"categories": [
+"lunch",
+"low_calories",
+"dinner",
+"200_300",
+"rich_protein",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 37,
+"description": {
+"tr": "Hindi eti az kolestrol ve yağ içerir ve kalp dostudur. B vitamini ve minerallerden zengindir. Yüksek protein içerir.",
+"en": "Turkey meat contains little cholesterol and fat and is heart-friendly. It is rich in B vitamins and minerals. It contains high protein."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F37.jpg?alt=media&token=3f9065a4-3108-41cd-abf5-fce18ec71006",
+"title": {
+"tr": "Sebzeli Hindi Yemeği",
+"en": "Eating Turkey with Vegetables"
+},
+"time": "45",
+"porsion": "4",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 300 kcal",
+"en": "1 porsion 300 kcal"
+},
+"calories": "300",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"600 g Hindi Göğüs",
+"3 orta boy patates",
+"2 büyük boy kırmızı biber",
+"100 g mantar",
+"İstenen farklı sebzeler de eklenebilir."
+],
+"en": [
+"for 4 servings",
+"600 g Turkey Breast",
+"3 medium potatoes",
+"2 large red peppers",
+"100 g of mushrooms",
+"Different vegetables can be added if desired."
+]
+},
+"recipe": {
+"tr": [
+"Hindi eti tencereye konulur.",
+"Sebzeler iyice yıkandıktan sonra (tercihen sirkeli suda bekletildikten sonra), büyük parçalar halinde doğranır.",
+"Et suyunu saldıktan sonra üzerine sebzeler eklenir.",
+"Tencerenin kapağı kapatılır, altı kısılır ve patatesler pişene kadar pişirilir."
+],
+"en": [
+"The turkey meat is put in the pot.",
+"After the vegetables are thoroughly washed (preferably after soaking in vinegar water), they are cut into large pieces.",
+"After releasing the broth, vegetables are added on it.",
+"Cover the pot, turn it down and cook the potatoes until they're done."
+]
+},
+"nutritive_value": {
+"total_fat": 1.7,
+"saturated_fat": 2.2,
+"polyunsaturated_fat": 2.1,
+"monounsaturated_fat": 2.6,
+"cholesterol": 109,
+"sodium": 103,
+"potassium": 239,
+"carbohydrate": 30,
+"dietary_fiber": 4.5,
+"sugar": 0,
+"protein": 42,
+"a_vitamin": 39,
+"b_vitamin": 0.6,
+"c_vitamin": 0,
+"d_vitamin": 15,
+"calcium": 14,
+"cobalamin": 1,
+"magnesium": 30,
+"iren": 1.1
+},
+"categories": [
+"dinner",
+"healthy",
+"300_400",
+"rich_protein",
+"low_carb",
+"low_carb",
+"sugarless"
+]
+},
+{
+"id": 38,
+"description": {
+"tr": "Yüksek protein içeren lezzetli ve pratik bir yemek denemeye ne dersiniz?",
+"en": "How about trying a delicious and practical meal with high protein?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F38.jpg?alt=media&token=9cdb3847-115c-4a3e-94ad-fe544f6e6dd8",
+"title": {
+"tr": "Fırında Patatesli Tavuk",
+"en": "Baked Chicken Patato"
+},
+"time": "35",
+"porsion": "5",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 377 kcal",
+"en": "1 porsion 377 kcal"
+},
+"calories": "377",
+"materials": {
+"tr": [
+"5 porsiyon için",
+"1 kg tavuk göğsü",
+"2 orta boy patates",
+"3 yemek kaşığı zeytinyağı",
+"Tuz ve istenilen baharatlar"
+],
+"en": [
+"for 5 servings",
+"1 kg of chicken breast",
+"2 medium potatoes",
+"3 tablespoons of olive oil",
+"Salt and desired spices"
+]
+},
+"recipe": {
+"tr": [
+"Tavuk eti tepsiye kolay sığacak şekilde doğranıp geniş bir kabın içine alınır. Üzerine zeytinyağı, tuz ve istenilen baharatlar eklenerek iyice karıştırılır.",
+"Patatesler yuvarlak yuvarlak dilimlenir. Bir kabın içinde zeytinyağı ile karıştırılır.",
+"Pişirme kağıdı serilmiş tepsiye patates ve tavuklar güzelce dizilir. Patateslerin üzerine dizdikten sonra baharat serpebilirsiniz.",
+"Önceden ısıtılmış 200 derecelik fırında, 25 dakika kadar pişirmeniz yeterlidir."
+],
+"en": [
+"Chicken meat is chopped in such a way that it fits easily on the tray and placed in a large bowl. Olive oil, salt and desired spices are added to it and mixed well.",
+"The potatoes are sliced ​​into rounds. They are mixed with olive oil in a bowl.",
+"Potatoes and chickens are arranged nicely on the baking paper-lined tray. After placing them on the potatoes, you can sprinkle spices.",
+"It is enough to cook for 25 minutes in a preheated 200 degree oven."
+]
+},
+"nutritive_value": {
+"total_fat": 13.4,
+"saturated_fat": 3.8,
+"polyunsaturated_fat": 3,
+"monounsaturated_fat": 5,
+"cholesterol": 88,
+"sodium": 82,
+"potassium": 223,
+"carbohydrate": 15,
+"dietary_fiber": 1.8,
+"sugar": 0,
+"protein": 47,
+"a_vitamin": 161,
+"b_vitamin": 0.4,
+"c_vitamin": 0,
+"d_vitamin": 2,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 23,
+"iren": 1.3
+},
+"categories": [
+"dinner",
+"healthy",
+"rich_protein",
+"300_400",
+"low_fat",
+"sugarless"
+]
+},
+{
+"id": 39,
+"description": {
+"tr": "Zerdeçal iltihap giderici özelliği vardır, ağrı kesicidir. Sindirim sistemini korur. Alzheimer riskini azaltır.",
+"en": "Turmeric has anti-inflammatory properties and is a pain reliever. It protects the digestive system. It reduces the risk of Alzheimer's."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F39.jpg?alt=media&token=fa1e034e-0c1c-4876-b5d7-259d70df6c2c",
+"title": {
+"tr": "Zerdeçallı Pilav",
+"en": "Turmeric Pilaf"
+},
+"time": "25",
+"porsion": "3",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 284 kcal",
+"en": "1 porsion 284 kcal"
+},
+"calories": "284",
+"materials": {
+"tr": [
+"3 porsiyon için",
+"200 g pirinç (1 su bardağı)",
+"1 yemek kaşığı tereyağı",
+"1 yemek kaşığı zerdeçal",
+"Tuz"
+],
+"en": [
+"for 3 servings",
+"200 g of rice (1 cup)",
+"1 tablespoon of butter",
+"1 tablespoon of turmeric",
+"Salt"
+]
+},
+"recipe": {
+"tr": [
+"Pirinç iyice yıkanır, vakit varsa ılık suda bekletilir.",
+"Tencerede tereyağı eritilir, üzerine pirinçler eklenerek 2-3 dakika yağda kavrulur.",
+"Önceden ısıtılmış su tencereye eklenir, tuz da eklendikten sonra biraz karıştırılıp tencerenin kapağı kapatılır.",
+"Kısık ateşte 15 dakika pişirilir.",
+"Ocağın altı kapatılır, havlu peçete koyulup pilav 10-20 dakika demlenmeye bırakılır.",
+"Pilav sıcakken zerdeçal eklenip karıştırılır."
+],
+"en": [
+"Rice is thoroughly washed, if there is time, it is kept in warm water.",
+"The butter is melted in the pan, the rice is added and fried in oil for 2-3 minutes.",
+"Pre-heated water is added to the pot, and after salt is added, it is mixed a little and the lid of the pot is closed.",
+"Cook on low heat for 15 minutes.",
+"The bottom of the stove is turned off, a towel is placed and the rice is left to infuse for 10-20 minutes.",
+"While the rice is hot, add turmeric and mix."
+]
+},
+"nutritive_value": {
+"total_fat": 4,
+"saturated_fat": 0.1,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.1,
+"cholesterol": 0,
+"sodium": 1,
+"potassium": 35,
+"carbohydrate": 55,
+"dietary_fiber": 0.8,
+"sugar": 0.1,
+"protein": 4.8,
+"a_vitamin": 0,
+"b_vitamin": 1.8,
+"c_vitamin": 25.9,
+"d_vitamin": 0,
+"calcium": 183,
+"cobalamin": 0,
+"magnesium": 193,
+"iren": 41.4
+},
+"categories": [
+"healthy",
+"low_fat",
+"200_300",
+"dinner"
+]
+},
+{
+"id": 40,
+"description": {
+"tr": "Ispanak bol miktarda C,E ve B vitaminleri, magnezyum, demir ve kalsiyum içerir. Kalp damar hastalıklarına karşı korur.",
+"en": "Spinach contains plenty of C, E and B vitamins, magnesium, iron and calcium. Protects against cardiovascular diseases"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F40.jpg?alt=media&token=1b9e99f3-7fe8-48e3-a21e-2ce24f3ee23f",
+"title": {
+"tr": "Ispanaklı Makarna",
+"en": "Spinach Pasta"
+},
+"time": "15",
+"porsion": "5",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 445 kcal",
+"en": "1 porsion 445 kcal"
+},
+"calories": "445",
+"materials": {
+"tr": [
+"5 porsiyon için",
+"1 paket makarna (500 gram)",
+"180 g yoğurt (4 yemek kaşığı)",
+"150 g lor peyniri",
+"2 diş sarımsak",
+"1 yemek kaşığı zeytinyağı",
+"2 kase ıspanak"
+],
+"en": [
+"for 5 servings",
+"1 pack of pasta (500 grams)",
+"180 g of yogurt (4 tablespoons)",
+"150 g curd cheese",
+"2 cloves of garlic",
+"1 tablespoon of olive oil",
+"2 bowls of spinach"
+]
+},
+"recipe": {
+"tr": [
+"Makarnamızı kaynar suyun içine atarak 10 dakika haşlıyoruz. Daha sonra süzerek porsiyonumuzu tabağımıza alıyoruz.",
+"Ispanak, sarımsak, yoğurt, lor peyniri ve zeytinyağını blender kabımıza koyarak blenderdan geçiriyoruz.",
+"Makarnamızın üzerine enfes sosumuzu dökerek afiyetle yiyoruz."
+],
+"en": [
+"We throw our pasta in boiling water and boil it for 10 minutes. Then we drain it and take our portion on our plate.",
+"We put spinach, garlic, yoghurt, curd cheese and olive oil in our blender bowl and pass them through the blender.",
+"We pour our delicious sauce on our pasta and enjoy it."
+]
+},
+"nutritive_value": {
+"total_fat": 7,
+"saturated_fat": 0.4,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.2,
+"cholesterol": 0,
+"sodium": 146,
+"potassium": 524,
+"carbohydrate": 79,
+"dietary_fiber": 3.2,
+"sugar": 0,
+"protein": 17.5,
+"a_vitamin": 576,
+"b_vitamin": 0.6,
+"c_vitamin": 41.5,
+"d_vitamin": 0.8,
+"calcium": 99.5,
+"cobalamin": 0,
+"magnesium": 0,
+"iren": 3.2
+},
+"categories": [
+"dinner",
+"healthy",
+"lunch",
+"low_fat",
+"400_500"
+]
+},
+{
+"id": 41,
+"description": {
+"tr": "Ton balığı, yüksek protein içeriği ile vücut direncini artırır, antioksidan etkisi ile vücudun toksinlerden uzaklaşmasına yardım eder.",
+"en": "Tuna increases body resistance with its high protein content and helps the body get rid of toxins with its antioxidant effect."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F41.jpg?alt=media&token=b5db66e1-3248-4676-9d4c-584d178dd242",
+"title": {
+"tr": "Diyet Pizza",
+"en": "Diet Pİzza"
+},
+"time": "25",
+"porsion": "1",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 356 kcal",
+"en": "1 porsion 356 kcal"
+},
+"calories": "356",
+"materials": {
+"tr": [
+"Pizza tabanı için:",
+"1 kutu ton balığı (büyük)",
+"1 adet yumurta",
+"kekik, karabiber",
+"Üzeri için:",
+"1 yemek kaşığı domates püresi",
+"1 dilim hindi füme",
+"1 dilim kadar rendelenmiş kaşar"
+],
+"en": [
+"For the pizza base:",
+"1 can of tuna (large)",
+"1 egg",
+"thyme, black pepper",
+"For the above:",
+"1 tablespoon of tomato puree",
+"1 slice of smoked turkey",
+"Grated Cheddar up to 1 slice"
+]
+},
+"recipe": {
+"tr": [
+"Ton balığının yağı süzülerek geniş bir kabın içine alınır.",
+"Üzerine yumurta kırılır; tuz, karabiber ve kekik de eklenip iyice yoğurulur.",
+"Yağlı kağıt serilen fırın tepsisine, karışım pizza tabanı şekli verilerek koyulur.",
+"Önceden ısıtılmış 220 derece fırında 15-20 dakika pişirilir.",
+"Fırından çıkarılan pizza tabanlarının üzerine domates sosu sürülür, diğer malzemeler de eklendikten sonra en üste rendelenmiş kaşarlar koyulur.",
+"Fırın henüz sıcakken kaşarlar eriyene kadar tekrar fırına atılıp birkaç dakika ısıtılır."
+],
+"en": [
+"The oil of the tuna fish is filtered and taken into a large bowl.",
+"Eggs are broken on it, salt, pepper and thyme are added and kneaded well.",
+"Place the mixture on the baking tray, which is covered with greaseproof paper, in the shape of a pizza base.",
+"Baked in a preheated 220 degree oven for 15-20 minutes.",
+"Tomato sauce is spread on the pizza bases that are taken out of the oven, and after the other ingredients are added, grated cheddar is put on the top.",
+"While the oven is still hot, it is thrown back into the oven and heated for a few minutes until the cheese melts."
+]
+},
+"nutritive_value": {
+"total_fat": 19,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.1,
+"cholesterol": 47,
+"sodium": 54,
+"potassium": 527,
+"carbohydrate": 6.8,
+"dietary_fiber": 2.2,
+"sugar": 0,
+"protein": 38.7,
+"a_vitamin": 65,
+"b_vitamin": 1,
+"c_vitamin": 0,
+"d_vitamin": 82,
+"calcium": 4,
+"cobalamin": 2.4,
+"magnesium": 42,
+"iren": 0.9
+},
+"categories": [
+"dinner",
+"healthy",
+"rich_protein",
+"low_carb",
+"low_fat",
+"300_400"
+]
+},
+{
+"id": 42,
+"description": {
+"tr": "Kırmızı et, yüksek kalitede esansiyel amino asit içeren protein, demir ve çinko yönünden zengindir. B grubu vitaminler yönünden zengindir. Vücut direncini artırır ve kan yapımına yardımcı olur.",
+"en": "Red meat is rich in protein, iron and zinc, which contain high-quality essential amino acids. It is rich in B group vitamins. It increases body resistance and helps blood production."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F42.jpg?alt=media&token=7cb4555f-6a62-4fb3-8e27-934285cadce0",
+"title": {
+"tr": "Fırında Kırmızı Et",
+"en": "Baked Meat"
+},
+"time": "25",
+"porsion": "2",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 251 kcal",
+"en": "1 porsion 251 kcal"
+},
+"calories": "251",
+"materials": {
+"tr": [
+"2 porsiyon için",
+"150 g kırmızı et",
+"1 yemek kaşığı zeytinyağı",
+"kekik",
+"tuz",
+"istenilen diğer baharatlar"
+],
+"en": [
+"for 2 servings",
+"150 g of red meat",
+"1 tablespoon of olive oil",
+"thyme",
+"salt",
+"other spices"
+]
+},
+"recipe": {
+"tr": [
+"Parça etimizi, 1-2 parmak kalınlığında olacak şekilde kesiyoruz.",
+"Kestiğimiz eti bir kabın içine alıyoruz. Üzerine zeytinyağı, tuz ve istediğimiz diğer baharatları ekliyoruz. Etin iki yüzü- ne de zeytinyağını ve baharatları iyice yediriyoruz. Bunu yaptıktan sonra eti, yağ ve baharat karışımının içinde buzdolabında bekletebilirsiniz. Daha lezzetli olacaktır.",
+"Döküm veya teflon tavanın altını açıp iyice ısınmasını bekliyoruz. Aynı zamanda fırını da 200 dereceye ayarlayıp açıyoruz, biz etimizi mühürlerken fırın da ısınadursun.",
+"Tava iyice ısındığında, üzerine eti koyuyoruz. Etin iki yüzünü de birkaç dakika tavada tutarak mühürlüyoruz. Bunu yapmaktaki amacımız, eti fırına attığımızda suyunu kaybetmemesi için mühürlemek. Aynı zamanda eti mü- hürlerken kesinlikle üzerine bastırmıyoruz! İçindeki suyu ne kadar korursak o kadar lezzetli olacaktır. İki yüzünü de mühürledikten sonra yanlarını da biraz mühürledikten sonra eti tavadan alıyoruz.",
+"Yağlı kağıt serili tepsiye etleri koyup, ısınmış durumdaki fırına gönderiyoruz. 200 derecede pişiriyoruz. Az pişmiş seviyorsanız 5 dakika, orta pişmiş seviyorsanız 7 dakika, iyi pişmiş istiyorsanız da 10 dakika fırında pişirebilirsiniz.",
+"Afiyet olsun!"
+],
+"en": [
+"We cut our piece of meat to be 1-2 finger thick.",
+"We take the meat that we cut into a bowl. We add olive oil, salt and other spices we want on it. We feed olive oil and spices on both sides of the meat. After you do this, you can keep the meat in the oil and spice mixture in the refrigerator. It will be more delicious.",
+"We open the bottom of the cast or Teflon pan and wait for it to heat up well. At the same time, we set the oven to 200 degrees and open it, so that the oven heats up while we seal our meat.",
+"When the pan is well heated, we put the meat on it. We seal both sides of the meat by keeping it in the pan for a few minutes. Our purpose in doing this is to seal the meat so that it does not lose its water when we put it in the oven. At the same time, we never press on the meat when sealing it! The more we preserve the water in it, the more delicious it will be We take the meat out of the pan after sealing both sides and sealing the sides a little bit.",
+"Put the meat on a greased paper-lined tray and send it to the heated oven. We bake it at 200 degrees. You can cook it in the oven for 5 minutes if you like it rare, 7 minutes if you like it medium rare, or 10 minutes if you want it well done.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 21,
+"saturated_fat": 3,
+"polyunsaturated_fat": 0.6,
+"monounsaturated_fat": 2.8,
+"cholesterol": 103,
+"sodium": 83,
+"potassium": 337,
+"carbohydrate": 0.6,
+"dietary_fiber": 0.3,
+"sugar": 0,
+"protein": 13.8,
+"a_vitamin": 0,
+"b_vitamin": 0.4,
+"c_vitamin": 0,
+"d_vitamin": 10,
+"calcium": 6,
+"cobalamin": 0.6,
+"magnesium": 29,
+"iren": 1.2
+},
+"categories": [
+"healthy",
+"dinner",
+"low_carb",
+"low_fat",
+"rich_protein",
+"200_300"
+]
+},
+{
+"id": 43,
+"description": {
+"tr": "Tavuk eti protein, vitamin ve mineral kaynağıdır. Kolestrolü kontrol altına alır. Sağlıklı bir köfte hazırlamaya ne dersiniz?",
+"en": "Chicken meat is a source of protein, vitamins and minerals. It controls cholesterol. How about preparing a healthy meatball?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F43.jpg?alt=media&token=f16f1ee3-fd9e-4870-82ff-182becfcb639",
+"title": {
+"tr": "Tavuk Köftesi",
+"en": "Chicken Balls"
+},
+"time": "25",
+"porsion": "2",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 213 kcal",
+"en": "1 porsion 213 kcal"
+},
+"calories": "213",
+"materials": {
+"tr": [
+"2 porsiyon için",
+"200 g tavuk",
+"2 adet yumurta",
+"1 adet küçük soğan",
+"2 avuç maydanoz",
+"Tuz ve istenen baharatlar",
+"Sarımsak da eklenebilir"
+],
+"en": [
+"for 2 servings",
+"200 g chicken",
+"2 eggs",
+"1 small onion",
+"2 handfuls of parsley",
+"Salt and desired spices",
+"Garlic can also be added"
+]
+},
+"recipe": {
+"tr": [
+"Tavuğun yağlı kısımları ayıklanır ve blender ile kıyma haline getirilir.",
+"Kıymanın üzerine 1 yumurta kırılır, diğer malzemeler de küçük küçük doğranıp eklenerek iyice yoğurulur.",
+"Tava iyice ısıtılır.",
+"Başka bir kasenin içine 1 yumurta kırılıp çırpılır.",
+"Karışım köfte şekline getirilirip kasedeki yumurtaya bandırıldıktan sonra tavaya atılır.",
+"İki tarafını da pişirdikten sonra tavuk köfteniz hazır.",
+"Afiyet olsun!"
+],
+"en": [
+"The fatty parts of the chicken are removed and ground into minced meat with a blender.",
+"An egg is broken on the ground beef, other ingredients are chopped into small pieces and added, and kneaded well.",
+"The pan is well heated.",
+"1 egg is broken into another bowl and whisked.",
+"The mixture is shaped into meatballs and dipped in the egg in the bowl and then thrown into the pan.",
+"After cooking both sides, your chicken meatballs are ready.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 7.5,
+"saturated_fat": 1,
+"polyunsaturated_fat": 0.8,
+"monounsaturated_fat": 1.2,
+"cholesterol": 85,
+"sodium": 74,
+"potassium": 256,
+"carbohydrate": 4.3,
+"dietary_fiber": 1.1,
+"sugar": 0,
+"protein": 29.7,
+"a_vitamin": 21,
+"b_vitamin": 0.6,
+"c_vitamin": 0,
+"d_vitamin": 5,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 29,
+"iren": 1
+},
+"categories": [
+"breakfast",
+"dinner",
+"lunch",
+"low_carb",
+"low_fat",
+"rich_protein",
+"200_300"
+]
+},
+{
+"id": 44,
+"description": {
+"tr": "Nohut protein, karbonhidrat ve lif açısından zangindir. Sağlıklı yağlar ve mineraller içerir.",
+"en": "Chickpeas are rich in protein, carbohydrates and fiber. Contains healthy fats and minerals."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F44.jpg?alt=media&token=0cce4eea-fafa-4f18-b2e8-20d9ecb369bc",
+"title": {
+"tr": "Humus",
+"en": "Humus"
+},
+"time": "40",
+"porsion": "2",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 260 kcal",
+"en": "1 porsion 260 kcal"
+},
+"calories": "260",
+"materials": {
+"tr": [
+"2 porsiyon için",
+"200 g haşlanmış nohut (haşlanmış ağırlık ile)",
+"1 tatlı kaşığı zeytinyağı",
+"1 yemek kaşığı tahin",
+"1 adet limon (suyu kullanılacak)",
+"Tuz ve istenen baharatlar",
+"Sarımsak da eklenebilir"
+],
+"en": [
+"for 2 servings",
+"200 g of boiled chickpeas (with boiled weight)",
+"1 teaspoon of olive oil",
+"1 tablespoon of tahini",
+"1 lemon (juice will be used)",
+"Salt and desired spices",
+"Garlic can also be added"
+]
+},
+"recipe": {
+"tr": [
+"Nohutlar haşlanır veya haşlanmış nohut konservesi kullanılabilir.",
+"Çatal veya blender yardımıyla nohutlar püre kıvamına getirilir.",
+"Diğer malzemeler de üzerine eklenerek iyice karıştırılır.",
+"Son olarak üzerine zeytinyağı ve baharat eklenir.",
+"Afiyet olsun!"
+],
+"en": [
+"Chickpeas can be boiled or canned boiled chickpeas can be used.",
+"Chickpeas are mashed with the help of a fork or blender.",
+"Other ingredients are added to it and mixed well.",
+"Finally, olive oil and spices are added to it.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 6.4,
+"saturated_fat": 1.4,
+"polyunsaturated_fat": 3.6,
+"monounsaturated_fat": 4,
+"cholesterol": 0,
+"sodium": 379,
+"potassium": 228,
+"carbohydrate": 36.7,
+"dietary_fiber": 8.7,
+"sugar": 0,
+"protein": 10.4,
+"a_vitamin": 30,
+"b_vitamin": 0.2,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 38,
+"cobalamin": 0,
+"magnesium": 71,
+"iren": 2.4
+},
+"categories": [
+"lunch",
+"dinner",
+"healthy",
+"rich_protein",
+"rich_fiber",
+"200_300",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 45,
+"description": {
+"tr": "Protein bakımından iyi bir besin kaynağı olan tavuk eti aynı zamanda, özel vitamin ve mineraller bakımından da zengin bir hayvansal gıdadır. Bu özellikleri sayesinde tavuk eti, kilo vermeye, kolesterolün ve tansiyonun kontrol altına alınmasına yardımcı olmaktadır.",
+"en": "Chicken meat, which is a good food source in terms of protein, is also an animal food rich in special vitamins and minerals. Thanks to these properties, chicken meat helps to lose weight, control cholesterol and blood pressure."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F45.jpg?alt=media&token=745a41a9-bb58-465a-ae6d-ba90e6d79507",
+"title": {
+"tr": "Tavuk Sarma",
+"en": "Chicken Wrap"
+},
+"time": "40",
+"porsion": "5",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 256 kcal",
+"en": "1 porsiyon 256 kcal"
+},
+"calories": "256",
+"materials": {
+"tr": [
+"5 porsiyon için",
+"600 g tavuk göğüs",
+"6 dilim cheddar peyniri (farklı bir peynir de kullanabilirsiniz)",
+"ıspanak ve kırmızı biber (içini doldurmak için kullanacağız, farklı sebzelerden de yararlanabilirsiniz)",
+"Sos için:",
+"3 tatlı kaşığı zeytinyağı",
+"Bir tutam tuz",
+"istenilen baharatlar"
+],
+"en": [
+"for 5 servings",
+"600 g chicken breast",
+"6 slices of cheddar cheese (you can also use a different cheese)",
+"spinach and red pepper (we will use it for stuffing, you can also use different vegetables)",
+"For sauce:",
+"3 teaspoons of olive oil",
+"A pinch of salt",
+"desired spices"
+]
+},
+"recipe": {
+"tr": [
+"Fırın 200 dereceye ayarlanarak açılır, ısınmaya bırakılır.",
+"Bu sırada bir tabağın içine zeytinyağı ve baharatlar eklenerek karıştırılır.",
+"Tavuk göğsü 1 cm civarı bir kalınlıkta yatay olarak kesilir.",
+"Kesilen tavukların üzerine diğer malzemeler koyulur, ardından sarılarak dürüm şekline getirilir.",
+"Kürdan yardımıyla tutturulan tavuk sarmalar, zeytinyağlı baharat karışımına sürülerek fırın kabına dizilir.",
+"200 derecede 20-25 dakika pişirdikten sonra, bol proteinli tavuk sarmalarınız hazır."
+],
+"en": [
+"The oven is set to 200 degrees and opened, left to heat.",
+"At this time, olive oil and spices are added to a plate and mixed.",
+"Chicken breast is cut horizontally at a thickness of about 1 cm.",
+"Other ingredients are put on the cut chickens, then they are wrapped and made into rolls.",
+"The chicken wraps, which are attached with the help of toothpicks, are spread in the olive oil spice mixture and placed in the oven dish.",
+"After cooking at 200 degrees for 20-25 minutes, your chicken wraps with plenty of protein are ready."
+]
+},
+"nutritive_value": {
+"total_fat": 9,
+"saturated_fat": 3.8,
+"polyunsaturated_fat": 3,
+"monounsaturated_fat": 5,
+"cholesterol": 88,
+"sodium": 82,
+"potassium": 223,
+"carbohydrate": 4.5,
+"dietary_fiber": 0.3,
+"sugar": 0,
+"protein": 32,
+"a_vitamin": 131,
+"b_vitamin": 0.4,
+"c_vitamin": 0,
+"d_vitamin": 2,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 23,
+"iren": 1.3
+},
+"categories": [
+"200_300",
+"dinner",
+"rich_protein",
+"low_fat",
+"low_carb",
+"healthy"
+]
+},
+{
+"id": 46,
+"description": {
+"tr": "Protein bakımından iyi bir besin kaynağı olan tavuk eti aynı zamanda, özel vitamin ve mineraller bakımından da zengin bir hayvansal gıdadır. Bu özellikleri sayesinde tavuk eti, kilo vermeye, kolesterolün ve tansiyonun kontrol altına alınmasına yardımcı olmaktadır.",
+"en": "Chicken meat, which is a good food source in terms of protein, is also an animal food rich in special vitamins and minerals. Thanks to these properties, chicken meat helps to lose weight, control cholesterol and blood pressure."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F46.jpg?alt=media&token=fa9bbcdb-eb99-4469-a87b-e205fd874088",
+"title": {
+"tr": "Pesto Soslu Tavuk",
+"en": "Chicken with Pesto Sauce"
+},
+"time": "40",
+"porsion": "5",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 304 kcal",
+"en": "1 porsion 304 kcal"
+},
+"calories": "304",
+"materials": {
+"tr": [
+"3 porsiyon için",
+"700 g tavuk göğüs",
+"4 yemek kaşığı zeytinyağı",
+"2 adet orta boy domates",
+"2 adet yeşil biber",
+"3 yemek kaşığı pesto sos",
+"Karabiber, tuz ve istenen baharatlar"
+],
+"en": [
+"for 3 servings",
+"700 g chicken breast",
+"4 tablespoons of olive oil",
+"2 medium tomatoes",
+"2 green peppers",
+"3 tablespoons of pesto sauce",
+"Black pepper, salt and desired seasonings"
+]
+},
+"recipe": {
+"tr": [
+"Tavuklar kuşbaşı doğranır.",
+"Tencereye 3 yemek kaşığı zeytinyağı eklenip, ısınınca üzerine tavuklar eklenir.",
+"Üzerine tuz ve karabiber serptikten sonra kaşıkla karıştırarak tavuklar yarı pişmiş kıvama getirilir.",
+"Tavuklar tencereden başka bir kaba alınır, tavukların suyu tencerede bırakılır ve üzerine 1 yemek kaşığı kadar zeytinyağı eklenir. Ardından küp küp doğranan domates ve iberler tencereye koyularak pişirilir.",
+"Domatesler suyunu saldıktan sonra yarı pişmiş tavuklar ve pesto sos da tencereye eklenip karıştırarak pişirilir."
+],
+"en": [
+"Chicken is cut into cubes.",
+"Add 3 tablespoons of olive oil to the pot and add chicken when it gets hot.",
+"After sprinkling salt and pepper on it, stirring with a spoon, the chickens are half cooked.",
+"The chickens are taken from the pot to another bowl, the water of the chickens is left in the pot and 1 tablespoon of olive oil is added to it. Then, the diced tomatoes and ibex are cooked in the pot.",
+"After the tomatoes have released their juices, half cooked chicken and pesto sauce are added to the pot and cooked by stirring."
+]
+},
+"nutritive_value": {
+"total_fat": 17.5,
+"saturated_fat": 3.8,
+"polyunsaturated_fat": 3,
+"monounsaturated_fat": 5,
+"cholesterol": 88,
+"sodium": 82,
+"potassium": 223,
+"carbohydrate": 3.3,
+"dietary_fiber": 1,
+"sugar": 0,
+"protein": 34,
+"a_vitamin": 161,
+"b_vitamin": 0.4,
+"c_vitamin": 0,
+"d_vitamin": 2,
+"calcium": 15,
+"cobalamin": 0.3,
+"magnesium": 23,
+"iren": 1.3
+},
+"categories": [
+"dinner",
+"low_carb",
+"low_fat",
+"300_400",
+"healthy",
+"rich_protein",
+"sugarless"
+]
+},
+{
+"id": 47,
+"description": {
+"tr": "Tavuk Suyu, insan vücudundaki hücrelerin büyümesi ve onarımı için gerekli olan aminoasit açısından çok zengin bir kaynak ve mevsim geçişlerinde soğuk algınlıklarına ve diğer bazı hastalıklara karşı vücudu koruyor.",
+"en": "Chicken Broth is a very rich source of amino acids, which are necessary for the growth and repair of cells in the human body, and it protects the body against colds and some other diseases during seasonal transitions."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F47.jpg?alt=media&token=2e57ba55-bd1d-4431-9f0b-d992b520b00d",
+"title": {
+"tr": "Sebzeli Tavuk Çorbası",
+"en": "Vegetable Chicken Soup"
+},
+"time": "40",
+"porsion": "4",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 217 kcal",
+"en": "1 porsion 217 kcal"
+},
+"calories": "217",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"2 parça tavuk göğsü (yaklaşık 500 gram kadar)",
+"1 çay bardağı yulaf ezmesi",
+"1 adet orta boy soğan ",
+"1 adet havuç",
+"2’şer tatlı kaşığı karabiber, kekik, kırmızı toz biber (İstediğiniz baharatları tercih edebilirsiniz.)",
+"bir tutam tuz",
+"Ekstra sebze ekleyebilirsiniz.",
+"Üzerine limon sıkarak servis edebilirsiniz.",
+"Afiyet olsun!"
+],
+"en": [
+"for 4 servings",
+"2 pieces of chicken breast (about 500 grams)",
+"1 teaspoon of oatmeal",
+"1 medium onion",
+"1 carrot",
+"2 teaspoons of black pepper, thyme, red pepper powder (You can choose any spices you want.)",
+"a pinch of salt",
+"You can add extra vegetables.",
+"You can serve it with a squeeze of lemon.",
+"Bon Appetit!"
+]
+},
+"recipe": {
+"tr": [
+"Tavuklar tencereye alınır, üzerine 5 su bardağı kadar su eklendikten sonra orta ateşte haşlanmaya bırakılır.",
+"Soğan ve havuçlar doğranıp, tencereye eklenir.",
+"Tavuklar haşlandıktan sonra çıkarılır ve ince ince doğranır. Tavuklar çıkarıldıktan sonra yulaf ezmesi de tencereye eklenir.",
+"Doğranılan tavuklar tekrar tencereye atılır. Bu aşamada istenilen sebze ve baharatlar da tencereye eklenir.",
+"Tencere karıştırılarak 3-4 dakika daha tüm malzemelerin birbirine karışması için pişirilir."
+],
+"en": [
+"The chickens are put in a pot, 5 glasses of water are added, and then left to boil over medium heat.",
+"Chop the onions and carrots and add them to the pot.",
+"After the chickens are boiled, they are taken out and finely chopped. After the chickens are removed, the oatmeal is added to the pot.",
+"The chopped chickens are thrown back into the pot. At this stage, the desired vegetables and spices are added to the pot.",
+"The pot is stirred and cooked for another 3-4 minutes so that all the ingredients are mixed together."
+]
+},
+"nutritive_value": {
+"total_fat": 4.6,
+"saturated_fat": 0.3,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.6,
+"cholesterol": 3,
+"sodium": 143,
+"potassium": 105,
+"carbohydrate": 13,
+"dietary_fiber": 3.7,
+"sugar": 1.6,
+"protein": 30.6,
+"a_vitamin": 3,
+"b_vitamin": 0.1,
+"c_vitamin": 0.2,
+"d_vitamin": 0,
+"calcium": 3,
+"cobalamin": 0,
+"magnesium": 4,
+"iren": 0.2
+},
+"categories": [
+"lunch",
+"dinner",
+"healthy",
+"low_carb",
+"low_fat",
+"200_300"
+]
+},
+{
+"id": 48,
+"description": {
+"tr": "Sağlklıve lezzetli bir atıştırmalık hazırlamaya ne dersiniz?",
+"en": "How about preparing a healthy and delicious snack?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F48.jpg?alt=media&token=81f97a6e-8030-4044-8572-eaa719a6b3ac",
+"title": {
+"tr": "Diyet Cips",
+"en": "Diet Chips"
+},
+"time": "15",
+"porsion": "6",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 116 kcal",
+"en": "1 porsion 116 kcal"
+},
+"calories": "116",
+"materials": {
+"tr": [
+"6 porsiyon için",
+"3 adet tam tahıllı lavaş",
+"5 yemek kaşığı domates püresi",
+"2 tatlı kaşığı zeytinyağı",
+"bir tutam tuz",
+"istenilen baharatlar"
+],
+"en": [
+"for 6 servings",
+"3 whole grain lavash",
+"5 tablespoons of tomato puree",
+"2 teaspoons of olive oil",
+"a pinch of salt",
+"desired spices"
+]
+},
+"recipe": {
+"tr": [
+"Domates püresinin üzerine zeytinyağı, bir tutam tuz ve istediğimiz baharatları ekleyip iyice karıştırıyoruz.",
+"Lavaşların iki yüzüne de olacak şekilde, hazırladığımız bu karışımı sürüyoruz ve iyice dağıtıyoruz.",
+"Sosladığımız lavaşları cips şeklinde keserek parçalara ayırıyoruz ve yağlı kağıt koyduğumuz fırın tepsisine alıyoruz.",
+"Önceden ısıtılmış 200 derece fırına atıp 6 dakika pişiriyoruz.",
+"Tepsiyi fırından çıkardıktan sonra oda sıcaklığına gelmesini bekliyoruz. Cipslerimiz soğudukça çıtır çıtır olmaya başlayacaktır.",
+"Afiyet olsun!"
+],
+"en": [
+"Add olive oil, a pinch of salt and the spices we want to the tomato puree and mix well.",
+"We apply this mixture on both sides of the lavash and distribute it well.",
+"We cut the lavash into chips, cut them into pieces and put them on a baking tray with greaseproof paper.",
+"Put it in a preheated 200 degree oven and bake for 6 minutes.",
+"After removing the tray from the oven, we wait for it to come to room temperature. Our chips will start to become crispy as they cool.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 4,
+"saturated_fat": 0.8,
+"polyunsaturated_fat": 0.5,
+"monounsaturated_fat": 0.3,
+"cholesterol": 0,
+"sodium": 582,
+"potassium": 135,
+"carbohydrate": 16,
+"dietary_fiber": 3,
+"sugar": 0,
+"protein": 3,
+"a_vitamin": 0,
+"b_vitamin": 0.2,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 5,
+"cobalamin": 0,
+"magnesium": 0,
+"iren": 1.07
+},
+"categories": [
+"healthy",
+"low_carb",
+"low_fat",
+"low_calories",
+"snack",
+"sugarless",
+"100_200"
+]
+},
+{
+"id": 49,
+"description": {
+"tr": "Canınız tatlı mı çekti? Sağlıklı ve lezzetli bir tatlı denemeye ne dersiniz?",
+"en": "Are you craving sweets? How about trying a healthy and delicious dessert?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F49.jpg?alt=media&token=56a94c18-530e-4e0d-93d6-57863991b101",
+"title": {
+"tr": "Mozaik Pasta",
+"en": "Mosaic Cake"
+},
+"time": "10",
+"porsion": "5",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 115 kcal",
+"en": "1 porsion 115 kcal"
+},
+"calories": "115",
+"materials": {
+"tr": [
+"5 porsiyon için için",
+"100 g yulaf ezmesi",
+"1 bardak sıcak su",
+"1 yemek kaşığı kakao",
+"1 yemek kaşığı bal (ezilmiş hurma, keçi boynuzu unu veya pekmez alternatif olarak eklenebilir.)",
+"1 ölçek çikolatalı protein tozu (şart değildir, eklenmezse bal miktarı arttırılabilir.)",
+"İstenilen miktarda ceviz"
+],
+"en": [
+"Drink for 5 servings",
+"100 g of oatmeal",
+"1 glass of hot water",
+"1 tablespoon of cocoa",
+"1 tablespoon of honey (crushed dates, carob flour or molasses can be added as an alternative)",
+"1 scoop of chocolate protein powder (not necessary, if not added, the amount of honey can be increased)",
+"Desired amount of walnuts"
+]
+},
+"recipe": {
+"tr": [
+"Geniş bir kaba yulaflar konulur, üzerine sıcak su eklenerek 15-20 dakika oda sıcaklığında soğumaya bırakılır.",
+"Soğuduktan sonra üzerine kakao ve varsa protein tozu eklenip iyice karıştırılır.",
+"Muz ezilerek eklendikten sonra üzerine bal eklenir. Çatal yardımıyla muz iyice parçalanarak karıştırılır.",
+"Cevizler eklenir.",
+"Karışım yağlı kağıda dökülerek sarılır ve derin dondurucuda 2 saat kadar beklenir.",
+"Mozaik pastamız dilimleyip yemek için hazır, afiyet olsun!"
+],
+"en": [
+"Place the oats in a large bowl, add hot water and let it cool at room temperature for 15-20 minutes.",
+"After cooling, add cocoa and protein powder, if any, and mix well.",
+"After the banana is crushed and added, honey is added to it. With the help of a fork, the banana is thoroughly chopped and mixed.",
+"The walnuts are added.",
+"The mixture is wrapped in oiled paper and left in the freezer for about 2 hours.",
+"Our mosaic cake is ready to slice and eat, bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 2.8,
+"saturated_fat": 1.4,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 14.6,
+"dietary_fiber": 2.4,
+"sugar": 5.5,
+"protein": 8.2,
+"a_vitamin": 433,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"low_carb",
+"low_calories",
+"low_fat",
+"snack",
+"dessert",
+"100_200"
+]
+},
+{
+"id": 50,
+"description": {
+"tr": "Sağlklı ve lezzetli bir atıştırmalık hazırlamaya ne dersiniz?",
+"en": "How about preparing a healthy and delicious snack?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F50.jpg?alt=media&token=e5ea517d-68ee-46fd-892a-5fbd29c38def",
+"title": {
+"tr": "Fit Waffle",
+"en": "Fit Waffle"
+},
+"time": "8",
+"porsion": "2",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 212 kcal",
+"en": "1 porsion 212 kcal"
+},
+"calories": "212",
+"materials": {
+"tr": [
+"2 porsiyon için için",
+"1 bardak yulaf ezmesi",
+"1 adet yumurta",
+"100 ml süt",
+"yarım paket kabartma tozu",
+"yarım paket vanilya"
+],
+"en": [
+"drink for 2 servings",
+"1 glass of oatmeal",
+"1 egg",
+"100 ml of milk",
+"half a pack of baking soda",
+"half a pack of vanilla"
+]
+},
+"recipe": {
+"tr": [
+"Vanilya, kabartma tozu ve yumurta bir kapta karıştırılır.",
+"Sütün bir kısmı ilave edilip tekrar karıştırılır.",
+"Yulaf unu (veya yulaf kepeği) ilave edilir, tekrar süt eklenip karıştırılır.",
+"Karışım tost makinesine dökülür, katılaşana kadar birkaç dakika pişirilir. (Makinenizin yüzeyi teflon değilse biraz sıvı yağ damlatıp peçete ile yayabilirsiniz.)",
+"Pişen hamur 3 parçaya bölünüp tabağa alınır.",
+"Protein tozu ile çok az süt karıştırılır, böylece bol proteinli ve düşük kalorili çikolata kreması elde ederiz. Hazırlanan çikolata kreması hamura sürüldükten sonra üzerini istediğiniz malzemelerle süsleyebilirsiniz. Afiyet olsun!"
+],
+"en": [
+"Vanilla, baking soda and egg mixed in one bowl.",
+"Some of the milk is added and mixed again.",
+"Oat flour (or oat bran) is added, milk is added again and mixed.",
+"The mixture is poured into the toaster and cooked for a few minutes until it solidifies. (If the surface of your machine is not Teflon, you can drip a little oil and spread it with a napkin.)",
+"The cooked dough is divided into 3 parts and placed on a plate.",
+"Protein powder is mixed with very little milk, so that we obtain chocolate cream with plenty of protein and low calories. After the prepared chocolate cream is applied to the dough, you can decorate it with whatever you want. Bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 6.4,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 28,
+"dietary_fiber": 3.7,
+"sugar": 5.4,
+"protein": 11,
+"a_vitamin": 433,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"dessert",
+"200_300",
+"healthy",
+"rich_fiber",
+"low_carb",
+"low_fat",
+"snack"
+]
+},
+{
+"id": 51,
+"description": {
+"tr": "Sıcak havalarda tüketebileceğiniz az kalorili bir dondurma yapmaya ne dersiniz?",
+"en": "How about making a low-calorie ice cream that you can consume in hot weather?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F51.jpg?alt=media&token=684304cb-da8e-481a-88f6-47a4dc30a528",
+"title": {
+"tr": "Protein Dondurması",
+"en": "Protein Ice Cream"
+},
+"time": "5",
+"porsion": "6",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 122 kcal",
+"en": "1 piece 122 kcal"
+},
+"calories": "122",
+"materials": {
+"tr": [
+"6 porsiyon için",
+"400 g yoğurt",
+"3 ölçek whey protein",
+"1 adet muz"
+],
+"en": [
+"for 6 servings",
+"400 g yogurt",
+"3 scoops of whey protein",
+"1 banana"
+]
+},
+"recipe": {
+"tr": [
+"Muz blenderdan geçirilerek veya çatalla ezilerek püre kıvamına getirilir.",
+"Muz püresinin üzerine yoğurt ve protein tozu da eklenip iyice karıştırılır.",
+"Dondurucuya atılır, 2 saat sonra çıkartılıp çatal ile karıştırılır.",
+"İstenilen kıvama gelene kadar yarım saatte bir çıkarıp karıştırabilirsiniz. Afiyet olsun."
+],
+"en": [
+"Banana is made into puree by passing through a blender or mashing with a fork.",
+"Add yogurt and protein powder to the banana puree and mix well.",
+"It is put in the freezer, after 2 hours it is taken out and mixed with a fork.",
+"You can take it out and mix it every half an hour until it reaches the desired consistency. Bon appetit."
+]
+},
+"nutritive_value": {
+"total_fat": 2.8,
+"saturated_fat": 0.4,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 11,
+"dietary_fiber": 5,
+"sugar": 5,
+"protein": 14.5,
+"a_vitamin": 33,
+"b_vitamin": 0.5,
+"c_vitamin": 8.9,
+"d_vitamin": 0,
+"calcium": 110,
+"cobalamin": 0.8,
+"magnesium": 41,
+"iren": 3
+},
+"categories": [
+"snack",
+"100_200",
+"low_calories",
+"low_carb",
+"low_fat",
+"dessert"
+]
+},
+{
+"id": 52,
+"description": {
+"tr": "Sıcak havalarda tüketebileceğiniz az kalorili bir dondurma yapmaya ne dersiniz?",
+"en": "How about making a low-calorie ice cream that you can consume in hot weather?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F52.jpg?alt=media&token=948e0943-ae5e-42a0-b7f8-3df0acde7693",
+"title": {
+"tr": "Çikolatalı Fıstıklı Dondurma",
+"en": "Chocolate Pistachio Ice Cream"
+},
+"time": "10",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 122 kcal",
+"en": "1 piece 122 kcal"
+},
+"calories": "122",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"2 adet muz",
+"1 yemek kaşığı fıstık ezmesi",
+"2 yemek kaşığı kakao",
+"1 tatlı kaşığı hindistan cevizi yağı"
+],
+"en": [
+"for 4 servings",
+"2 bananas",
+"1 tablespoon of peanut butter",
+"2 soup spoons of cocoa",
+"1 teaspoon of coconut oil"
+]
+},
+"recipe": {
+"tr": [
+"Muzlar dilimlenerek bir gece önceden buzluğa atılır.",
+"Blender kabına muz ve diğer malzemeler atılır.",
+"Tamamı blenderdan geçirilir, gerekirse bir tatlı kaşığı kadar süt eklenebilir. Afiyet olsun."
+],
+"en": [
+"Bananas are sliced ​​and put in the freezer the night before.",
+"Banana and other ingredients are thrown into the blender bowl.",
+"The whole thing is passed through the blender, if necessary, a teaspoon of milk can be added. Bon appetit."
+]
+},
+"nutritive_value": {
+"total_fat": 3.4,
+"saturated_fat": 0.4,
+"polyunsaturated_fat": 0.22,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 22.5,
+"dietary_fiber": 2.3,
+"sugar": 5,
+"protein": 2.5,
+"a_vitamin": 0.3,
+"b_vitamin": 0.4,
+"c_vitamin": 8.9,
+"d_vitamin": 0,
+"calcium": 61,
+"cobalamin": 0,
+"magnesium": 157,
+"iren": 0.3
+},
+"categories": [
+"snack",
+"100_200",
+"low_calories",
+"low_carb",
+"low_fat",
+"dessert"
+]
+},
+{
+"id": 53,
+"description": {
+"tr": "Sıcak havalarda tüketebileceğiniz az kalorili bir dondurma yapmaya ne dersiniz?",
+"en": "How about making a low-calorie ice cream that you can consume in hot weather?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F53.jpg?alt=media&token=c5706a88-a263-48d8-8ed5-d41c6476a642",
+"title": {
+"tr": "Çilekli Dondurma",
+"en": "Strawberry İcecream"
+},
+"time": "10",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 107 kcal",
+"en": "1 piece 107 kcal"
+},
+"calories": "107",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"2 adet muz",
+"1 kase dondurulmuş çilek",
+"1 tatlı kaşığı hindistan cevizi yağı"
+],
+"en": [
+"for 4 servings",
+"2 bananas",
+"1 bowl of frozen strawberries",
+"1 teaspoon of coconut oil"
+]
+},
+"recipe": {
+"tr": [
+"Muzlar dilimlenerek bir gece önceden buzluğa atılır.",
+"Blender kabına muz ve çilekler atılır.",
+"Tamamı blenderdan geçirilir, gerekirse bir tatlı kaşığı kadar süt eklenebilir. Afiyet olsun."
+],
+"en": [
+"Bananas are sliced ​​and put in the freezer the night before.",
+"Bananas and strawberries are thrown into the blender bowl.",
+"The whole thing is passed through the blender, if necessary, a teaspoon of milk can be added. Bon appetit."
+]
+},
+"nutritive_value": {
+"total_fat": 1.7,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.2,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 23,
+"dietary_fiber": 3.2,
+"sugar": 5,
+"protein": 1.3,
+"a_vitamin": 0.3,
+"b_vitamin": 0.1,
+"c_vitamin": 58.9,
+"d_vitamin": 0,
+"calcium": 16,
+"cobalamin": 0,
+"magnesium": 17,
+"iren": 0.9
+},
+"categories": [
+"snack",
+"100_200",
+"low_calories",
+"low_carb",
+"low_fat",
+"dessert"
+]
+},
+{
+"id": 54,
+"description": {
+"tr": "Sıcak havalarda tüketebileceğiniz az kalorili bir dondurma yapmaya ne dersiniz?",
+"en": "How about making a low-calorie ice cream that you can consume in hot weather?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F54.jpg?alt=media&token=98872cdd-0724-4980-ae82-3f5431339580",
+"title": {
+"tr": "Nane Damla Çikolatalı Dondurma",
+"en": "Mint Chocolate Chip Ice Cream"
+},
+"time": "10",
+"porsion": "4",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 adet 100 kcal",
+"en": "1 piece 100 kcal"
+},
+"calories": "100",
+"materials": {
+"tr": [
+"2 adet muz",
+"3-4 adet taze nane yaprağı",
+"1 yemek kaşığı bitter damla çikolata",
+"1 tatlı kaşığı hindistan cevizi yağı"
+],
+"en": [
+"2 bananas",
+"3-4 fresh mint leaves",
+"1 tablespoon of dark chocolate chips",
+"1 teaspoon of coconut oil"
+]
+},
+"recipe": {
+"tr": [
+"Muzlar dilimlenerek bir gece önceden buzluğa atılır.",
+"Blender kabına muz ve diğer malzemeler atılır.",
+"Tamamı blenderdan geçirilir, gerekirse bir tatlı kaşığı kadar süt eklenebilir. Afiyet olsun."
+],
+"en": [
+"Bananas are sliced ​​and put in the freezer the night before.",
+"Banana and other ingredients are thrown into the blender bowl.",
+"The whole thing is passed through the blender, if necessary, a teaspoon of milk can be added. Bon appetit."
+]
+},
+"nutritive_value": {
+"total_fat": 2.2,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 21,
+"dietary_fiber": 2.3,
+"sugar": 29,
+"protein": 1,
+"a_vitamin": 0.3,
+"b_vitamin": 0.1,
+"c_vitamin": 31.9,
+"d_vitamin": 0,
+"calcium": 243,
+"cobalamin": 0,
+"magnesium": 97,
+"iren": 5.1
+},
+"categories": [
+"snack",
+"100_200",
+"low_calories",
+"dessert",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 55,
+"description": {
+"tr": "Hem tatlı krizlerine çözüm olacak hem de sağlıkla tüketebileceğiniz düşük kalorili atıştırmalıklar istiyorsanız b tarifi tam size göre olacaktır. Denemeye hazır mısınız?",
+"en": "If you want low-calorie snacks that will both solve your sweet crisis and consume healthily, recipe b will be just for you. Are you ready to try?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F55.jpg?alt=media&token=2f78a89d-fe63-439b-9038-78eed7b3b225",
+"title": {
+"tr": "Proteinli Kek",
+"en": "Protein Cake"
+},
+"time": "15",
+"porsion": "4",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 adet 94 kcal",
+"en": "1 piece 94 kcal"
+},
+"calories": "94",
+"materials": {
+"tr": [
+"4 porsiyon için",
+"1.5 ölçek whey protein",
+"1 çay kaşığı tarçın",
+"1 yemek kaşığı kakao",
+"yarım bardak yulaf ezmesi (un haline getirilmiş)",
+"1 adet yumurta beyazı",
+"1/3 çay bardağı yarım yağlı süt",
+"yarım paket kabartma tozu",
+"100 ml su"
+],
+"en": [
+"for 4 servings",
+"1.5 scoops of whey protein",
+"1 teaspoon of cinnamon",
+"1 tablespoon of cocoa",
+"half a glass of oatmeal (ground)",
+"1 egg white",
+"1/3 cup of semi-skimmed milk",
+"half a pack of baking powder",
+"100 ml of water"
+]
+},
+"recipe": {
+"tr": [
+"Protein tozu, tarçın ve kakao bir kapta karıştırılır.",
+"Yulaf ezmesi blender yardımıyla un haline getirilip karışı- ma eklenir. (Yulaf ezmesi yerine yulaf kepeği de kullanılabilir.)",
+"Yumurta beyazı, süt ve kabartma tozu da eklenerek karıştırılır. Üzerine su eklenir.",
+"Pişirilecek kaba çok az sıvı yağ damlatılır ve peçete yardımıyla iyice yayılır.",
+"Karışım yağlanılan kaba dökülür ve mikrodalga fırının en yüksek ayarında 2 dakika pişirilir.",
+"İsteğe bağlı olarak üzerine fıstık ezmesi de sürülebilir.",
+"Afiyet olsun!"
+],
+"en": [
+"Protein powder, cinnamon and cocoa mixed in one bowl.",
+"Oatmeal is turned into flour with the help of a blender and added to the mixture. (Oat bran can also be used instead of oatmeal)",
+"Egg white, milk and baking powder are added and mixed. Water is added to it.",
+"A little oil is poured into the container to be cooked and spread well with the help of a napkin.",
+"The mixture is poured into the greased bowl and cooked for 2 minutes at the highest setting of the microwave oven.",
+"Peanut butter can also be applied on request.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 1.6,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 294,
+"potassium": 336,
+"carbohydrate": 9.8,
+"dietary_fiber": 1.5,
+"sugar": 29,
+"protein": 12,
+"a_vitamin": 0.1,
+"b_vitamin": 0.1,
+"c_vitamin": 0.9,
+"d_vitamin": 0,
+"calcium": 61,
+"cobalamin": 0,
+"magnesium": 97,
+"iren": 0.3
+},
+"categories": [
+"snack",
+"50_100",
+"low_calories",
+"dessert",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 56,
+"description": {
+"tr": "Düşük kalorili ve sağlıklı atıştırmalık hazırlamaya ne dersiniz?",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F56.jpg?alt=media&token=f0967f6a-0bf3-4ae8-8d7c-1c35550b73a1",
+"title": {
+"tr": "Yulaf Topları",
+"en": ""
+},
+"porsion": "10",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 69 kcal",
+"en": "1 porsion 69 kcal"
+},
+"calories": "69",
+"materials": {
+"tr": [
+"10 porsiyon için",
+"100 g yulaf ezmesi",
+"3/4 su bardağı süt",
+"1 bardak kuru üzüm/erik",
+"bir tutam rende hindistan cevizi bir tutam tarçın"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ezmesi, süt ve kuru üzümler bir kaba konulur.",
+"Blender ile iyice parçalanır.",
+"Karışım 5-10 dakika bekletilir, sonrasında el ile topçuk haline getirilip tabağa konulur.",
+"Üzerine tarçın veya hindistan cevizi serpiştirilir.",
+"Buzdolabında soğutulduktan sonra yemeye hazırdır. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 1.6,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.2,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 10.8,
+"dietary_fiber": 1.6,
+"sugar": 0.5,
+"protein": 2.1,
+"a_vitamin": 0,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"dessert",
+"50_100",
+"snack",
+"low_calories",
+"low_carb",
+"low_fat"
+]
+},
+{
+"id": 57,
+"description": {
+"tr": "Canınız tatlı çektiğinde tüketebileceğiniz lezzetli kurabiyeler yapmaya ne dersiniz?",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F57.jpg?alt=media&token=91a5654e-782a-45dc-a06a-f1f0ed57533d",
+"title": {
+"tr": "Yulaf Kurabiye",
+"en": ""
+},
+"porsion": "20",
+"time": "35",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 53 kcal",
+"en": "1 porsiyon 53 kcal"
+},
+"calories": "53",
+"materials": {
+"tr": [
+"20 porsiyon için",
+"4 adet yumurta",
+"150g yulaf ezmesi",
+"1 adet muz",
+"yarım avuç kuru üzüm",
+"bir tutam tarçın",
+"yarım paket kabartma tozu"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"Yumurtaların sarıları bir kaseye ayrılır. Yumurta beyazları beyazlaşana kadar çırpılır.",
+"Yumurta beyazı geniş bir kaba alınır, üzerine 1 adet muz ezilerek eklenir. Muz çatal yardımıyla iyice parçalanır.",
+"Ayrılan yumurta sarılarının yarısı bu kaba eklenir.",
+"150 gram yulaf ezmesi, 1 paket kabartma tozu, yarım avuç kuru üzüm ve tarçın kaba eklenir. İyice karıştırılır.",
+"Fırın tepsisine pişirme kağıdır serildikten sonra, üzerine istenilen boyutlarda karışımdan dökülür.",
+"180 derece önceden ısıtılmış fırında, 20 dakika kadar pişirilir. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 1.5,
+"saturated_fat": 0.5,
+"polyunsaturated_fat": 0.3,
+"monounsaturated_fat": 0.5,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 7.1,
+"dietary_fiber": 1.1,
+"sugar": 0,
+"protein": 2.5,
+"a_vitamin": 0,
+"b_vitamin": 0.4,
+"c_vitamin": 8.7,
+"d_vitamin": 87,
+"calcium": 55,
+"cobalamin": 0,
+"magnesium": 37,
+"iren": 1.3
+},
+"categories": [
+"dessert",
+"healthy",
+"low_calories",
+"50_100",
+"low_carb",
+"low_fat",
+"snack"
+]
+},
+{
+"id": 58,
+"description": {
+"tr": "Canınız tatlı mı çekti? Güzel bir pasta ile kendimizi ödüllendirelim.",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F58.jpg?alt=media&token=c60dc89b-cdb3-438a-b2a5-9921c1dd460c",
+"title": {
+"tr": "Meyveli Pasta",
+"en": ""
+},
+"porsion": "6",
+"time": "20",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 130 kcal",
+"en": "1 porsion 130 kcal"
+},
+"calories": "130",
+"materials": {
+"tr": [
+"6 porsiyon için",
+"3 adet muz",
+"4 adet yumurta",
+"1 çay kaşığı kadar sıvı yağ",
+"10 adet donmuş vişne, ahududu, böğürtlen, çilek veya farklı bir meyve"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"Muzlar iyice ezilir, püre haline getirilir.",
+"Üzerine yumurtalar kırılıp karıştırılır.",
+"Fırın kabına çok az yağ damlatılıp peçete ile yayılır.",
+"Kabın en altına vişne veya yerine tercih edilen meyve konulup üzerine karışım dökülür.",
+"Önceden ısıtılmış 200 derece fırında, 12 dakika pişirilir. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 3.8,
+"saturated_fat": 0.6,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 30,
+"sodium": 124,
+"potassium": 126,
+"carbohydrate": 20.3,
+"dietary_fiber": 2.3,
+"sugar": 5,
+"protein": 5.2,
+"a_vitamin": 0,
+"b_vitamin": 0.1,
+"c_vitamin": 0,
+"d_vitamin": 87,
+"calcium": 50,
+"cobalamin": 1.1,
+"magnesium": 10,
+"iren": 1.2
+},
+"categories": [
+"dessert",
+"healthy",
+"low_calories",
+"low_carb",
+"low_fat",
+"snack",
+"100_200"
+]
+},
+{
+"id": 59,
+"description": {
+"tr": "Canınız çikolata mı çekti? BU tarifi mutlaka denemelisiniz.",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F59.jpg?alt=media&token=636fbeee-6192-4b9a-8b50-7fa2597027cf",
+"title": {
+"tr": "Çikolata Topları",
+"en": ""
+},
+"porsion": "8",
+"time": "20",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 89 kcal",
+"en": "1 porsion 89 kcal"
+},
+"calories": "89",
+"materials": {
+"tr": [
+"8 porsiyon için",
+"150 g hurma ",
+"75 g çiğ kaju",
+"50 g bitter çikolata (kakao oranı yüksek)",
+"1 yemek kaşığı kakao"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"Sıcak suda bekletilmiş hurmalar, hindistan cevizi ve çiğ kaju ile blenderdan geçirilir. (Hurmanın suyundan 2 kaşık kadar ekleyin karışıma.)",
+"Çikolata benmari usulü eritilir.",
+"Karışım top haline getirilip erimiş çikolata veya kakao ile kaplanır.",
+"Oda sıcaklığına geldikten sonra 20 dakika kadar buzdolabında bekletilir. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 5.6,
+"saturated_fat": 0.5,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 2,
+"potassium": 656,
+"carbohydrate": 8.5,
+"dietary_fiber": 1.9,
+"sugar": 0,
+"protein": 2.6,
+"a_vitamin": 0,
+"b_vitamin": 0.2,
+"c_vitamin": 0.4,
+"d_vitamin": 0,
+"calcium": 39,
+"cobalamin": 0,
+"magnesium": 43,
+"iren": 1
+},
+"categories": [
+"dessert",
+"healthy",
+"low_calories",
+"low_carb",
+"low_fat",
+"snack",
+"50_100"
+]
+},
+{
+"id": 60,
+"description": {
+"tr": "Geceden hazırlayıp yanınızda taşıyabileceğiniz ister atıştırmalık isterseniz de ana öğün olarak tüketebileceğiniz lezzetli bir tarif denemeye ne dersiniz?",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F60.jpg?alt=media&token=0d4b5abd-a2ad-4c09-b0ac-15bf231e7e33",
+"title": {
+"tr": "Chia Puding",
+"en": ""
+},
+"porsion": "1",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 323 kcal",
+"en": "1 porsion 323 kcal"
+},
+"calories": "323",
+"materials": {
+"tr": [
+"1 porsiyon için",
+"3 yemek kaşığı chia tohumu",
+"1 adet şeftali (farklı bir meyve de kullanılabilir)",
+"1 tatlı kaşığo rende hindistan cevizi ",
+"1 çay bardağı süt"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"3 yemek kaşığı chia tohumu bir kaba koyulur, üzerine 1 çay bardağı süt eklenir. (Daha yoğun olmasını isterseniz süt miktarını azaltabilir veya tohum miktarını arttırabilirsiniz.)",
+"Biraz karıştırdıktan sonra tohumların sütü çekmesi için hazırlanan karışım en az yarım saat buzdolabında bekletilir. (Akşamdan hazırlayıp buzdolabında bekletilmesi tavsiye edilir.)",
+"Dolaptan alınan karışımın üzerine bir miktar rendelenmiş hindistan cevizi ve aroma vermesi için çok az tarçın eklenir.",
+"Son olarak dilimlenen şeftaliler karışımın üzerine eklenir. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 16.2,
+"saturated_fat": 3.3,
+"polyunsaturated_fat": 0.1,
+"monounsaturated_fat": 0.3,
+"cholesterol": 0,
+"sodium": 16,
+"potassium": 407,
+"carbohydrate": 38.8,
+"dietary_fiber": 15.7,
+"sugar": 0,
+"protein": 10.5,
+"a_vitamin": 326,
+"b_vitamin": 0,
+"c_vitamin": 6.6,
+"d_vitamin": 0,
+"calcium": 631,
+"cobalamin": 0,
+"magnesium": 335,
+"iren": 7.7
+},
+"categories": [
+"desseret",
+"lunch",
+"low_carb",
+"low_fat",
+"rich_fiber",
+"snack",
+"300_400"
+]
+},
+{
+"id": 61,
+"description": {
+"tr": "Lezzetli ve sağlıklı bir kek denemeye ne dersiniz?",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F61.jpg?alt=media&token=9bcb9db8-589d-441a-b965-874308bf8b48",
+"title": {
+"tr": "Havuçlu Kek",
+"en": ""
+},
+"porsion": "6",
+"time": "40",
+"difficulty": "medium",
+"caloriesDesc": {
+"tr": "1 porsiyon 100 kcal",
+"en": "1 porsion 100 kcal"
+},
+"calories": "100",
+"materials": {
+"tr": [
+"6 porsiyon için",
+"1 adet yumurta",
+"1/2 çay bardağı süt",
+"2 çay bardağı yulaf ezmesi",
+"2 adet havuç",
+"2 tatlı kaşığı keçiboynuzu unu (alternatif olarak bal, pekmez veya protein tozu kullanılabilir.)",
+"1 tatlı kaşığı tarçın",
+"1 avuç fındık"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"Büyükçe bir kasenin içine 1 yumurta kırılır.",
+"Tatlandırmak için tercih ettiğiniz besinlerden biri (keçiboynuzu unu, bal, pekmez, protein tozu) yumurtanın üzerine eklenir.",
+"Diğer malzemeleri eklemeden önce bu iki malzeme güzelce karıştırılır.",
+"Çırpılan karışımın üzerine yarım çay bardağı süt eklenir.",
+"Başka bir kapta iki çay bardağı kadar yulaf ezmesi blenderdan geçirilerek un kıvamına getirilir.",
+"Un kıvamına getirilen yulaf ezmesinin üzerine yarım paket kabartma tozu ve 1 tatlı kaşığı kadar tarçın eklenir. Kuru malzemelerden oluşan bu karışım güzelce karıştırılır. Daha sonra hazırlanan diğer karışımın üzerine eklenir.",
+"Havanda dövülmüş bir avuç fındık ve rendelenmiş 2 adet havuç karışımın üzerine eklenir.",
+"Kek kalıbı hindistan cevizi yağı veya tereyağı ile yağlandıktan sonra hazırlanan harç kek kalıbına dökülür.",
+"Önceden ısıtılmış 180 derecelik fırında 20-25 dakika kadar pişirilir. Afiyet olsun!"
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 4.3,
+"saturated_fat": 1.3,
+"polyunsaturated_fat": 0.3,
+"monounsaturated_fat": 0.3,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 12.5,
+"dietary_fiber": 3.1,
+"sugar": 0,
+"protein": 4.1,
+"a_vitamin": 0,
+"b_vitamin": 0.3,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 6
+},
+"categories": [
+"dessert",
+"low_calories",
+"low_carb",
+"low_fat",
+"snack",
+"100_200"
+]
+},
+{
+"id": 62,
+"description": {
+"tr": "Kahvaltıda veya öğünlerde tüketebileceğiniz sağlıklı ve lezzetli ekmek yapmaya ne dersiniz?",
+"en": ""
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F62.jpg?alt=media&token=1a3542eb-03bc-4142-997a-e1a083d082fb",
+"title": {
+"tr": "Muz Ekmeği",
+"en": ""
+},
+"porsion": "7",
+"time": "50",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 216 kcal",
+"en": "1 porsiyon 216 kcal"
+},
+"calories": "216",
+"materials": {
+"tr": [
+"3 adet muz",
+"200 g yulaf ezmesi",
+"2 adet yumurta",
+"1 paket kabartma tozu ",
+"20 g bitter damla çikolata",
+"yarım avuç kuru üzüm",
+"1 tatlı kaşığı kakao",
+"1 tatlı kaşığı keçiboynuzu unu"
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+"200 gram yulaf ezmesi blenderdan geçirilirek un kıvamına getirilir. (Uğraşmak istemezseniz direkt yulaf kepeği de kullanabilirsiniz.)",
+"3 adet muz ezilerek püre kıvamına getirilir.",
+"2 adet yumurta çırpılarak hazırlanan harcın üzerine eklenir.",
+"Daha sonra tatlandırmak için bir miktar keçiboynuzu unu ilave edilir. (Keçiboynuzu unu yerine hurma veya kuru meyvelerden de yararlanabilirsiniz.)",
+"Ekmek kıvamına gelmesi için yarım paket kabartma tozu hazırlanan harcın üzerine eklenir.",
+"Son olarak bir avuç bitter damla çikolata ve yarım avuç kadar kuru üzüm eklenerek tüm malzemeler iyice karıştırılır.",
+"Kek kalıbı hindistan cevizi yağı veya tereyağı ile yağlandıktan sonra kalıbın içi kakao ile kaplanır.",
+"Hazırlanan harç kek kalıbına alınır ve önceden ısıtılmış 200 derecelik fırında 40 dakika kadar pişirilir. Afiyet olsun."
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 4.5,
+"saturated_fat": 1.5,
+"polyunsaturated_fat": 0.5,
+"monounsaturated_fat": 0.5,
+"cholesterol": 0,
+"sodium": 49,
+"potassium": 61,
+"carbohydrate": 37,
+"dietary_fiber": 5,
+"sugar": 5,
+"protein": 7,
+"a_vitamin": 38,
+"b_vitamin": 0.3,
+"c_vitamin": 9.5,
+"d_vitamin": 0,
+"calcium": 80,
+"cobalamin": 0,
+"magnesium": 26,
+"iren": 0.2
+},
+"categories": [
+"breakfast",
+"healthy",
+"low_fat",
+"200_300",
+"snack"
+]
+}
+],
+"offTheDay": {
+"breakfast": {
+"id": 20,
+"description": {
+"tr": "Yüksek protein oranı ile hem doyurucu hem de sağlıklı bir kahvaltıya ne dersiniz?",
+"en": "How about a hearty and healthy breakfast with a high protein ratio?"
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/meslekanalizi-47f28.appspot.com/o/20.jpg?alt=media&token=d50adb35-7164-4390-a153-32e8f58105c3",
+"title": {
+"tr": "Peynirli omlet",
+"en": "Cheese Omelette"
+},
+"porsion": "1",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 297",
+"en": "1 porsion 297 kcal"
+},
+"calories": "297",
+"materials": {
+"tr": [
+"100 g lor peyniri",
+"2 dilim kaşar",
+"Tam tahıllı veya kepekli ekmek",
+"Domates suyu (domates püresi veya salçayı sulandırarak da kullanabilirsiniz)"
+],
+"en": [
+"100 g curd cheese",
+"2 slices of cheddar",
+"Whole-grain or wholemeal bread",
+"Tomato juice (you can also dilute tomato puree or tomato paste)"
+]
+},
+"recipe": {
+"tr": [
+"Kaşarları küçük küçük doğruyoruz.",
+"Lor peynirini domates suyuyla veya domates püresiyle biraz sulandırarak karıştırıyoruz.",
+"Ekmeği kestikten sonra alt ve üst katmana kaşarları, aralarına da lor peynirini koyuyoruz.",
+"Tost makinesinde pişirdikten sonra dilimliyoruz.",
+"Afiyet olsun!"
+],
+"en": [
+"We chop the cheddar small.",
+"We mix the curd cheese with tomato juice or tomato puree by diluting it a little.",
+"After cutting the bread, we put the cheddar on the top and bottom layers, and the curd cheese between them.",
+"We slice it after cooking in the toaster.",
+"Bon Appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 14.3,
+"saturated_fat": 10.1,
+"polyunsaturated_fat": 3.1,
+"monounsaturated_fat": 2.1,
+"cholesterol": 215,
+"sodium": 521,
+"potassium": 378,
+"carbohydrate": 11.1,
+"dietary_fiber": 0.9,
+"sugar": 12,
+"protein": 21.1,
+"a_vitamin": 364,
+"b_vitamin": 1.4,
+"c_vitamin": 39.7,
+"d_vitamin": 0,
+"calcium": 441,
+"cobalamin": 0.25,
+"magnesium": 27,
+"iren": 0.3
+},
+"categories": [
+"breakfast",
+"low_carb",
+"rich_protein",
+"sugarless",
+"200_300"
+]
+},
+"lunch": {
+"id": 11,
+"description": {
+"tr": "İçerdiği lif ve chia tohumu sayesinde sizi tok tutacaktır. Sağlıklı bir atıştırmalık olarak tercih edebilirsiniz.",
+"en": "Thanks to the fiber and chia seeds it contains, it will keep you full. You can choose it as a healthy snack."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F11.jpg?alt=media&token=fb703061-4649-4f6e-9fa5-0124d8838985",
+"title": {
+"tr": "Lif enerji lapası",
+"en": "Fiber energy porridge"
+},
+"porsion": "1",
+"time": "10",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 450 kcal",
+"en": "1 porsion 450 kcal"
+},
+"calories": "450",
+"materials": {
+"tr": [
+"3/4 su bardağı yulaf ezmesi",
+"Yarım su bardağı su",
+"Yarım adet dilimlenmiş muz",
+"1 adet küp küp doğranmış hurma",
+"1 yemek kaşığı kakao",
+"1 tatlı kaşığı chia",
+"1 çay kaşığı tarçın",
+"Üzeri için:",
+"Yarım adet muz veya istediğiniz meyveler",
+"1-2 tatlı kaşığı fıstık ezmesi",
+"1 çay kaşığı ham kakao parçacığı veya bitter damla çikolata",
+"4-5 adet çiğ badem içi"
+],
+"en": [
+"3/4 cup oatmeal",
+"Half a glass of water",
+"Half a sliced ​​banana",
+"1 diced persimmon",
+"1 tablespoon of cocoa",
+"1 teaspoon of chia",
+"1 teaspoon of cinnamon",
+"For the above:",
+"Half a banana or any fruit you want",
+"1-2 teaspoons of peanut butter",
+"1 teaspoon of raw cocoa powder or dark chocolate chips",
+"4-5 raw almond kernels"
+]
+},
+"recipe": {
+"tr": [
+"Yulaf ezmesini, muz dilimlerini, hurmaları, ham kakaoyu, chiayı ve tarçını su ile birlikte çelik tencerede yaklaşık 7-8 dakika pişiriyoruz.",
+"Servis edeceğimiz kaseye koyuyoruz.",
+"Üzerine meyve dilimleri, fıstık ezmesi, çiğ badem ve kakao parçacıkları gezdirip afiyetle tüketiyoruz. "
+],
+"en": [
+"We cook oatmeal, banana slices, dates, raw cocoa, chia and cinnamon in a steel pot with water for about 7-8 minutes.",
+"We put it in the bowl we will serve.",
+"We drizzle fruit slices, peanut butter, raw almonds and cocoa chips on it and enjoy it."
+]
+},
+"nutritive_value": {
+"total_fat": 9.4,
+"saturated_fat": 0.2,
+"polyunsaturated_fat": 0.4,
+"monounsaturated_fat": 0.4,
+"cholesterol": 0,
+"sodium": 51,
+"potassium": 666,
+"carbohydrate": 79,
+"dietary_fiber": 19.7,
+"sugar": 63,
+"protein": 13.3,
+"a_vitamin": 440,
+"b_vitamin": 0.2,
+"c_vitamin": 1.4,
+"d_vitamin": 0,
+"calcium": 172,
+"cobalamin": 0,
+"magnesium": 363,
+"iren": 7.3
+},
+"categories": [
+"dessert",
+"snack",
+"breakfast",
+"rich_fiber",
+"rich_protein",
+"low_carb",
+"low_fat",
+"lunch",
+"400_500"
+]
+},
+"snack": {
+"id": 18,
+"description": {
+"tr": "Muhteşem bir protein kaynağı olan fıstık ezmesini özellikle sporcular çok sık tüketmektedir. Çoklu doymamış yağlar içerir. Bu yağlar doymuş olduğu için kalp krizi riskini azaltır ve kötü kolestrol seviyesinin düşmesine yardımcı olur.",
+"en": "Especially athletes consume peanut butter, which is a great source of protein, very often. Contains polyunsaturated fats. Since these fats are saturated, they reduce the risk of heart attack and help lower bad cholesterol levels."
+},
+"image": "https://firebasestorage.googleapis.com/v0/b/diet-app-2d6ed.appspot.com/o/images%2F18.jpg?alt=media&token=0194f955-ee71-4acc-8dde-ce6c6fc855ba",
+"title": {
+"tr": "Fıstık ezmesi ",
+"en": "Peanut butter"
+},
+"porsion": "10",
+"time": "15",
+"difficulty": "easy",
+"caloriesDesc": {
+"tr": "1 porsiyon 101 kcal",
+"en": "1 porsion 101 kcal"
+},
+"calories": "101",
+"materials": {
+"tr": [
+"160 g tuzsuz fıstık (1 orta boy kase)",
+"1 yemek kaşığı hindistan cevizi yağı veya zeytinyağı (isteğe bağlı)",
+"1 tatlı kaşığı bal"
+],
+"en": [
+"160 g unsalted peanuts (1 medium bowl)",
+"1 tablespoon of coconut oil or olive oil (optional)",
+"1 teaspoon of honey"
+]
+},
+"recipe": {
+"tr": [
+"Fıstıkların kabukları soyulur ve tavada 5 dakika kadar kavrulur.",
+"Rondo veya blender yardımıyla iyice parçalanır.",
+"İsteğe göre bal ekleyerek tatlandırılır ve yağ ekleyerek akışkan kıvama getirilir.",
+"İyice karıştırılır, afiyet olsun!"
+],
+"en": [
+"Peanuts are peeled and roasted in the pan for 5 minutes.",
+"It is thoroughly shredded with the help of a rondo or blender.",
+"It is sweetened by adding honey to taste and brought to a fluid consistency by adding oil.",
+"Mix well, bon appetit!"
+]
+},
+"nutritive_value": {
+"total_fat": 8.9,
+"saturated_fat": 2.3,
+"polyunsaturated_fat": 0.5,
+"monounsaturated_fat": 0.7,
+"cholesterol": 0,
+"sodium": 17,
+"potassium": 649,
+"carbohydrate": 3,
+"dietary_fiber": 1.4,
+"sugar": 9,
+"protein": 4.1,
+"a_vitamin": 0,
+"b_vitamin": 0.5,
+"c_vitamin": 1.9,
+"d_vitamin": 0,
+"calcium": 43,
+"cobalamin": 0,
+"magnesium": 154,
+"iren": 1.9
+},
+"categories": [
+"breakfast",
+"dessert",
+"low_carb",
+"snack",
+"rich_fiber",
+"healthy",
+"100_200"
+]
+},
+"dinner": {
+"id": 8,
+"description": {
+"tr": "",
+"en": ""
+},
+"image": "",
+"title": {
+"tr": "",
+"en": ""
+},
+"porsion": "",
+"time": "",
+"difficulty": "",
+"caloriesDesc": {
+"tr": "",
+"en": ""
+},
+"calories": "280",
+"materials": {
+"tr": [
+""
+],
+"en": [
+""
+]
+},
+"recipe": {
+"tr": [
+""
+],
+"en": [
+""
+]
+},
+"nutritive_value": {
+"total_fat": 0,
+"saturated_fat": 0,
+"polyunsaturated_fat": 0,
+"monounsaturated_fat": 0,
+"cholesterol": 0,
+"sodium": 0,
+"potassium": 0,
+"carbohydrate": 0,
+"dietary_fiber": 0,
+"sugar": 0,
+"protein": 0,
+"a_vitamin": 0,
+"b_vitamin": 0,
+"c_vitamin": 0,
+"d_vitamin": 0,
+"calcium": 0,
+"cobalamin": 0,
+"magnesium": 0,
+"iren": 0
+},
+"categories": [
+""
+]
+}
+}
+}
